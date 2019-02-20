@@ -1,0 +1,46 @@
+body{
+    @include font-face(Walkway, "./fonts/Walkway/Walkway_Black");
+    @include font-face(LibreFranklin, "./fonts/LibreFranklin/librefranklin_black");
+    font-family: Walkway;
+    //background-color: green !important;
+}
+
+h1{
+
+}
+h2{
+    font-size: 48px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+h3{
+    font-size: 36px;
+}
+h4{
+
+}
+h5{
+
+}
+#bread{
+    font-size: 28px;
+    ol{
+        background-color: $color-marron;
+        .breadcrumb-item{
+            font-size: 28px;
+            &:before{
+                color: $black;
+                font-weight: 800;
+            }
+            a{
+                color: $black;
+                font-weight: 800;
+            }
+        }
+    }
+    .breadcrumb-item.active {
+        color: $color-blue;
+        font-weight: 800;
+    }
+}

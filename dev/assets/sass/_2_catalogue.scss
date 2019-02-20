@@ -1,0 +1,109 @@
+.section-catalogue{
+    .icon{
+        font-size: $font-size--large-icon ;
+        &-Filtres_recherche:before {
+          content: "\e925";
+          display: inline-block;
+        }
+        &-rotate:before{
+            content: "\e925";
+            display: inline-block;
+            transform: rotate(90deg);
+            transition-duration: 0.5s;
+        }
+    }
+    &_contain{
+        &-top--item{
+            @include en-tete();
+        }
+        &-left{
+            margin-left: $margin-height--regular*2 ;
+            &--item{
+                background-color: $grey;
+                height: $line-height--x-large ;
+                h3{
+                    color: $white;
+                    margin: auto;
+                }
+            }
+            &_form{
+                width: 100%;
+                background-color: #dcdcdc;
+                padding-left: $padding-height--regular--mid;
+                font-family: $font-family--tertiary;
+                legend{
+                    font-weight: bold;
+                    font-size: $font-size--xx-large;
+                }
+                input[type=checkbox]{
+                    display: none;
+                }
+                input[type=checkbox] + label:before {
+                    background: #fff;
+                    border: 2px solid $color-red;
+                    border-radius: 50%;
+                    margin-top: -3px;
+                    margin-right: 6px;
+                    display: inline-block;
+                    vertical-align: middle;
+                    content: '';
+                    width: 17px;
+                    height: 17px;
+                }
+                /* Affichage du bouton checkbox personnalisé quand il est sélectionné */
+                input[type=checkbox]:checked + label:before {
+                    background: $grey;
+                    border-color: $color-red;
+                    box-shadow: inset 0px 0px 0px 2px #fff;
+                }
+                .element{
+                    margin-bottom:$margin-height--small+4;
+                }
+                label{
+                    cursor:pointer;
+                }
+                @each $categorie in $categories{
+                  &_field-#{$categorie}{
+                      &_col2{
+                          margin-left: -$margin-height--regular;
+                      }
+                    label{
+                        font-size: $font-size--x-large;
+                    }
+                  }
+                }
+
+            }
+        }
+        &-right{
+            .line{
+                margin-bottom: $margin-height--x-large+10;
+            }
+            .contain{
+                position: relative;
+                z-index: 1;
+                .item{
+                    z-index: 2;
+                    .contain-icons{
+                        display: none;
+                        position: absolute;
+                        bottom: $line-height--spe ;
+                        .icon{
+                            margin-left: $margin-height--regular--mid;
+                            font-size: $line-height--xx-large;
+                        }
+                        a{
+                            text-decoration: none;
+                        }
+                    }
+                    &:hover{
+                        .contain-icons{
+                            display: block;
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+}

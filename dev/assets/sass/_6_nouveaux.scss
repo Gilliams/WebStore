@@ -1,0 +1,34 @@
+.section-nouveaute{
+    &--title{
+        @include en-tete();
+    }
+    &_contain{
+        .line{
+            margin-bottom: $margin-height--x-large+10;
+        }
+        .contain{
+            position: relative;
+            z-index: 1;
+            .item{
+                z-index: 2;
+                .contain-icons{
+                    display: none;
+                    position: absolute;
+                    bottom: $line-height--spe ;
+                    .icon{
+                        margin-left: $margin-height--regular--mid;
+                        font-size: $line-height--xx-large;
+                    }
+                    a{
+                        text-decoration: none;
+                    }
+                }
+                &:hover{
+                    .contain-icons{
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}

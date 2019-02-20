@@ -1,0 +1,127 @@
+body{
+    width: 100%;
+}
+
+header {
+    .input{
+        font-size: $font-size--xx-large;
+        font-weight: $font-weight--x-regular;
+        border: 2px solid $black;
+        width: 660px;
+        height: $line-height--large-spe;
+        &::placeholder{
+            padding-left: $padding-height--regular   ;
+        }
+    }
+    .logo{
+        margin: 34px;
+    }
+    .login{
+        font-size: 36px;
+        .icon-User{
+            margin-top: $margin-height--small;
+            display: inline-block;
+            .path1:before {
+              content: "\e91f";
+              color: #e62d2e;
+              font-size: 50px;
+            }
+            .path2:before {
+              content: "\e920";
+              color: #fff;
+              margin-left: -1em;
+              font-size: 50px;
+            }
+        }
+        a{
+            color: $black;
+            text-decoration: none;
+            font-weight: $font-weight--bold;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+
+.icon-Search{
+    position: absolute;
+    top: -$margin-height--small;
+    left: 630px;
+    .path1:before {
+      content: "\e91d";
+      color: #000;
+      font-size: 80px;
+    }
+    .path2:before {
+      content: "\e91e";
+      color: #fff;
+      margin-left: -1em;
+      font-size: 80px;
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////
+//  NAVIGATION
+///////////////////////////////////////////////////////////////////////////////
+
+
+
+.nav {
+    height: $line-height--xx-large ;
+    margin-bottom: 190px;
+    &__col{
+        width: 480px;
+        font-size: $font-size--xxxx-large ;
+        font-weight: $font-weight--x-regular ;
+        text-align: center;
+        background-color: #f3924c;
+        &:hover{
+            background-color: $color-blue;
+            .nav__col__child{
+                display: block;
+            }
+        }
+        &--item{
+            height: $line-height--xx-large;
+            margin: auto;
+            text-align: center;
+        }
+        a{
+            color: $black;
+            text-decoration: none;
+            &:hover{
+                color: $black;
+                text-decoration: none;
+            }
+        }
+        &__child{
+            display: none;
+            hr{
+                width: ($line-height--xx-large/2);
+                border-top: 4px solid $color-marron;
+                margin-top: -4px;
+                margin-bottom: 0px;
+            }
+            &--item{
+                margin: auto;
+                text-align: center;
+                height: $line-height--large-spe;
+                font-size: $font-size--xx-large ;
+                background-color: $black;
+                a{
+                    color: $color-marron;
+                    text-decoration: none;
+                }
+                &:hover{
+                    background-color: $color-marron;
+                    a{
+                        color: $black;
+                    }
+                }
+
+            }
+        }
+    }
+}

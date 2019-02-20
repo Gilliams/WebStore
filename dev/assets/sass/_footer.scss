@@ -1,0 +1,116 @@
+footer{
+    background-color: $black;
+    color: $white;
+    height: $line-height--xxx-large;
+    padding: 50px 0px 20px 36px;
+    margin-top: $margin-height--xx-large;
+    a{
+        text-decoration: none;
+        color: $white;
+        font-size: $font-size--x-large;
+        font-weight: $font-weight--bold;
+    }
+    li{
+        list-style: none;
+    }
+    .col-small{
+        &--item-title{
+            a{
+                font-size: $font-size--x-large;
+                font-weight: $font-weight--ultra-bold;
+            }
+        }
+    }
+    .col-center{
+        text-align: center;
+        font-weight: $font-weight--bold ;
+        &__row-top{
+            margin-top: ($margin-height--xx-large/2) ;
+            a{
+                margin-left: $margin-height--xxx-large;
+            }
+        }
+        &__row-middle{
+            margin-top: $margin-height--regular ;
+            ul{
+                margin: auto;
+                text-align: center;
+            }
+        }
+        &__row-bottom{
+            margin-top: $margin-height--regular ;
+            &--item{
+                margin: auto;
+                font-size: $font-size--x-large ;
+            }
+        }
+    }
+    .col-right{
+        &__row-top{
+            margin-top: $margin-height--xx-large ;
+            padding-left: $padding-height--xx-large;
+        }
+        &__row-bottom{
+            margin-top: ($margin-height--xx-large/2) ;
+        }
+    }
+}
+
+
+///////////////////////////////////////////////////////////////////////
+// ICONES
+///////////////////////////////////////////////////////////////////////
+
+
+.icon{
+    font-size: $font-size--xxxx-large;
+    &-Facebook {
+        &.path1:before {
+          content: "\e92e";
+          color: $black;
+        }
+        &.path2:before {
+          content: "\e92f";
+          color: $white;
+          margin-left: -1em;
+        }
+    }
+    &-Instagram {
+        &.path1:before {
+          content: "\e932";
+          color: $white;
+        }
+        &.path2:before {
+          content: "\e933";
+          color: $black;
+          margin-left: -1em;
+        }
+        &.path3:before {
+          content: "\e934";
+          color: $black;
+          margin-left: -1em;
+        }
+        &.path4:before {
+          content: "\e935";
+          color: $black;
+          margin-left: -1em;
+        }
+        &.path5:before {
+          content: "\e936";
+          color: $black;
+          margin-left: -1em;
+        }
+    }
+    &-Twitter {
+        .path1:before {
+          content: "\e930";
+          color: $black;
+        }
+        &.path2:before {
+          content: "\e931";
+          color: $white;
+          margin-left: -1em;
+        }
+    }
+
+}

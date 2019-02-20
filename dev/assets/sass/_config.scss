@@ -1,0 +1,90 @@
+// ==========================================================================
+// Global Config
+// ==========================================================================
+
+// Paste Snippets
+
+// Font Stacks
+
+$font-family--primary         : 'Walkway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family--secondary       : 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family--tertiary        : 'LibreFranklin';
+
+// Font Weights
+$font-weight--thin            : 100;
+$font-weight--light           : 300;
+$font-weight--regular         : 400;
+$font-weight--x-regular       : 600;
+$font-weight--bold            : 700;
+$font-weight--ultra-bold      : 900;
+
+
+// Text
+
+$font-size--x-small           : 10px;
+$font-size--small             : 13px;
+$font-size--regular           : 14px;
+$font-size--large             : 18px;
+$font-size--large-icon        : 20px;
+$font-size--x-large           : 24px;
+$font-size--xx-large          : 30px;
+$font-size--xxx-large         : 40px;
+$font-size--xxxx-large        : 60px;
+
+
+// Descriptive Base Colors
+
+$white                        : #fff;
+$black                        : #1f1b1a;
+$grey                         : #3d3d3d;
+$light-grey                   : #dcdcdc;
+
+
+// Color Usage
+
+$color-red                    : #e62d2e ;
+$color-blue                   : #008ec0 ;
+$color-orange                 : #f3a700 ;
+$color-marron                 : #f3924c ;
+
+
+
+// Height
+$line-height--x-small         : 12px;
+$line-height--small           : 15px;
+$line-height--regular         : 15px;
+$line-height--spe             : 20px;
+$line-height--large           : 30px;
+$line-height--large-spe       : 60px;
+$line-height--x-large         : 80px;
+$line-height--xx-large        : 100px;
+$line-height--xxx-large       : 300px;
+
+
+// Margin
+
+$margin-height--small         : 10px;
+$margin-height--regular       : 20px;
+$margin-height--regular--mid  : 25px;
+$margin-height--large         : 60px;
+$margin-height--x-large       : 80px;
+$margin-height--xx-large      : 100px;
+$margin-height--xxx-large     : 200px;
+$margin-height--xxxx-large    : 400px;
+
+
+// Padding
+
+$padding-height--small        : 10px;
+$padding-height--regular      : 20px;
+$padding-height--regular--mid : 25px;
+$padding-height--large        : 60px;
+$padding-height--x-large      : 80px;
+$padding-height--xx-large     : 100px;
+$padding-height--xxx-large    : 200px;
+$padding-height--xxxx-large   : 400px;
+
+
+// Loop
+
+$categories:  'genre', 'nationnalite', 'date-sortie', 'langues', 'public', 'statut', 'prix', 'format';
