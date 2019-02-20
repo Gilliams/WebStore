@@ -1,0 +1,47 @@
+main.accueil{
+	padding: 50px;
+	h2{
+		//font-family: 'Walkway Bold';
+		text-align: center;
+		text-transform: uppercase;
+		color:$color-orange;
+		background-color: $black;
+		padding: 5px 0;
+		margin:20px;
+	}
+	.slider{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin:20px;
+		.article{
+			position: relative;
+			img{
+				max-width: 200px;
+			}
+			.hoverIcons{
+				display: none;
+			}
+			&:hover .hoverIcons{
+				display: block;
+				position: absolute;
+				background-color: rgba(0,0,0,.5);
+				color: #f3924c;
+				bottom: 10px;
+			}
+		}
+	}
+	.sliderButton{
+		display: flex;
+		justify-content: center;
+		a{
+			display: block;
+			width: 15px;
+			height: 15px;
+			background-color: orange;
+			border-radius: 10px;
+			border: 2px solid orange;
+			margin:5px;
+		}
+	}
+}

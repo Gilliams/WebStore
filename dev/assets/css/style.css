@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\000031}}
 body {
   font-family: Walkway; }
 @font-face {
@@ -9,272 +10,353 @@ body {
   body {
     font-family: "LibreFranklin";
     src: url("./fonts/LibreFranklin/librefranklin_black.eot?") format("eot"), url("./fonts/LibreFranklin/librefranklin_black.woff2") format("woff2"), url("./fonts/LibreFranklin/librefranklin_black.woff") format("woff"), url("./fonts/LibreFranklin/librefranklin_black.ttf") format("truetype"), url("./fonts/LibreFranklin/librefranklin_black.svg#LibreFranklin") format("svg"); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000311}}
 h2 {
   font-size: 48px;
   font-weight: 800;
   text-transform: uppercase;
   margin-bottom: 0px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000317}}
 h3 {
   font-size: 36px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000326}}
 #bread {
   font-size: 28px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000328}}
   #bread ol {
     background-color: #f3924c; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000330}}
     #bread ol .breadcrumb-item {
       font-size: 28px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000332}}
       #bread ol .breadcrumb-item:before {
         color: #1f1b1a;
         font-weight: 800; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000336}}
       #bread ol .breadcrumb-item a {
         color: #1f1b1a;
         font-weight: 800; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_base\.scss}line{font-family:\0000342}}
   #bread .breadcrumb-item.active {
     color: #008ec0;
     font-weight: 800; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_icons\.scss}line{font-family:\000031}}
 .icon-Addtocart .path1:before {
   content: "\e916";
   color: #1f1b1a; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_icons\.scss}line{font-family:\000035}}
 .icon-Addtocart .path2:before {
   content: "\e917";
   color: #f3a700;
   margin-left: -1em; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_icons\.scss}line{font-family:\0000310}}
 .icon-Addtocart .path3:before {
   content: "\e918";
   color: #1f1b1a;
   margin-left: -1em; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_icons\.scss}line{font-family:\0000315}}
 .icon-Details .path1:before {
   content: "\e91b";
   color: #1f1b1a; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_icons\.scss}line{font-family:\0000319}}
 .icon-Details .path2:before {
   content: "\e91c";
   color: #f3a700;
   margin-left: -1em; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\000031}}
 body {
   width: 100%; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\000036}}
 header .input {
   font-size: 30px;
   font-weight: 600;
   border: 2px solid #1f1b1a;
   width: 660px;
   height: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000312}}
+  header .input::-webkit-input-placeholder {
+    padding-left: 20px; }
+  header .input:-ms-input-placeholder {
+    padding-left: 20px; }
+  header .input::-ms-input-placeholder {
+    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000316}}
 header .logo {
   margin: 34px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000319}}
 header .login {
   font-size: 36px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000321}}
   header .login .icon-User {
     margin-top: 10px;
     display: inline-block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000324}}
     header .login .icon-User .path1:before {
       content: "\e91f";
       color: #e62d2e;
       font-size: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000329}}
     header .login .icon-User .path2:before {
       content: "\e920";
       color: #fff;
       margin-left: -1em;
       font-size: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000336}}
   header .login a {
     color: #1f1b1a;
     text-decoration: none;
     font-weight: 700; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000340}}
     header .login a:hover {
       text-decoration: none; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000348}}
 .icon-Search {
   position: absolute;
   top: -10px;
   left: 630px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000352}}
   .icon-Search .path1:before {
     content: "\e91d";
     color: #000;
     font-size: 80px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000357}}
   .icon-Search .path2:before {
     content: "\e91e";
     color: #fff;
     margin-left: -1em;
     font-size: 80px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000371}}
 .nav {
   height: 100px;
   margin-bottom: 190px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000374}}
   .nav__col {
     width: 480px;
     font-size: 60px;
     font-weight: 600;
     text-align: center;
     background-color: #f3924c; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000380}}
     .nav__col:hover {
       background-color: #008ec0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000382}}
       .nav__col:hover .nav__col__child {
         display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000386}}
     .nav__col--item {
       height: 100px;
       margin: auto;
       text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000391}}
     .nav__col a {
       color: #1f1b1a;
       text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000394}}
       .nav__col a:hover {
         color: #1f1b1a;
         text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\0000399}}
     .nav__col__child {
       display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\00003101}}
       .nav__col__child hr {
         width: 50px;
         border-top: 4px solid #f3924c;
         margin-top: -4px;
         margin-bottom: 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\00003107}}
       .nav__col__child--item {
         margin: auto;
         text-align: center;
         height: 60px;
         font-size: 30px;
         background-color: #1f1b1a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\00003113}}
         .nav__col__child--item a {
           color: #f3924c;
           text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\00003117}}
         .nav__col__child--item:hover {
           background-color: #f3924c; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_header\.scss}line{font-family:\00003119}}
           .nav__col__child--item:hover a {
             color: #1f1b1a; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\000031}}
 footer {
   background-color: #1f1b1a;
   color: #fff;
   height: 300px;
   padding: 50px 0px 20px 36px;
   margin-top: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\000037}}
   footer a {
     text-decoration: none;
     color: #fff;
     font-size: 24px;
     font-weight: 700; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000313}}
   footer li {
     list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000318}}
   footer .col-small--item-title a {
     font-size: 24px;
     font-weight: 900; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000324}}
   footer .col-center {
     text-align: center;
     font-weight: 700; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000327}}
     footer .col-center__row-top {
       margin-top: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000329}}
       footer .col-center__row-top a {
         margin-left: 200px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000333}}
     footer .col-center__row-middle {
       margin-top: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000335}}
       footer .col-center__row-middle ul {
         margin: auto;
         text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000340}}
     footer .col-center__row-bottom {
       margin-top: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000342}}
       footer .col-center__row-bottom--item {
         margin: auto;
         font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000349}}
   footer .col-right__row-top {
     margin-top: 100px;
     padding-left: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000353}}
   footer .col-right__row-bottom {
     margin-top: 50px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000365}}
 .icon {
   font-size: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000368}}
   .icon-Facebook.path1:before {
     content: "\e92e";
     color: #1f1b1a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000372}}
   .icon-Facebook.path2:before {
     content: "\e92f";
     color: #fff;
     margin-left: -1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000379}}
   .icon-Instagram.path1:before {
     content: "\e932";
     color: #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000383}}
   .icon-Instagram.path2:before {
     content: "\e933";
     color: #1f1b1a;
     margin-left: -1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000388}}
   .icon-Instagram.path3:before {
     content: "\e934";
     color: #1f1b1a;
     margin-left: -1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000393}}
   .icon-Instagram.path4:before {
     content: "\e935";
     color: #1f1b1a;
     margin-left: -1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\0000398}}
   .icon-Instagram.path5:before {
     content: "\e936";
     color: #1f1b1a;
     margin-left: -1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\00003105}}
   .icon-Twitter .path1:before {
     content: "\e930";
     color: #1f1b1a; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_footer\.scss}line{font-family:\00003109}}
   .icon-Twitter.path2:before {
     content: "\e931";
     color: #fff;
     margin-left: -1em; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\000032}}
 .section-promo .icon {
   font-size: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\000034}}
   .section-promo .icon-center-film {
     font-size: 176px;
     position: absolute;
     top: 300px;
     left: 210px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000310}}
     .section-promo .icon-center-film:hover .prix {
       display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000315}}
   .section-promo .icon-center-music {
     font-size: 176px;
     position: absolute;
     top: 210px;
     left: 210px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000321}}
     .section-promo .icon-center-music:hover .prix {
       display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000327}}
 .section-promo .prix {
   display: block;
   position: absolute;
   top: 0px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000333}}
 .section-promo_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
   height: 80px;
   margin-bottom: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000338}}
 .section-promo_contain-bottom--item-img-film {
   width: 300px;
   height: 400px;
   background: url("https://picsum.photos/300/400/?random");
   background-repeat: no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000344}}
   .section-promo_contain-bottom--item-img-film:hover a {
     display: block;
     text-decoration: none;
     width: 300px;
     height: 400px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000351}}
   .section-promo_contain-bottom--item-img-film a {
     display: none;
     padding-left: 90px;
     padding-top: 140px;
     width: 300px;
     height: 400px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000359}}
 .section-promo_contain-bottom--item-img-music {
   width: 300px;
   height: 300px;
   background: url("https://picsum.photos/300/300/?random");
   background-repeat: no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000365}}
   .section-promo_contain-bottom--item-img-music:hover a {
     display: block;
     text-decoration: none;
     width: 300px;
     height: 300px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_1_promo\.scss}line{font-family:\0000372}}
   .section-promo_contain-bottom--item-img-music a {
     display: none;
     padding-left: 100px;
@@ -282,40 +364,53 @@ footer {
     width: 300px;
     height: 300px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\000032}}
 .section-catalogue .icon {
   font-size: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\000034}}
   .section-catalogue .icon-Filtres_recherche:before {
     content: "\e925";
     display: inline-block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\000038}}
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    transform: rotate(90deg);
-    transition-duration: 0.5s; }
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+    -webkit-transition-duration: 0.5s;
+            transition-duration: 0.5s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000316}}
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
   height: 80px;
   margin-bottom: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000319}}
 .section-catalogue_contain-left {
   margin-left: 40px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000321}}
   .section-catalogue_contain-left--item {
     background-color: #3d3d3d;
     height: 80px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000324}}
     .section-catalogue_contain-left--item h3 {
       color: #fff;
       margin: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000329}}
   .section-catalogue_contain-left_form {
     width: 100%;
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "LibreFranklin";
-    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
+    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000334}}
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
       font-size: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000338}}
     .section-catalogue_contain-left_form input[type=checkbox] {
       display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000341}}
     .section-catalogue_contain-left_form input[type=checkbox] + label:before {
       background: #fff;
       border: 2px solid #e62d2e;
@@ -327,124 +422,229 @@ footer {
       content: '';
       width: 17px;
       height: 17px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000354}}
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      box-shadow: inset 0px 0px 0px 2px #fff; }
+      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
+              box-shadow: inset 0px 0px 0px 2px #fff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000359}}
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000362}}
     .section-catalogue_contain-left_form label {
       cursor: pointer; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-genre_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-genre label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-nationnalite_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-nationnalite label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-date-sortie_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-date-sortie label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-langues_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-langues label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-public_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-public label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-statut_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-statut label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-prix_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-prix label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000367}}
     .section-catalogue_contain-left_form_field-format_col2 {
       margin-left: -20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000370}}
     .section-catalogue_contain-left_form_field-format label {
       font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000379}}
 .section-catalogue_contain-right .line {
   margin-bottom: 90px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000382}}
 .section-catalogue_contain-right .contain {
   position: relative;
   z-index: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000385}}
   .section-catalogue_contain-right .contain .item {
     z-index: 2; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000387}}
     .section-catalogue_contain-right .contain .item .contain-icons {
       display: none;
       position: absolute;
       bottom: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000391}}
       .section-catalogue_contain-right .contain .item .contain-icons .icon {
         margin-left: 25px;
         font-size: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\0000395}}
       .section-catalogue_contain-right .contain .item .contain-icons a {
         text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_2_catalogue\.scss}line{font-family:\00003100}}
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
       display: block; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\000032}}
 .section-details .details {
   margin-bottom: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\000035}}
   .section-details .details-contain ul {
     list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\000038}}
   .section-details .details-contain li {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000311}}
     .section-details .details-contain li span {
       color: #f3a700; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000316}}
   .section-details .details .icon {
     margin-right: 20px;
     font-size: 80px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000320}}
   .section-details .details .bold {
     font-weight: 700; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000324}}
 .section-details .price-contain {
   position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000326}}
   .section-details .price-contain .price {
     color: inherit;
     font-size: 14px;
     position: absolute;
     top: 8px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000334}}
 .section-details .video-js {
   margin: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000336}}
   .section-details .video-js .vjs-big-play-button {
     top: 48%;
     left: 47%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000342}}
 .section-details .table th {
   color: #f3a700;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000347}}
 .section-details .table td {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 30px;
   vertical-align: middle; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_4_details\.scss}line{font-family:\0000352}}
 .section-details .table .icon {
   padding-left: 25%; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\000032}}
 .section-nouveaute--title {
   color: #f3a700;
   background-color: #1f1b1a;
   height: 80px;
   margin-bottom: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\000036}}
 .section-nouveaute_contain .line {
   margin-bottom: 90px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\000039}}
 .section-nouveaute_contain .contain {
   position: relative;
   z-index: 1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\0000312}}
   .section-nouveaute_contain .contain .item {
     z-index: 2; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\0000314}}
     .section-nouveaute_contain .contain .item .contain-icons {
       display: none;
       position: absolute;
       bottom: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\0000318}}
       .section-nouveaute_contain .contain .item .contain-icons .icon {
         margin-left: 25px;
         font-size: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\0000322}}
       .section-nouveaute_contain .contain .item .contain-icons a {
         text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_6_nouveaux\.scss}line{font-family:\0000327}}
     .section-nouveaute_contain .contain .item:hover .contain-icons {
       display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\000031}}
+main.accueil {
+  padding: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\000033}}
+  main.accueil h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #f3a700;
+    background-color: #1f1b1a;
+    padding: 5px 0;
+    margin: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000312}}
+  main.accueil .slider {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000317}}
+    main.accueil .slider .article {
+      position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000319}}
+      main.accueil .slider .article img {
+        max-width: 200px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000322}}
+      main.accueil .slider .article .hoverIcons {
+        display: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000325}}
+      main.accueil .slider .article:hover .hoverIcons {
+        display: block;
+        position: absolute;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #f3924c;
+        bottom: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000334}}
+  main.accueil .sliderButton {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/sass\/_10_accueil\.scss}line{font-family:\0000337}}
+    main.accueil .sliderButton a {
+      display: block;
+      width: 15px;
+      height: 15px;
+      background-color: orange;
+      border-radius: 10px;
+      border: 2px solid orange;
+      margin: 5px; }
 
 /*# sourceMappingURL=style.css.map */
