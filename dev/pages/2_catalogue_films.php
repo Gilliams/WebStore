@@ -60,7 +60,7 @@
                     </fieldset>
                     <fieldset id="nationnalite" class="section-catalogue_contain-left_form_field-nationnalite">
                         <div class="row">
-                            <legend><span class="icon icon-Filtres_recherche"></span>Nationnalite</legend>
+                            <legend><span class="icon icon-Filtres_recherche"></span>Nationalite</legend>
                         </div>
                         <div class="row categories">
                             <div class="col-md-6">
