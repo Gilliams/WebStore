@@ -1,7 +1,11 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-nouveaute">
-    <div class="row align-items-center justify-content-center section-nouveaute--title">
-        <h2>Nos dernieres musiques ajoutés</h2>
+    <div class="row ">
+        <div class="col-md-6 offset-3">
+            <div class="row align-items-center justify-content-center section-nouveaute--title">
+                <h2>Nos dernieres musiques ajoutés</h2>
+            </div>
+        </div>
     </div>
     <div class="col-md-9 offset-md-2 section-nouveaute_contain">
         <div class="row line">
