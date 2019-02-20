@@ -6,11 +6,12 @@ include('../templates/header.php');
 			<div class="row justify-content-center">
 				<h2 class="col-6">Nouveautés films</h2>
 				<div class="slider col-12">
+					<div class="icon-Fleche_gauche"><span class="path1"></span><span class="path2"></span></div>
 					<div class="article col-2">
 						<img src="../assets/imgs/Films/bwHdTmuk1ImqXhrGtX2HPuSabWr.jpg">
 						<div class="hoverIcons">
-							<span>Rechercher</span>
-							<span>Ajouter au panier</span>
+							<a href=""><span>Rechercher</span></a>
+							<a href=""><span>Ajouter au panier</span></a>
 						</div>
 					</div>
 					<div class="article col-2">
@@ -41,6 +42,7 @@ include('../templates/header.php');
 							<span>Ajouter au panier</span>
 						</div>
 					</div>
+					<div class="icon-Fleche_droite"><span class="path1"></span><span class="path2"></span></div>
 				</div>
 				<div class="sliderButton col-12">
 					<a href=""></a>
@@ -49,6 +51,7 @@ include('../templates/header.php');
 				</div>
 				<h2 class="col-6">Nouveautés musique</h2>
 				<div class="slider col-12">
+					<div class="icon-Fleche_gauche"><span class="path1"></span><span class="path2"></span></div>
 					<div class="article col-2">
 						<img src="../assets/imgs/Musique/61I-4Zz0d8L._SS500.jpg">
 						<div class="hoverIcons">
@@ -84,6 +87,7 @@ include('../templates/header.php');
 							<span>Ajouter au panier</span>
 						</div>
 					</div>
+					<div class="icon-Fleche_droite"><span class="path1"></span><span class="path2"></span></div>
 				</div>
 				<div class="sliderButton col-12">
 					<a href=""></a>

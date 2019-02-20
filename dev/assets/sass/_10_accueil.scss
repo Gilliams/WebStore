@@ -30,6 +30,9 @@ main.accueil{
 				bottom: 10px;
 			}
 		}
+		.icon-Fleche_droite,.icon-Fleche_gauche{
+			font-size: 40px;
+		}
 	}
 	.sliderButton{
 		display: flex;
@@ -38,10 +41,13 @@ main.accueil{
 			display: block;
 			width: 15px;
 			height: 15px;
-			background-color: orange;
+			background-color: $color-orange;
 			border-radius: 10px;
-			border: 2px solid orange;
+			border: 2px solid $color-orange;
 			margin:5px;
+			&:active{
+				background-color:red;
+			}
 		}
 	}
 }
