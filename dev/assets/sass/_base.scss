@@ -9,13 +9,13 @@ h1{
 
 }
 h2{
-    font-size: 48px;
+    font-size: $font-size--L;
     font-weight: 800;
     text-transform: uppercase;
     margin-bottom: 0px;
 }
 h3{
-    font-size: 36px;
+    font-size: $font-size--M;
 }
 h4{
 
@@ -24,11 +24,11 @@ h5{
 
 }
 #bread{
-    font-size: 28px;
+    font-size: $font-size--M;
     ol{
         background-color: $color-marron;
         .breadcrumb-item{
-            font-size: 28px;
+            font-size: $font-size--S;
             &:before{
                 color: $black;
                 font-weight: 800;

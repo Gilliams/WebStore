@@ -6,7 +6,7 @@ footer{
     a{
         text-decoration: none;
         color: $white;
-        font-size: $font-size--x-large;
+        font-size: $font-size--M;
         font-weight: $font-weight--bold;
     }
     li{
@@ -15,7 +15,7 @@ footer{
     .col-small{
         &--item-title{
             a{
-                font-size: $font-size--x-large;
+                font-size: $font-size--M;
                 font-weight: $font-weight--ultra-bold;
             }
         }
@@ -40,7 +40,7 @@ footer{
             margin-top: $margin-height--regular ;
             &--item{
                 margin: auto;
-                font-size: $font-size--x-large ;
+                font-size: $font-size--S ;
             }
         }
     }
@@ -84,7 +84,7 @@ footer{
 // =============================================================================
 
 .icon{
-    font-size: $font-size--xxxx-large;
+    font-size: $font-size--L;
     &-Facebook {
         &.path1:before {
           content: "\e92e";

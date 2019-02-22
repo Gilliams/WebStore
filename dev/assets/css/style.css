@@ -10,20 +10,20 @@ body {
     font-family: "LibreFranklin";
     src: url("./fonts/LibreFranklin/librefranklin_black.eot?") format("eot"), url("./fonts/LibreFranklin/librefranklin_black.woff2") format("woff2"), url("./fonts/LibreFranklin/librefranklin_black.woff") format("woff"), url("./fonts/LibreFranklin/librefranklin_black.ttf") format("truetype"), url("./fonts/LibreFranklin/librefranklin_black.svg#LibreFranklin") format("svg"); } }
 h2 {
-  font-size: 48px;
+  font-size: 2em;
   font-weight: 800;
   text-transform: uppercase;
   margin-bottom: 0px; }
 
 h3 {
-  font-size: 36px; }
+  font-size: 1.5em; }
 
 #bread {
-  font-size: 28px; }
+  font-size: 1.5em; }
   #bread ol {
     background-color: #f3924c; }
     #bread ol .breadcrumb-item {
-      font-size: 28px; }
+      font-size: 1em; }
       #bread ol .breadcrumb-item:before {
         color: #1f1b1a;
         font-weight: 800; }
@@ -61,7 +61,7 @@ body {
   width: 100%; }
 
 header .input {
-  font-size: 25px;
+  font-size: 2em;
   font-weight: 600;
   border: 2px solid #1f1b1a;
   width: 660px;
@@ -77,19 +77,19 @@ header .input {
 header .logo {
   margin: 34px; }
 header .login {
-  font-size: 25px; }
+  font-size: 2em; }
   header .login .icon-User {
     margin-top: 10px;
     display: inline-block; }
     header .login .icon-User .path1:before {
       content: "\e91f";
       color: #e62d2e;
-      font-size: 50px; }
+      font-size: 2em; }
     header .login .icon-User .path2:before {
       content: "\e920";
       color: #fff;
       margin-left: -1em;
-      font-size: 50px; }
+      font-size: 2em; }
   header .login a {
     color: #1f1b1a;
     text-decoration: none;
@@ -104,19 +104,19 @@ header .login {
   .icon-Search .path1:before {
     content: "\e91d";
     color: #000;
-    font-size: 80px; }
+    font-size: 2em; }
   .icon-Search .path2:before {
     content: "\e91e";
     color: #fff;
     margin-left: -1em;
-    font-size: 80px; }
+    font-size: 2em; }
 
 .nav {
   height: 100px;
   margin-bottom: 190px; }
   .nav__col {
     width: 480px;
-    font-size: 40px;
+    font-size: 2em;
     font-weight: 600;
     text-align: center;
     background-color: #f3924c; }
@@ -145,7 +145,7 @@ header .login {
         margin: auto;
         text-align: center;
         height: 60px;
-        font-size: 25px;
+        font-size: 2em;
         background-color: #1f1b1a; }
         .nav__col__child--item a {
           color: #f3924c;
@@ -175,12 +175,12 @@ footer {
   footer a {
     text-decoration: none;
     color: #fff;
-    font-size: 22px;
+    font-size: 1.5em;
     font-weight: 700; }
   footer li {
     list-style: none; }
   footer .col-small--item-title a {
-    font-size: 22px;
+    font-size: 1.5em;
     font-weight: 900; }
   footer .col-center {
     text-align: center;
@@ -198,7 +198,7 @@ footer {
       margin-top: 20px; }
       footer .col-center__row-bottom--item {
         margin: auto;
-        font-size: 22px; }
+        font-size: 1em; }
   footer .col-right__row-top {
     margin-top: 100px;
     padding-left: 100px; }
@@ -218,7 +218,7 @@ footer {
   #f-mobile {
     display: none; } }
 .icon {
-  font-size: 40px; }
+  font-size: 2em; }
   .icon-Facebook.path1:before {
     content: "\e92e";
     color: #1f1b1a; }
@@ -254,16 +254,16 @@ footer {
     margin-left: -1em; }
 
 .section-promo .icon {
-  font-size: 100px; }
+  font-size: 2em; }
   .section-promo .icon-center-film {
-    font-size: 176px;
+    font-size: 2em;
     position: absolute;
     top: 300px;
     left: 210px; }
     .section-promo .icon-center-film:hover .prix {
       display: none; }
   .section-promo .icon-center-music {
-    font-size: 176px;
+    font-size: 2em;
     position: absolute;
     top: 210px;
     left: 210px; }
@@ -312,7 +312,7 @@ footer {
     height: 300px; }
 
 .section-catalogue .icon {
-  font-size: 18px; }
+  font-size: 2em; }
   .section-catalogue .icon-Filtres_recherche:before {
     content: "\e925";
     display: inline-block; }
@@ -344,7 +344,7 @@ footer {
     /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
-      font-size: 25px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form input[type=checkbox] {
       display: none; }
     .section-catalogue_contain-left_form input[type=checkbox] + label:before {
@@ -370,35 +370,35 @@ footer {
     .section-catalogue_contain-left_form_field-genre_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-genre label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-nationnalite_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-nationnalite label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-date-sortie_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-date-sortie label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-langues_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-langues label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-public_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-public label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-statut_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-statut label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-prix_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-prix label {
-      font-size: 22px; }
+      font-size: 2em; }
     .section-catalogue_contain-left_form_field-format_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-format label {
-      font-size: 22px; }
+      font-size: 2em; }
 .section-catalogue_contain-right .line {
   margin-bottom: 90px; }
 .section-catalogue_contain-right .contain {
@@ -412,7 +412,7 @@ footer {
       bottom: 20px; }
       .section-catalogue_contain-right .contain .item .contain-icons .icon {
         margin-left: 25px;
-        font-size: 100px; }
+        font-size: 2em; }
       .section-catalogue_contain-right .contain .item .contain-icons a {
         text-decoration: none; }
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
@@ -424,19 +424,19 @@ footer {
     list-style: none; }
   .section-details .details-contain li {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 25px; }
+    font-size: 2em; }
     .section-details .details-contain li span {
       color: #f3a700; }
   .section-details .details .icon {
     margin-right: 20px;
-    font-size: 80px; }
+    font-size: 2em; }
   .section-details .details .bold {
     font-weight: 700; }
 .section-details .price-contain {
   position: relative; }
   .section-details .price-contain .price {
     color: inherit;
-    font-size: 12px;
+    font-size: 1.5em;
     position: absolute;
     top: 8px; }
 .section-details .video-js {
@@ -447,10 +447,10 @@ footer {
 .section-details .table th {
   color: #f3a700;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 25px; }
+  font-size: 2em; }
 .section-details .table td {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 25px;
+  font-size: 2em;
   vertical-align: middle; }
 .section-details .table .icon {
   padding-left: 25%; }
@@ -473,7 +473,7 @@ footer {
       bottom: 20px; }
       .section-nouveaute_contain .contain .item .contain-icons .icon {
         margin-left: 25px;
-        font-size: 100px; }
+        font-size: 2em; }
       .section-nouveaute_contain .contain .item .contain-icons a {
         text-decoration: none; }
     .section-nouveaute_contain .contain .item:hover .contain-icons {
@@ -512,7 +512,7 @@ main.accueil {
         color: #f3924c;
         bottom: 10px; }
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
-      font-size: 40px; }
+      font-size: 2em; }
   main.accueil .sliderButton {
     display: -webkit-box;
     display: -ms-flexbox;
