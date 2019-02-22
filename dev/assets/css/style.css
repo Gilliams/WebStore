@@ -61,17 +61,23 @@ body {
   width: 100%; }
 
 header .input {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 600;
   border: 2px solid #1f1b1a;
   width: 660px;
   height: 60px; }
+  header .input::-webkit-input-placeholder {
+    padding-left: 20px; }
+  header .input:-ms-input-placeholder {
+    padding-left: 20px; }
+  header .input::-ms-input-placeholder {
+    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
 header .logo {
   margin: 34px; }
 header .login {
-  font-size: 36px; }
+  font-size: 25px; }
   header .login .icon-User {
     margin-top: 10px;
     display: inline-block; }
@@ -110,7 +116,7 @@ header .login {
   margin-bottom: 190px; }
   .nav__col {
     width: 480px;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 600;
     text-align: center;
     background-color: #f3924c; }
@@ -139,7 +145,7 @@ header .login {
         margin: auto;
         text-align: center;
         height: 60px;
-        font-size: 30px;
+        font-size: 25px;
         background-color: #1f1b1a; }
         .nav__col__child--item a {
           color: #f3924c;
@@ -157,40 +163,9 @@ header .login {
     display: none; }
 
   #navbar-header {
-    display: none; }
-
-  .logo {
-    width: 150px;
-    height: auto; }
-
-  #h-input-search--mobile .icon-Search {
-    position: absolute;
-    top: -10px;
-    left: 300px; }
-    #h-input-search--mobile .icon-Search .path1:before {
-      content: "\e91d";
-      color: #000;
-      font-size: 80px; }
-    #h-input-search--mobile .icon-Search .path2:before {
-      content: "\e91e";
-      color: #fff;
-      margin-left: -1em;
-      font-size: 80px; }
-  #h-input-search--mobile .input {
-    font-size: 30px;
-    font-weight: 600;
-    border: 2px solid #1f1b1a;
-    height: 60px; }
-    #h-input-search--mobile .input::placeholder {
-      padding-left: 20px; } }
+    display: none; } }
 @media screen and (min-width: 1027px) {
   #h-mobile {
-    display: none; }
-
-  #h-logo--mobile {
-    display: none; }
-
-  #h-input-search--mobile {
     display: none; } }
 footer {
   background-color: #1f1b1a;
@@ -200,12 +175,12 @@ footer {
   footer a {
     text-decoration: none;
     color: #fff;
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 700; }
   footer li {
     list-style: none; }
   footer .col-small--item-title a {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 900; }
   footer .col-center {
     text-align: center;
@@ -223,7 +198,7 @@ footer {
       margin-top: 20px; }
       footer .col-center__row-bottom--item {
         margin: auto;
-        font-size: 24px; }
+        font-size: 22px; }
   footer .col-right__row-top {
     margin-top: 100px;
     padding-left: 100px; }
@@ -243,7 +218,7 @@ footer {
   #f-mobile {
     display: none; } }
 .icon {
-  font-size: 60px; }
+  font-size: 40px; }
   .icon-Facebook.path1:before {
     content: "\e92e";
     color: #1f1b1a; }
@@ -337,15 +312,17 @@ footer {
     height: 300px; }
 
 .section-catalogue .icon {
-  font-size: 20px; }
+  font-size: 18px; }
   .section-catalogue .icon-Filtres_recherche:before {
     content: "\e925";
     display: inline-block; }
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    transform: rotate(90deg);
-    transition-duration: 0.5s; }
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+    -webkit-transition-duration: 0.5s;
+            transition-duration: 0.5s; }
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -364,10 +341,10 @@ footer {
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "LibreFranklin";
-    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
+    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
-      font-size: 30px; }
+      font-size: 25px; }
     .section-catalogue_contain-left_form input[type=checkbox] {
       display: none; }
     .section-catalogue_contain-left_form input[type=checkbox] + label:before {
@@ -384,7 +361,8 @@ footer {
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      box-shadow: inset 0px 0px 0px 2px #fff; }
+      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
+              box-shadow: inset 0px 0px 0px 2px #fff; }
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
     .section-catalogue_contain-left_form label {
@@ -392,35 +370,35 @@ footer {
     .section-catalogue_contain-left_form_field-genre_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-genre label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-nationnalite_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-nationnalite label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-date-sortie_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-date-sortie label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-langues_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-langues label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-public_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-public label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-statut_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-statut label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-prix_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-prix label {
-      font-size: 24px; }
+      font-size: 22px; }
     .section-catalogue_contain-left_form_field-format_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-format label {
-      font-size: 24px; }
+      font-size: 22px; }
 .section-catalogue_contain-right .line {
   margin-bottom: 90px; }
 .section-catalogue_contain-right .contain {
@@ -446,7 +424,7 @@ footer {
     list-style: none; }
   .section-details .details-contain li {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 30px; }
+    font-size: 25px; }
     .section-details .details-contain li span {
       color: #f3a700; }
   .section-details .details .icon {
@@ -458,7 +436,7 @@ footer {
   position: relative; }
   .section-details .price-contain .price {
     color: inherit;
-    font-size: 14px;
+    font-size: 12px;
     position: absolute;
     top: 8px; }
 .section-details .video-js {
@@ -469,10 +447,10 @@ footer {
 .section-details .table th {
   color: #f3a700;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 30px; }
+  font-size: 25px; }
 .section-details .table td {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   vertical-align: middle; }
 .section-details .table .icon {
   padding-left: 25%; }
@@ -511,9 +489,15 @@ main.accueil {
     padding: 5px 0;
     margin: 20px; }
   main.accueil .slider {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
       position: relative; }
@@ -530,8 +514,12 @@ main.accueil {
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
       font-size: 40px; }
   main.accueil .sliderButton {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center; }
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
     main.accueil .sliderButton a {
       display: block;
       width: 15px;
@@ -542,5 +530,3 @@ main.accueil {
       margin: 5px; }
       main.accueil .sliderButton a:active {
         background-color: red; }
-
-/*# sourceMappingURL=style.css.map */
