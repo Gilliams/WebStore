@@ -1,7 +1,6 @@
 footer{
     background-color: $black;
     color: $white;
-    height: $line-height--xxx-large;
     padding: 50px 0px 20px 36px;
     margin-top: $margin-height--xx-large;
     a{
@@ -56,11 +55,33 @@ footer{
     }
 }
 
+// =============================================================================
+// Media Queries
+// =============================================================================
 
-///////////////////////////////////////////////////////////////////////
-// ICONES
-///////////////////////////////////////////////////////////////////////
+@media screen and (min-width: 100px) and (max-width: 1026px) {
+    #f-desktop{
+        display: none;
+    }
+    #f-mobile{
+        #accueil{
+            margin-bottom: 50px;
+        }
+    }
+    #my-video{
+        width: 100%;
+    }
+}
+@media screen and (min-width: 1027px) {
+    #f-mobile{
+        display: none;
+    }
+}
 
+
+// =============================================================================
+// Icones
+// =============================================================================
 
 .icon{
     font-size: $font-size--xxxx-large;
