@@ -169,9 +169,9 @@
                 </form>
             </div>
         </div>
-        <div class="col-md-7 offset-md-1 section-catalogue_contain-right">
+        <div class="col-lg-7 col-8 offset-lg-1 offset-3 section-catalogue_contain-right">
             <div class="row line">
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -184,7 +184,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -197,7 +197,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -212,7 +212,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -225,7 +225,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -238,48 +238,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row line">
-                <div class="col-md-4 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -294,7 +253,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -307,7 +266,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">
@@ -320,7 +279,48 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 contain">
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <div class="contain-icons">
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row line">
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <div class="contain-icons">
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <div class="contain-icons">
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
                     <div class="item">
                         <img src="https://picsum.photos/300/300/?random" alt="">
                         <div class="contain-icons">

@@ -1,7 +1,7 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-details">
     <div class="row">
-        <div class="col-md-6 offset-md-3 section-catalogue_contain">
+        <div class="col-lg-6 offset-lg-3 section-catalogue_contain">
             <nav id="bread" aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="3_catalogue_musique.php">Musiques</a></li>
@@ -14,10 +14,10 @@
         </div>
     </div>
     <div class="row align-items-center details">
-        <div class="col-md-2 offset-md-1">
+        <div class="col-lg-2 col-3 offset-1 offset-lg-1">
             <img src="https://picsum.photos/300/300/?random" alt="">
         </div>
-        <div class="col-md-7 offset-md-1 details-contain">
+        <div class="col-lg-7 col-6 offset-1 offset-lg-1 details-contain">
             <ul>
                 <li>
                     <span>Titre : </span>Drive
@@ -34,10 +34,10 @@
                 <li><span>Synopsis : </span>La musique originale de Drive est signée par le mythique Cliff Martinez, ancier batteur des Red hot chili peppers reconverti dans la musique de film. Sa partition est dans la couleur, inquiétante, éléctronique, sentimentale. Elle aurait pu être signée Tangerine dream !</li>
                 <li><span>Statut : </span>Promotion</li>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-lg-4 col-6">
                         <li class="price-contain"><span>Prix individuel : </span>14€<span class="price">99</span></li>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-lg-8 col-6">
                         <li class="price-contain"><span>Prix Promotion Electro (4 articles) : </span>19€<span class="price">99</span></li>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
             </div>
         </div>
     </div>
-    <div class="col-md-10 offset-md-1">
+    <div class="col-lg-10 offset-lg-1 col-12">
         <table class="table ">
             <tr>
                 <th>N°</th>

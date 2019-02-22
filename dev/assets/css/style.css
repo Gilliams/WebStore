@@ -124,6 +124,10 @@ header .login {
     margin-left: -1em;
     font-size: 2em; }
 
+.icon-menu:before {
+  content: "\e9bd";
+  font-size: 2em; }
+
 .nav {
   height: 100px;
   margin-bottom: 190px; }
@@ -171,14 +175,17 @@ header .login {
   background-color: #1f1b1a; }
 
 @media screen and (min-width: 100px) and (max-width: 1026px) {
-  #h-input-search--desktop {
-    display: none; }
-
-  #h-logo--desktop {
+  #h-input-search--desktop, #h-logo--desktop, #navbar-header {
     display: none; }
 
   #navbar-header {
-    display: none; }
+    height: auto;
+    position: fixed;
+    z-index: 2;
+    width: 100%; }
+    #navbar-header .col-md-3 {
+      width: 100%;
+      max-width: 100% !important; }
 
   .logo {
     width: 150px;
@@ -213,19 +220,8 @@ header .login {
     #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; } }
 @media screen and (min-width: 1027px) {
-  #h-mobile {
-    display: none; }
-
-  #h-logo--mobile {
-    display: none; }
-
-  #h-input-search--mobile {
+  #h-mobile, #h-logo--mobile, #h-input-search--mobile, #icon-menu {
     display: none; } }
-#icon-menu {
-  width: 50px;
-  height: 50px;
-  background-color: red; }
-
 footer {
   background-color: #1f1b1a;
   color: #fff;
@@ -477,6 +473,9 @@ footer {
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
       display: block; }
 
+@media screen and (min-width: 100px) and (max-width: 1026px) {
+  .section-catalogue_contain-left {
+    display: none; } }
 .section-details .details {
   margin-bottom: 50px; }
   .section-details .details-contain ul {
@@ -523,7 +522,8 @@ footer {
   margin-bottom: 90px; }
 .section-nouveaute_contain .contain {
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  margin: 20px 0 20px; }
   .section-nouveaute_contain .contain .item {
     z-index: 2; }
     .section-nouveaute_contain .contain .item .contain-icons {

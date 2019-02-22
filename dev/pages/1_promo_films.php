@@ -1,7 +1,7 @@
 <?php include('../templates/header.php'); ?>
     <section class="section-promo">
         <div class="row">
-            <div class="col-md-6 offset-md-3 section-promo_contain">
+            <div class="col-lg-6 offset-lg-3 col-10 offset-1 section-promo_contain">
                 <nav id="bread" aria-label="breadcrumb">
                   <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="2_catalogue_films.php">Films</a></li>
@@ -12,7 +12,7 @@
                     <h2>promotion films primés</h2>
                 </div>
                 <div class="row section-promo_contain-bottom">
-                    <div class="col-md-10 offset-md-1">
+                    <div class="col-lg-10 col-10 offset-lg-1 offset-2">
                         <div class="row section-promo_contain-bottom--item">
                             <div class="section-promo_contain-bottom--item-img-film">
                                 <a href=""><span class=" icon icon-details icon-Details"><span class="path1"></span><span class="path2"></span></span></a>

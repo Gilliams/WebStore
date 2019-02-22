@@ -46,15 +46,15 @@
                 <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                 <a href="#">S'inscrire</a> |
                 <a href="#">Se connecter</a>
-                <div id="icon-menu"></div>
+                <span id="icon-menu"class="icon-menu"></span>
             </div>
         </div>
     </header>
-    <ul class="row nav navbar-nav mr-auto" id="navbar-header">
-        <div class="col-3 nav__col">
+    <ul class="row nav navbar-nav" id="navbar-header">
+        <div class="col-md-3 nav__col">
             <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Accueil</li></a>
         </div>
-        <div class="col-3 nav__col">
+        <div class="col-md-3 nav__col">
             <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Films</li></a>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
@@ -70,7 +70,7 @@
                 </li>
             </div>
         </div>
-        <div class="col-3 nav__col">
+        <div class="col-md-3 nav__col">
             <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Musique</li></a>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
@@ -86,7 +86,7 @@
                 </li>
             </div>
         </div>
-        <div class="col-3 nav__col">
+        <div class="col-md-3 nav__col">
             <a href=""><li class="nav__col--item">Webstore</li></a>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
