@@ -1,0 +1,21 @@
+main.connexion{
+	form{
+		input[type=text]{
+			width: 100%;
+		}
+		a{
+			float: right;
+			color: $color-orange;
+			font-weight: 700;
+			//color: black;
+		}
+		input[type=submit]{
+			display: block;
+			clear: both;
+			margin:0 auto;
+		}
+		div{
+			font-weight: 700;
+		}
+	}
+}
