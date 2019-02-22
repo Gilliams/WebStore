@@ -1,0 +1,2784 @@
+/*!
+ * Font Awesome Free 5.1.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031}}
+.fa.fa-glass:before {
+  content: "\f000"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000033}}
+.fa.fa-meetup {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000038}}
+.fa.fa-star-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000312}}
+.fa.fa-star-o:before {
+  content: "\f005"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000314}}
+.fa.fa-remove:before {
+  content: "\f00d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000316}}
+.fa.fa-close:before {
+  content: "\f00d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000318}}
+.fa.fa-gear:before {
+  content: "\f013"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000320}}
+.fa.fa-trash-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000324}}
+.fa.fa-trash-o:before {
+  content: "\f2ed"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000326}}
+.fa.fa-file-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000330}}
+.fa.fa-file-o:before {
+  content: "\f15b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000332}}
+.fa.fa-clock-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000336}}
+.fa.fa-clock-o:before {
+  content: "\f017"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000338}}
+.fa.fa-arrow-circle-o-down {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000342}}
+.fa.fa-arrow-circle-o-down:before {
+  content: "\f358"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000344}}
+.fa.fa-arrow-circle-o-up {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000348}}
+.fa.fa-arrow-circle-o-up:before {
+  content: "\f35b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000350}}
+.fa.fa-play-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000354}}
+.fa.fa-play-circle-o:before {
+  content: "\f144"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000356}}
+.fa.fa-repeat:before {
+  content: "\f01e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000358}}
+.fa.fa-rotate-right:before {
+  content: "\f01e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000360}}
+.fa.fa-refresh:before {
+  content: "\f021"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000362}}
+.fa.fa-list-alt {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000367}}
+.fa.fa-dedent:before {
+  content: "\f03b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000369}}
+.fa.fa-video-camera:before {
+  content: "\f03d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000371}}
+.fa.fa-picture-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000375}}
+.fa.fa-picture-o:before {
+  content: "\f03e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000377}}
+.fa.fa-photo {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000381}}
+.fa.fa-photo:before {
+  content: "\f03e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000383}}
+.fa.fa-image {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000387}}
+.fa.fa-image:before {
+  content: "\f03e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000389}}
+.fa.fa-pencil:before {
+  content: "\f303"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000391}}
+.fa.fa-map-marker:before {
+  content: "\f3c5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000393}}
+.fa.fa-pencil-square-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000397}}
+.fa.fa-pencil-square-o:before {
+  content: "\f044"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\0000399}}
+.fa.fa-share-square-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003103}}
+.fa.fa-share-square-o:before {
+  content: "\f14d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003105}}
+.fa.fa-check-square-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003109}}
+.fa.fa-check-square-o:before {
+  content: "\f14a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003111}}
+.fa.fa-arrows:before {
+  content: "\f0b2"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003113}}
+.fa.fa-times-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003117}}
+.fa.fa-times-circle-o:before {
+  content: "\f057"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003119}}
+.fa.fa-check-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003123}}
+.fa.fa-check-circle-o:before {
+  content: "\f058"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003125}}
+.fa.fa-mail-forward:before {
+  content: "\f064"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003127}}
+.fa.fa-eye {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003132}}
+.fa.fa-eye-slash {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003137}}
+.fa.fa-warning:before {
+  content: "\f071"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003139}}
+.fa.fa-calendar:before {
+  content: "\f073"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003141}}
+.fa.fa-arrows-v:before {
+  content: "\f338"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003143}}
+.fa.fa-arrows-h:before {
+  content: "\f337"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003145}}
+.fa.fa-bar-chart {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003149}}
+.fa.fa-bar-chart:before {
+  content: "\f080"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003151}}
+.fa.fa-bar-chart-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003155}}
+.fa.fa-bar-chart-o:before {
+  content: "\f080"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003157}}
+.fa.fa-twitter-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003162}}
+.fa.fa-facebook-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003167}}
+.fa.fa-gears:before {
+  content: "\f085"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003169}}
+.fa.fa-thumbs-o-up {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003173}}
+.fa.fa-thumbs-o-up:before {
+  content: "\f164"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003175}}
+.fa.fa-thumbs-o-down {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003179}}
+.fa.fa-thumbs-o-down:before {
+  content: "\f165"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003181}}
+.fa.fa-heart-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003185}}
+.fa.fa-heart-o:before {
+  content: "\f004"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003187}}
+.fa.fa-sign-out:before {
+  content: "\f2f5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003189}}
+.fa.fa-linkedin-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003193}}
+.fa.fa-linkedin-square:before {
+  content: "\f08c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003195}}
+.fa.fa-thumb-tack:before {
+  content: "\f08d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003197}}
+.fa.fa-external-link:before {
+  content: "\f35d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003199}}
+.fa.fa-sign-in:before {
+  content: "\f2f6"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003201}}
+.fa.fa-github-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003206}}
+.fa.fa-lemon-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003210}}
+.fa.fa-lemon-o:before {
+  content: "\f094"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003212}}
+.fa.fa-square-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003216}}
+.fa.fa-square-o:before {
+  content: "\f0c8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003218}}
+.fa.fa-bookmark-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003222}}
+.fa.fa-bookmark-o:before {
+  content: "\f02e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003224}}
+.fa.fa-twitter {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003229}}
+.fa.fa-facebook {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003233}}
+.fa.fa-facebook:before {
+  content: "\f39e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003235}}
+.fa.fa-facebook-f {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003239}}
+.fa.fa-facebook-f:before {
+  content: "\f39e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003241}}
+.fa.fa-github {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003246}}
+.fa.fa-credit-card {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003251}}
+.fa.fa-feed:before {
+  content: "\f09e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003253}}
+.fa.fa-hdd-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003257}}
+.fa.fa-hdd-o:before {
+  content: "\f0a0"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003259}}
+.fa.fa-hand-o-right {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003263}}
+.fa.fa-hand-o-right:before {
+  content: "\f0a4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003265}}
+.fa.fa-hand-o-left {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003269}}
+.fa.fa-hand-o-left:before {
+  content: "\f0a5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003271}}
+.fa.fa-hand-o-up {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003275}}
+.fa.fa-hand-o-up:before {
+  content: "\f0a6"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003277}}
+.fa.fa-hand-o-down {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003281}}
+.fa.fa-hand-o-down:before {
+  content: "\f0a7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003283}}
+.fa.fa-arrows-alt:before {
+  content: "\f31e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003285}}
+.fa.fa-group:before {
+  content: "\f0c0"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003287}}
+.fa.fa-chain:before {
+  content: "\f0c1"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003289}}
+.fa.fa-scissors:before {
+  content: "\f0c4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003291}}
+.fa.fa-files-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003295}}
+.fa.fa-files-o:before {
+  content: "\f0c5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003297}}
+.fa.fa-floppy-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003301}}
+.fa.fa-floppy-o:before {
+  content: "\f0c7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003303}}
+.fa.fa-navicon:before {
+  content: "\f0c9"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003305}}
+.fa.fa-reorder:before {
+  content: "\f0c9"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003307}}
+.fa.fa-pinterest {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003312}}
+.fa.fa-pinterest-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003317}}
+.fa.fa-google-plus-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003322}}
+.fa.fa-google-plus {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003326}}
+.fa.fa-google-plus:before {
+  content: "\f0d5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003328}}
+.fa.fa-money {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003332}}
+.fa.fa-money:before {
+  content: "\f3d1"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003334}}
+.fa.fa-unsorted:before {
+  content: "\f0dc"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003336}}
+.fa.fa-sort-desc:before {
+  content: "\f0dd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003338}}
+.fa.fa-sort-asc:before {
+  content: "\f0de"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003340}}
+.fa.fa-linkedin {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003344}}
+.fa.fa-linkedin:before {
+  content: "\f0e1"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003346}}
+.fa.fa-rotate-left:before {
+  content: "\f0e2"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003348}}
+.fa.fa-legal:before {
+  content: "\f0e3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003350}}
+.fa.fa-tachometer:before {
+  content: "\f3fd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003352}}
+.fa.fa-dashboard:before {
+  content: "\f3fd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003354}}
+.fa.fa-comment-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003358}}
+.fa.fa-comment-o:before {
+  content: "\f075"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003360}}
+.fa.fa-comments-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003364}}
+.fa.fa-comments-o:before {
+  content: "\f086"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003366}}
+.fa.fa-flash:before {
+  content: "\f0e7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003368}}
+.fa.fa-clipboard {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003373}}
+.fa.fa-paste {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003377}}
+.fa.fa-paste:before {
+  content: "\f328"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003379}}
+.fa.fa-lightbulb-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003383}}
+.fa.fa-lightbulb-o:before {
+  content: "\f0eb"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003385}}
+.fa.fa-exchange:before {
+  content: "\f362"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003387}}
+.fa.fa-cloud-download:before {
+  content: "\f381"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003389}}
+.fa.fa-cloud-upload:before {
+  content: "\f382"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003391}}
+.fa.fa-bell-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003395}}
+.fa.fa-bell-o:before {
+  content: "\f0f3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003397}}
+.fa.fa-cutlery:before {
+  content: "\f2e7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003399}}
+.fa.fa-file-text-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003403}}
+.fa.fa-file-text-o:before {
+  content: "\f15c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003405}}
+.fa.fa-building-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003409}}
+.fa.fa-building-o:before {
+  content: "\f1ad"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003411}}
+.fa.fa-hospital-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003415}}
+.fa.fa-hospital-o:before {
+  content: "\f0f8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003417}}
+.fa.fa-tablet:before {
+  content: "\f3fa"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003419}}
+.fa.fa-mobile:before {
+  content: "\f3cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003421}}
+.fa.fa-mobile-phone:before {
+  content: "\f3cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003423}}
+.fa.fa-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003427}}
+.fa.fa-circle-o:before {
+  content: "\f111"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003429}}
+.fa.fa-mail-reply:before {
+  content: "\f3e5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003431}}
+.fa.fa-github-alt {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003436}}
+.fa.fa-folder-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003440}}
+.fa.fa-folder-o:before {
+  content: "\f07b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003442}}
+.fa.fa-folder-open-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003446}}
+.fa.fa-folder-open-o:before {
+  content: "\f07c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003448}}
+.fa.fa-smile-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003452}}
+.fa.fa-smile-o:before {
+  content: "\f118"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003454}}
+.fa.fa-frown-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003458}}
+.fa.fa-frown-o:before {
+  content: "\f119"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003460}}
+.fa.fa-meh-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003464}}
+.fa.fa-meh-o:before {
+  content: "\f11a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003466}}
+.fa.fa-keyboard-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003470}}
+.fa.fa-keyboard-o:before {
+  content: "\f11c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003472}}
+.fa.fa-flag-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003476}}
+.fa.fa-flag-o:before {
+  content: "\f024"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003478}}
+.fa.fa-mail-reply-all:before {
+  content: "\f122"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003480}}
+.fa.fa-star-half-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003484}}
+.fa.fa-star-half-o:before {
+  content: "\f089"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003486}}
+.fa.fa-star-half-empty {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003490}}
+.fa.fa-star-half-empty:before {
+  content: "\f089"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003492}}
+.fa.fa-star-half-full {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003496}}
+.fa.fa-star-half-full:before {
+  content: "\f089"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003498}}
+.fa.fa-code-fork:before {
+  content: "\f126"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003500}}
+.fa.fa-chain-broken:before {
+  content: "\f127"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003502}}
+.fa.fa-shield:before {
+  content: "\f3ed"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003504}}
+.fa.fa-calendar-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003508}}
+.fa.fa-calendar-o:before {
+  content: "\f133"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003510}}
+.fa.fa-maxcdn {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003515}}
+.fa.fa-html5 {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003520}}
+.fa.fa-css3 {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003525}}
+.fa.fa-ticket:before {
+  content: "\f3ff"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003527}}
+.fa.fa-minus-square-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003531}}
+.fa.fa-minus-square-o:before {
+  content: "\f146"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003533}}
+.fa.fa-level-up:before {
+  content: "\f3bf"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003535}}
+.fa.fa-level-down:before {
+  content: "\f3be"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003537}}
+.fa.fa-pencil-square:before {
+  content: "\f14b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003539}}
+.fa.fa-external-link-square:before {
+  content: "\f360"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003541}}
+.fa.fa-compass {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003546}}
+.fa.fa-caret-square-o-down {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003550}}
+.fa.fa-caret-square-o-down:before {
+  content: "\f150"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003552}}
+.fa.fa-toggle-down {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003556}}
+.fa.fa-toggle-down:before {
+  content: "\f150"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003558}}
+.fa.fa-caret-square-o-up {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003562}}
+.fa.fa-caret-square-o-up:before {
+  content: "\f151"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003564}}
+.fa.fa-toggle-up {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003568}}
+.fa.fa-toggle-up:before {
+  content: "\f151"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003570}}
+.fa.fa-caret-square-o-right {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003574}}
+.fa.fa-caret-square-o-right:before {
+  content: "\f152"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003576}}
+.fa.fa-toggle-right {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003580}}
+.fa.fa-toggle-right:before {
+  content: "\f152"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003582}}
+.fa.fa-eur:before {
+  content: "\f153"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003584}}
+.fa.fa-euro:before {
+  content: "\f153"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003586}}
+.fa.fa-gbp:before {
+  content: "\f154"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003588}}
+.fa.fa-usd:before {
+  content: "\f155"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003590}}
+.fa.fa-dollar:before {
+  content: "\f155"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003592}}
+.fa.fa-inr:before {
+  content: "\f156"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003594}}
+.fa.fa-rupee:before {
+  content: "\f156"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003596}}
+.fa.fa-jpy:before {
+  content: "\f157"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003598}}
+.fa.fa-cny:before {
+  content: "\f157"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003600}}
+.fa.fa-rmb:before {
+  content: "\f157"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003602}}
+.fa.fa-yen:before {
+  content: "\f157"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003604}}
+.fa.fa-rub:before {
+  content: "\f158"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003606}}
+.fa.fa-ruble:before {
+  content: "\f158"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003608}}
+.fa.fa-rouble:before {
+  content: "\f158"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003610}}
+.fa.fa-krw:before {
+  content: "\f159"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003612}}
+.fa.fa-won:before {
+  content: "\f159"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003614}}
+.fa.fa-btc {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003619}}
+.fa.fa-bitcoin {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003623}}
+.fa.fa-bitcoin:before {
+  content: "\f15a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003625}}
+.fa.fa-file-text:before {
+  content: "\f15c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003627}}
+.fa.fa-sort-alpha-asc:before {
+  content: "\f15d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003629}}
+.fa.fa-sort-alpha-desc:before {
+  content: "\f15e"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003631}}
+.fa.fa-sort-amount-asc:before {
+  content: "\f160"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003633}}
+.fa.fa-sort-amount-desc:before {
+  content: "\f161"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003635}}
+.fa.fa-sort-numeric-asc:before {
+  content: "\f162"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003637}}
+.fa.fa-sort-numeric-desc:before {
+  content: "\f163"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003639}}
+.fa.fa-youtube-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003644}}
+.fa.fa-youtube {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003649}}
+.fa.fa-xing {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003654}}
+.fa.fa-xing-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003659}}
+.fa.fa-youtube-play {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003663}}
+.fa.fa-youtube-play:before {
+  content: "\f167"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003665}}
+.fa.fa-dropbox {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003670}}
+.fa.fa-stack-overflow {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003675}}
+.fa.fa-instagram {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003680}}
+.fa.fa-flickr {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003685}}
+.fa.fa-adn {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003690}}
+.fa.fa-bitbucket {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003695}}
+.fa.fa-bitbucket-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003699}}
+.fa.fa-bitbucket-square:before {
+  content: "\f171"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003701}}
+.fa.fa-tumblr {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003706}}
+.fa.fa-tumblr-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003711}}
+.fa.fa-long-arrow-down:before {
+  content: "\f309"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003713}}
+.fa.fa-long-arrow-up:before {
+  content: "\f30c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003715}}
+.fa.fa-long-arrow-left:before {
+  content: "\f30a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003717}}
+.fa.fa-long-arrow-right:before {
+  content: "\f30b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003719}}
+.fa.fa-apple {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003724}}
+.fa.fa-windows {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003729}}
+.fa.fa-android {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003734}}
+.fa.fa-linux {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003739}}
+.fa.fa-dribbble {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003744}}
+.fa.fa-skype {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003749}}
+.fa.fa-foursquare {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003754}}
+.fa.fa-trello {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003759}}
+.fa.fa-gratipay {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003764}}
+.fa.fa-gittip {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003768}}
+.fa.fa-gittip:before {
+  content: "\f184"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003770}}
+.fa.fa-sun-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003774}}
+.fa.fa-sun-o:before {
+  content: "\f185"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003776}}
+.fa.fa-moon-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003780}}
+.fa.fa-moon-o:before {
+  content: "\f186"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003782}}
+.fa.fa-vk {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003787}}
+.fa.fa-weibo {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003792}}
+.fa.fa-renren {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003797}}
+.fa.fa-pagelines {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003802}}
+.fa.fa-stack-exchange {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003807}}
+.fa.fa-arrow-circle-o-right {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003811}}
+.fa.fa-arrow-circle-o-right:before {
+  content: "\f35a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003813}}
+.fa.fa-arrow-circle-o-left {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003817}}
+.fa.fa-arrow-circle-o-left:before {
+  content: "\f359"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003819}}
+.fa.fa-caret-square-o-left {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003823}}
+.fa.fa-caret-square-o-left:before {
+  content: "\f191"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003825}}
+.fa.fa-toggle-left {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003829}}
+.fa.fa-toggle-left:before {
+  content: "\f191"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003831}}
+.fa.fa-dot-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003835}}
+.fa.fa-dot-circle-o:before {
+  content: "\f192"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003837}}
+.fa.fa-vimeo-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003842}}
+.fa.fa-try:before {
+  content: "\f195"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003844}}
+.fa.fa-turkish-lira:before {
+  content: "\f195"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003846}}
+.fa.fa-plus-square-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003850}}
+.fa.fa-plus-square-o:before {
+  content: "\f0fe"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003852}}
+.fa.fa-slack {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003857}}
+.fa.fa-wordpress {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003862}}
+.fa.fa-openid {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003867}}
+.fa.fa-institution:before {
+  content: "\f19c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003869}}
+.fa.fa-bank:before {
+  content: "\f19c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003871}}
+.fa.fa-mortar-board:before {
+  content: "\f19d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003873}}
+.fa.fa-yahoo {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003878}}
+.fa.fa-google {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003883}}
+.fa.fa-reddit {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003888}}
+.fa.fa-reddit-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003893}}
+.fa.fa-stumbleupon-circle {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003898}}
+.fa.fa-stumbleupon {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003903}}
+.fa.fa-delicious {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003908}}
+.fa.fa-digg {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003913}}
+.fa.fa-pied-piper-pp {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003918}}
+.fa.fa-pied-piper-alt {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003923}}
+.fa.fa-drupal {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003928}}
+.fa.fa-joomla {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003933}}
+.fa.fa-spoon:before {
+  content: "\f2e5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003935}}
+.fa.fa-behance {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003940}}
+.fa.fa-behance-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003945}}
+.fa.fa-steam {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003950}}
+.fa.fa-steam-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003955}}
+.fa.fa-automobile:before {
+  content: "\f1b9"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003957}}
+.fa.fa-cab:before {
+  content: "\f1ba"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003959}}
+.fa.fa-envelope-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003963}}
+.fa.fa-envelope-o:before {
+  content: "\f0e0"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003965}}
+.fa.fa-deviantart {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003970}}
+.fa.fa-soundcloud {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003975}}
+.fa.fa-file-pdf-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003979}}
+.fa.fa-file-pdf-o:before {
+  content: "\f1c1"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003981}}
+.fa.fa-file-word-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003985}}
+.fa.fa-file-word-o:before {
+  content: "\f1c2"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003987}}
+.fa.fa-file-excel-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003991}}
+.fa.fa-file-excel-o:before {
+  content: "\f1c3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003993}}
+.fa.fa-file-powerpoint-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003997}}
+.fa.fa-file-powerpoint-o:before {
+  content: "\f1c4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\00003999}}
+.fa.fa-file-image-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031003}}
+.fa.fa-file-image-o:before {
+  content: "\f1c5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031005}}
+.fa.fa-file-photo-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031009}}
+.fa.fa-file-photo-o:before {
+  content: "\f1c5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031011}}
+.fa.fa-file-picture-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031015}}
+.fa.fa-file-picture-o:before {
+  content: "\f1c5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031017}}
+.fa.fa-file-archive-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031021}}
+.fa.fa-file-archive-o:before {
+  content: "\f1c6"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031023}}
+.fa.fa-file-zip-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031027}}
+.fa.fa-file-zip-o:before {
+  content: "\f1c6"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031029}}
+.fa.fa-file-audio-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031033}}
+.fa.fa-file-audio-o:before {
+  content: "\f1c7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031035}}
+.fa.fa-file-sound-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031039}}
+.fa.fa-file-sound-o:before {
+  content: "\f1c7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031041}}
+.fa.fa-file-video-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031045}}
+.fa.fa-file-video-o:before {
+  content: "\f1c8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031047}}
+.fa.fa-file-movie-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031051}}
+.fa.fa-file-movie-o:before {
+  content: "\f1c8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031053}}
+.fa.fa-file-code-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031057}}
+.fa.fa-file-code-o:before {
+  content: "\f1c9"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031059}}
+.fa.fa-vine {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031064}}
+.fa.fa-codepen {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031069}}
+.fa.fa-jsfiddle {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031074}}
+.fa.fa-life-ring {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031079}}
+.fa.fa-life-bouy {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031083}}
+.fa.fa-life-bouy:before {
+  content: "\f1cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031085}}
+.fa.fa-life-buoy {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031089}}
+.fa.fa-life-buoy:before {
+  content: "\f1cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031091}}
+.fa.fa-life-saver {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031095}}
+.fa.fa-life-saver:before {
+  content: "\f1cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031097}}
+.fa.fa-support {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031101}}
+.fa.fa-support:before {
+  content: "\f1cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031103}}
+.fa.fa-circle-o-notch:before {
+  content: "\f1ce"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031105}}
+.fa.fa-rebel {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031110}}
+.fa.fa-ra {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031114}}
+.fa.fa-ra:before {
+  content: "\f1d0"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031116}}
+.fa.fa-resistance {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031120}}
+.fa.fa-resistance:before {
+  content: "\f1d0"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031122}}
+.fa.fa-empire {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031127}}
+.fa.fa-ge {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031131}}
+.fa.fa-ge:before {
+  content: "\f1d1"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031133}}
+.fa.fa-git-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031138}}
+.fa.fa-git {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031143}}
+.fa.fa-hacker-news {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031148}}
+.fa.fa-y-combinator-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031152}}
+.fa.fa-y-combinator-square:before {
+  content: "\f1d4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031154}}
+.fa.fa-yc-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031158}}
+.fa.fa-yc-square:before {
+  content: "\f1d4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031160}}
+.fa.fa-tencent-weibo {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031165}}
+.fa.fa-qq {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031170}}
+.fa.fa-weixin {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031175}}
+.fa.fa-wechat {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031179}}
+.fa.fa-wechat:before {
+  content: "\f1d7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031181}}
+.fa.fa-send:before {
+  content: "\f1d8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031183}}
+.fa.fa-paper-plane-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031187}}
+.fa.fa-paper-plane-o:before {
+  content: "\f1d8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031189}}
+.fa.fa-send-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031193}}
+.fa.fa-send-o:before {
+  content: "\f1d8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031195}}
+.fa.fa-circle-thin {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031199}}
+.fa.fa-circle-thin:before {
+  content: "\f111"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031201}}
+.fa.fa-header:before {
+  content: "\f1dc"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031203}}
+.fa.fa-sliders:before {
+  content: "\f1de"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031205}}
+.fa.fa-futbol-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031209}}
+.fa.fa-futbol-o:before {
+  content: "\f1e3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031211}}
+.fa.fa-soccer-ball-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031215}}
+.fa.fa-soccer-ball-o:before {
+  content: "\f1e3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031217}}
+.fa.fa-slideshare {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031222}}
+.fa.fa-twitch {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031227}}
+.fa.fa-yelp {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031232}}
+.fa.fa-newspaper-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031236}}
+.fa.fa-newspaper-o:before {
+  content: "\f1ea"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031238}}
+.fa.fa-paypal {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031243}}
+.fa.fa-google-wallet {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031248}}
+.fa.fa-cc-visa {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031253}}
+.fa.fa-cc-mastercard {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031258}}
+.fa.fa-cc-discover {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031263}}
+.fa.fa-cc-amex {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031268}}
+.fa.fa-cc-paypal {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031273}}
+.fa.fa-cc-stripe {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031278}}
+.fa.fa-bell-slash-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031282}}
+.fa.fa-bell-slash-o:before {
+  content: "\f1f6"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031284}}
+.fa.fa-trash:before {
+  content: "\f2ed"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031286}}
+.fa.fa-copyright {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031291}}
+.fa.fa-eyedropper:before {
+  content: "\f1fb"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031293}}
+.fa.fa-area-chart:before {
+  content: "\f1fe"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031295}}
+.fa.fa-pie-chart:before {
+  content: "\f200"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031297}}
+.fa.fa-line-chart:before {
+  content: "\f201"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031299}}
+.fa.fa-lastfm {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031304}}
+.fa.fa-lastfm-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031309}}
+.fa.fa-ioxhost {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031314}}
+.fa.fa-angellist {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031319}}
+.fa.fa-cc {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031323}}
+.fa.fa-cc:before {
+  content: "\f20a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031325}}
+.fa.fa-ils:before {
+  content: "\f20b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031327}}
+.fa.fa-shekel:before {
+  content: "\f20b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031329}}
+.fa.fa-sheqel:before {
+  content: "\f20b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031331}}
+.fa.fa-meanpath {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031335}}
+.fa.fa-meanpath:before {
+  content: "\f2b4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031337}}
+.fa.fa-buysellads {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031342}}
+.fa.fa-connectdevelop {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031347}}
+.fa.fa-dashcube {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031352}}
+.fa.fa-forumbee {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031357}}
+.fa.fa-leanpub {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031362}}
+.fa.fa-sellsy {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031367}}
+.fa.fa-shirtsinbulk {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031372}}
+.fa.fa-simplybuilt {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031377}}
+.fa.fa-skyatlas {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031382}}
+.fa.fa-diamond {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031386}}
+.fa.fa-diamond:before {
+  content: "\f3a5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031388}}
+.fa.fa-intersex:before {
+  content: "\f224"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031390}}
+.fa.fa-facebook-official {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031394}}
+.fa.fa-facebook-official:before {
+  content: "\f09a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031396}}
+.fa.fa-pinterest-p {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031401}}
+.fa.fa-whatsapp {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031406}}
+.fa.fa-hotel:before {
+  content: "\f236"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031408}}
+.fa.fa-viacoin {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031413}}
+.fa.fa-medium {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031418}}
+.fa.fa-y-combinator {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031423}}
+.fa.fa-yc {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031427}}
+.fa.fa-yc:before {
+  content: "\f23b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031429}}
+.fa.fa-optin-monster {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031434}}
+.fa.fa-opencart {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031439}}
+.fa.fa-expeditedssl {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031444}}
+.fa.fa-battery-4:before {
+  content: "\f240"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031446}}
+.fa.fa-battery:before {
+  content: "\f240"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031448}}
+.fa.fa-battery-3:before {
+  content: "\f241"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031450}}
+.fa.fa-battery-2:before {
+  content: "\f242"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031452}}
+.fa.fa-battery-1:before {
+  content: "\f243"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031454}}
+.fa.fa-battery-0:before {
+  content: "\f244"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031456}}
+.fa.fa-object-group {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031461}}
+.fa.fa-object-ungroup {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031466}}
+.fa.fa-sticky-note-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031470}}
+.fa.fa-sticky-note-o:before {
+  content: "\f249"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031472}}
+.fa.fa-cc-jcb {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031477}}
+.fa.fa-cc-diners-club {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031482}}
+.fa.fa-clone {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031487}}
+.fa.fa-hourglass-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031491}}
+.fa.fa-hourglass-o:before {
+  content: "\f254"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031493}}
+.fa.fa-hourglass-1:before {
+  content: "\f251"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031495}}
+.fa.fa-hourglass-2:before {
+  content: "\f252"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031497}}
+.fa.fa-hourglass-3:before {
+  content: "\f253"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031499}}
+.fa.fa-hand-rock-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031503}}
+.fa.fa-hand-rock-o:before {
+  content: "\f255"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031505}}
+.fa.fa-hand-grab-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031509}}
+.fa.fa-hand-grab-o:before {
+  content: "\f255"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031511}}
+.fa.fa-hand-paper-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031515}}
+.fa.fa-hand-paper-o:before {
+  content: "\f256"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031517}}
+.fa.fa-hand-stop-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031521}}
+.fa.fa-hand-stop-o:before {
+  content: "\f256"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031523}}
+.fa.fa-hand-scissors-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031527}}
+.fa.fa-hand-scissors-o:before {
+  content: "\f257"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031529}}
+.fa.fa-hand-lizard-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031533}}
+.fa.fa-hand-lizard-o:before {
+  content: "\f258"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031535}}
+.fa.fa-hand-spock-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031539}}
+.fa.fa-hand-spock-o:before {
+  content: "\f259"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031541}}
+.fa.fa-hand-pointer-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031545}}
+.fa.fa-hand-pointer-o:before {
+  content: "\f25a"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031547}}
+.fa.fa-hand-peace-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031551}}
+.fa.fa-hand-peace-o:before {
+  content: "\f25b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031553}}
+.fa.fa-registered {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031558}}
+.fa.fa-creative-commons {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031563}}
+.fa.fa-gg {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031568}}
+.fa.fa-gg-circle {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031573}}
+.fa.fa-tripadvisor {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031578}}
+.fa.fa-odnoklassniki {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031583}}
+.fa.fa-odnoklassniki-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031588}}
+.fa.fa-get-pocket {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031593}}
+.fa.fa-wikipedia-w {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031598}}
+.fa.fa-safari {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031603}}
+.fa.fa-chrome {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031608}}
+.fa.fa-firefox {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031613}}
+.fa.fa-opera {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031618}}
+.fa.fa-internet-explorer {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031623}}
+.fa.fa-television:before {
+  content: "\f26c"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031625}}
+.fa.fa-contao {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031630}}
+.fa.fa-500px {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031635}}
+.fa.fa-amazon {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031640}}
+.fa.fa-calendar-plus-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031644}}
+.fa.fa-calendar-plus-o:before {
+  content: "\f271"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031646}}
+.fa.fa-calendar-minus-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031650}}
+.fa.fa-calendar-minus-o:before {
+  content: "\f272"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031652}}
+.fa.fa-calendar-times-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031656}}
+.fa.fa-calendar-times-o:before {
+  content: "\f273"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031658}}
+.fa.fa-calendar-check-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031662}}
+.fa.fa-calendar-check-o:before {
+  content: "\f274"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031664}}
+.fa.fa-map-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031668}}
+.fa.fa-map-o:before {
+  content: "\f279"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031670}}
+.fa.fa-commenting {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031674}}
+.fa.fa-commenting:before {
+  content: "\f4ad"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031676}}
+.fa.fa-commenting-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031680}}
+.fa.fa-commenting-o:before {
+  content: "\f4ad"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031682}}
+.fa.fa-houzz {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031687}}
+.fa.fa-vimeo {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031691}}
+.fa.fa-vimeo:before {
+  content: "\f27d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031693}}
+.fa.fa-black-tie {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031698}}
+.fa.fa-fonticons {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031703}}
+.fa.fa-reddit-alien {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031708}}
+.fa.fa-edge {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031713}}
+.fa.fa-credit-card-alt:before {
+  content: "\f09d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031715}}
+.fa.fa-codiepie {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031720}}
+.fa.fa-modx {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031725}}
+.fa.fa-fort-awesome {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031730}}
+.fa.fa-usb {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031735}}
+.fa.fa-product-hunt {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031740}}
+.fa.fa-mixcloud {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031745}}
+.fa.fa-scribd {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031750}}
+.fa.fa-pause-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031754}}
+.fa.fa-pause-circle-o:before {
+  content: "\f28b"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031756}}
+.fa.fa-stop-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031760}}
+.fa.fa-stop-circle-o:before {
+  content: "\f28d"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031762}}
+.fa.fa-bluetooth {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031767}}
+.fa.fa-bluetooth-b {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031772}}
+.fa.fa-gitlab {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031777}}
+.fa.fa-wpbeginner {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031782}}
+.fa.fa-wpforms {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031787}}
+.fa.fa-envira {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031792}}
+.fa.fa-wheelchair-alt {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031796}}
+.fa.fa-wheelchair-alt:before {
+  content: "\f368"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031798}}
+.fa.fa-question-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031802}}
+.fa.fa-question-circle-o:before {
+  content: "\f059"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031804}}
+.fa.fa-volume-control-phone:before {
+  content: "\f2a0"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031806}}
+.fa.fa-asl-interpreting:before {
+  content: "\f2a3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031808}}
+.fa.fa-deafness:before {
+  content: "\f2a4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031810}}
+.fa.fa-hard-of-hearing:before {
+  content: "\f2a4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031812}}
+.fa.fa-glide {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031817}}
+.fa.fa-glide-g {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031822}}
+.fa.fa-signing:before {
+  content: "\f2a7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031824}}
+.fa.fa-viadeo {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031829}}
+.fa.fa-viadeo-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031834}}
+.fa.fa-snapchat {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031839}}
+.fa.fa-snapchat-ghost {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031844}}
+.fa.fa-snapchat-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031849}}
+.fa.fa-pied-piper {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031854}}
+.fa.fa-first-order {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031859}}
+.fa.fa-yoast {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031864}}
+.fa.fa-themeisle {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031869}}
+.fa.fa-google-plus-official {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031873}}
+.fa.fa-google-plus-official:before {
+  content: "\f2b3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031875}}
+.fa.fa-google-plus-circle {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031879}}
+.fa.fa-google-plus-circle:before {
+  content: "\f2b3"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031881}}
+.fa.fa-font-awesome {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031886}}
+.fa.fa-fa {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031890}}
+.fa.fa-fa:before {
+  content: "\f2b4"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031892}}
+.fa.fa-handshake-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031896}}
+.fa.fa-handshake-o:before {
+  content: "\f2b5"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031898}}
+.fa.fa-envelope-open-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031902}}
+.fa.fa-envelope-open-o:before {
+  content: "\f2b6"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031904}}
+.fa.fa-linode {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031909}}
+.fa.fa-address-book-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031913}}
+.fa.fa-address-book-o:before {
+  content: "\f2b9"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031915}}
+.fa.fa-vcard:before {
+  content: "\f2bb"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031917}}
+.fa.fa-address-card-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031921}}
+.fa.fa-address-card-o:before {
+  content: "\f2bb"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031923}}
+.fa.fa-vcard-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031927}}
+.fa.fa-vcard-o:before {
+  content: "\f2bb"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031929}}
+.fa.fa-user-circle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031933}}
+.fa.fa-user-circle-o:before {
+  content: "\f2bd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031935}}
+.fa.fa-user-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031939}}
+.fa.fa-user-o:before {
+  content: "\f007"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031941}}
+.fa.fa-id-badge {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031946}}
+.fa.fa-drivers-license:before {
+  content: "\f2c2"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031948}}
+.fa.fa-id-card-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031952}}
+.fa.fa-id-card-o:before {
+  content: "\f2c2"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031954}}
+.fa.fa-drivers-license-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031958}}
+.fa.fa-drivers-license-o:before {
+  content: "\f2c2"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031960}}
+.fa.fa-quora {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031965}}
+.fa.fa-free-code-camp {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031970}}
+.fa.fa-telegram {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031975}}
+.fa.fa-thermometer-4:before {
+  content: "\f2c7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031977}}
+.fa.fa-thermometer:before {
+  content: "\f2c7"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031979}}
+.fa.fa-thermometer-3:before {
+  content: "\f2c8"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031981}}
+.fa.fa-thermometer-2:before {
+  content: "\f2c9"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031983}}
+.fa.fa-thermometer-1:before {
+  content: "\f2ca"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031985}}
+.fa.fa-thermometer-0:before {
+  content: "\f2cb"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031987}}
+.fa.fa-bathtub:before {
+  content: "\f2cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031989}}
+.fa.fa-s15:before {
+  content: "\f2cd"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031991}}
+.fa.fa-window-maximize {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000031996}}
+.fa.fa-window-restore {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032001}}
+.fa.fa-times-rectangle:before {
+  content: "\f410"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032003}}
+.fa.fa-window-close-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032007}}
+.fa.fa-window-close-o:before {
+  content: "\f410"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032009}}
+.fa.fa-times-rectangle-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032013}}
+.fa.fa-times-rectangle-o:before {
+  content: "\f410"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032015}}
+.fa.fa-bandcamp {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032020}}
+.fa.fa-grav {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032025}}
+.fa.fa-etsy {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032030}}
+.fa.fa-imdb {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032035}}
+.fa.fa-ravelry {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032040}}
+.fa.fa-eercast {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032044}}
+.fa.fa-eercast:before {
+  content: "\f2da"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032046}}
+.fa.fa-snowflake-o {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032050}}
+.fa.fa-snowflake-o:before {
+  content: "\f2dc"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032052}}
+.fa.fa-superpowers {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032057}}
+.fa.fa-wpexplorer {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/wamp64\/www\/WebStore\/dev\/assets\/fonts\/fontawesome-free-5\.1\.0-web\/scss\/_shims\.scss}line{font-family:\000032062}}
+.fa.fa-spotify {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400; }
+
+/*# sourceMappingURL=v4-shims.css.map */
