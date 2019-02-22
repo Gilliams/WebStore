@@ -538,18 +538,70 @@ footer {
     .section-nouveaute_contain .contain .item:hover .contain-icons {
       display: block; }
 
-main.connexion form input[type=text] {
+main.connexion form input[type=text], main.connexion form textarea, main.contact form input[type=text], main.contact form textarea {
   width: 100%; }
-main.connexion form a {
+main.connexion form a, main.contact form a {
   float: right;
   color: #f3a700;
   font-weight: 700; }
-main.connexion form input[type=submit] {
+main.connexion form input[type=submit], main.contact form input[type=submit] {
   display: block;
   clear: both;
   margin: 0 auto; }
-main.connexion form div {
+main.connexion form div, main.contact form div {
   font-weight: 700; }
+
+main.accueil {
+  padding: 50px; }
+  main.accueil h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #f3a700;
+    background-color: #1f1b1a;
+    padding: 5px 0;
+    margin: 20px; }
+  main.accueil .slider {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 20px; }
+    main.accueil .slider .article {
+      position: relative; }
+      main.accueil .slider .article img {
+        max-width: 200px; }
+      main.accueil .slider .article .hoverIcons {
+        display: none; }
+      main.accueil .slider .article:hover .hoverIcons {
+        display: block;
+        position: absolute;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #f3924c;
+        bottom: 10px; }
+    main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
+      font-size: 2em; }
+  main.accueil .sliderButton {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    main.accueil .sliderButton a {
+      display: block;
+      width: 15px;
+      height: 15px;
+      background-color: #f3a700;
+      border-radius: 10px;
+      border: 2px solid #f3a700;
+      margin: 5px; }
+      main.accueil .sliderButton a:active {
+        background-color: red; }
 
 main.accueil {
   padding: 50px; }
