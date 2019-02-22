@@ -12,12 +12,17 @@
 <body>
     <header class="container-fluid">
         <div class="row">
-            <div class="col-md-2 align-self-center">
+            <div class="col-2 align-self-center" id="h-logo--desktop">
                 <a href="../pages/2_catalogue_films.php">
                     <img src="../assets/imgs/logo.jpg" alt="" class="logo">
                 </a>
             </div>
-            <div class="col-md-4 offset-md-1 align-self-center">
+            <div class="col-2 align-self-center" id="h-logo--mobile">
+                <a href="../pages/2_catalogue_films.php">
+                    <img src="../assets/imgs/Logo_mobile.jpg" alt="" class="logo">
+                </a>
+            </div>
+            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--desktop">
                 <div class="row">
                     <form action="">
                         <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
@@ -25,21 +30,30 @@
                             <span class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
                         </label>
                     </form>
-
                 </div>
             </div>
-            <div class="col-md-3 offset-md-2 login">
+            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--mobile">
+                <div class="row">
+                    <form action="">
+                        <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
+                        <label for="search">
+                            <span class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
+                        </label>
+                    </form>
+                </div>
+            </div>
+            <div class="col-3 offset-md-2 login">
                 <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                 <a href="#">S'inscrire</a> |
                 <a href="#">Se connecter</a>
             </div>
         </div>
     </header>
-    <ul class="row nav">
-         <div class="col-md-3 nav__col">
+    <ul class="row nav" id="navbar-header">
+         <div class="col-3 nav__col">
              <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Accueil</li></a>
          </div>
-         <div class="col-md-3 nav__col">
+         <div class="col-3 nav__col">
              <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Films</li></a>
              <div class="row nav__col__child">
                  <li class="nav__col__child--item">
@@ -55,7 +69,7 @@
                  </li>
              </div>
          </div>
-         <div class="col-md-3 nav__col">
+         <div class="col-3 nav__col">
              <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Musique</li></a>
              <div class="row nav__col__child">
                  <li class="nav__col__child--item">
@@ -71,7 +85,7 @@
                  </li>
              </div>
          </div>
-         <div class="col-md-3 nav__col">
+         <div class="col-3 nav__col">
              <a href=""><li class="nav__col--item">Webstore</li></a>
              <div class="row nav__col__child">
                  <li class="nav__col__child--item">
@@ -84,3 +98,6 @@
              </div>
          </div>
     </ul>
+<script>
+    $("#h-input-search--mobile input").hide();
+</script>
