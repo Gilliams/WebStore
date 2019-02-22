@@ -32,12 +32,12 @@
                     </form>
                 </div>
             </div>
-            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--obile">
+            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--mobile">
                 <div class="row">
                     <form action="">
-                        <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
+                        <input type="text" placeholder="Recherche" class="input--mobile" name="search">
                         <label for="search--mobile">
-                            <span class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
+                            <span id="icon-Search" class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
                         </label>
                     </form>
                 </div>
@@ -46,58 +46,65 @@
                 <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                 <a href="#">S'inscrire</a> |
                 <a href="#">Se connecter</a>
+                <div id="icon-menu"></div>
             </div>
         </div>
     </header>
-    <ul class="row nav" id="navbar-header">
-         <div class="col-3 nav__col">
-             <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Accueil</li></a>
-         </div>
-         <div class="col-3 nav__col">
-             <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Films</li></a>
-             <div class="row nav__col__child">
-                 <li class="nav__col__child--item">
-                     <a href="../pages/6_nouveaux_films.php">Nouveautés</a>
-                 </li>
-                 <hr>
-                 <li class="nav__col__child--item">
-                     <a href="../pages/1_promo_films.php">Promotions</a>
-                 </li>
-                 <hr>
-                 <li class="nav__col__child--item">
-                     <a href="../pages/2_catalogue_films.php">Catalogue</a>
-                 </li>
-             </div>
-         </div>
-         <div class="col-3 nav__col">
-             <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Musique</li></a>
-             <div class="row nav__col__child">
-                 <li class="nav__col__child--item">
-                     <a href="../pages/7_nouvelles_musiques.php">Nouveautés</a>
-                 </li>
-                 <hr>
-                 <li class="nav__col__child--item">
-                     <a href="../pages/8_promo_musique.php">Promotions</a>
-                 </li>
-                 <hr>
-                 <li class="nav__col__child--item">
-                     <a href="../pages/3_catalogue_musique.php">Catalogue</a>
-                 </li>
-             </div>
-         </div>
-         <div class="col-3 nav__col">
-             <a href=""><li class="nav__col--item">Webstore</li></a>
-             <div class="row nav__col__child">
-                 <li class="nav__col__child--item">
-                     <a href="test">Qui sommes nous?</a>
-                 </li>
-                 <hr>
-                 <li class="nav__col__child--item">
-                     <a href="test">Nous contacter</a>
-                 </li>
-             </div>
-         </div>
+    <ul class="row nav navbar-nav mr-auto" id="navbar-header">
+        <div class="col-3 nav__col">
+            <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Accueil</li></a>
+        </div>
+        <div class="col-3 nav__col">
+            <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Films</li></a>
+            <div class="row nav__col__child">
+                <li class="nav__col__child--item">
+                    <a href="../pages/6_nouveaux_films.php">Nouveautés</a>
+                </li>
+                <hr>
+                <li class="nav__col__child--item">
+                    <a href="../pages/1_promo_films.php">Promotions</a>
+                </li>
+                <hr>
+                <li class="nav__col__child--item">
+                    <a href="../pages/2_catalogue_films.php">Catalogue</a>
+                </li>
+            </div>
+        </div>
+        <div class="col-3 nav__col">
+            <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Musique</li></a>
+            <div class="row nav__col__child">
+                <li class="nav__col__child--item">
+                    <a href="../pages/7_nouvelles_musiques.php">Nouveautés</a>
+                </li>
+                <hr>
+                <li class="nav__col__child--item">
+                    <a href="../pages/8_promo_musique.php">Promotions</a>
+                </li>
+                <hr>
+                <li class="nav__col__child--item">
+                    <a href="../pages/3_catalogue_musique.php">Catalogue</a>
+                </li>
+            </div>
+        </div>
+        <div class="col-3 nav__col">
+            <a href=""><li class="nav__col--item">Webstore</li></a>
+            <div class="row nav__col__child">
+                <li class="nav__col__child--item">
+                    <a href="test">Qui sommes nous?</a>
+                </li>
+                <hr>
+                <li class="nav__col__child--item">
+                    <a href="test">Nous contacter</a>
+                </li>
+            </div>
+        </div>
     </ul>
 <script>
     $("#h-input-search--mobile input").hide();
+    $("#icon-Search").on('click',function(){
+        $("#h-input-search--mobile input").toggle();
+    });
+    $('#icon-menu').on('click',function(){
+        $('#navbar-header').toggle();
+    });
 </script>

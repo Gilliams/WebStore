@@ -66,12 +66,6 @@ header .input {
   border: 2px solid #1f1b1a;
   width: 660px;
   height: 60px; }
-  header .input::-webkit-input-placeholder {
-    padding-left: 20px; }
-  header .input:-ms-input-placeholder {
-    padding-left: 20px; }
-  header .input::-ms-input-placeholder {
-    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
 header .logo {
@@ -145,7 +139,6 @@ header .login {
         margin: auto;
         text-align: center;
         height: 60px;
-        font-size: 2em;
         background-color: #1f1b1a; }
         .nav__col__child--item a {
           color: #f3924c;
@@ -154,6 +147,9 @@ header .login {
           background-color: #f3924c; }
           .nav__col__child--item:hover a {
             color: #1f1b1a; }
+
+.navbar-toggler {
+  background-color: #1f1b1a; }
 
 @media screen and (min-width: 100px) and (max-width: 1026px) {
   #h-input-search--desktop {
@@ -182,18 +178,14 @@ header .login {
       color: #fff;
       margin-left: -1em;
       font-size: 80px; }
-  #h-input-search--mobile .input {
+  #h-input-search--mobile .input--mobile {
+    width: 100%;
+    display: block;
     font-size: 2em;
     font-weight: 600;
     border: 2px solid #1f1b1a;
     height: 60px; }
-    #h-input-search--mobile .input::-webkit-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input:-ms-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input::-ms-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input::placeholder {
+    #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; } }
 @media screen and (min-width: 1027px) {
   #h-mobile {
@@ -204,6 +196,11 @@ header .login {
 
   #h-input-search--mobile {
     display: none; } }
+#icon-menu {
+  width: 50px;
+  height: 50px;
+  background-color: red; }
+
 footer {
   background-color: #1f1b1a;
   color: #fff;
@@ -356,10 +353,8 @@ footer {
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-    -webkit-transition-duration: 0.5s;
-            transition-duration: 0.5s; }
+    transform: rotate(90deg);
+    transition-duration: 0.5s; }
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -378,7 +373,7 @@ footer {
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "LibreFranklin";
-    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
+    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
       font-size: 2em; }
@@ -398,8 +393,7 @@ footer {
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
-              box-shadow: inset 0px 0px 0px 2px #fff; }
+      box-shadow: inset 0px 0px 0px 2px #fff; }
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
     .section-catalogue_contain-left_form label {
@@ -526,15 +520,9 @@ main.accueil {
     padding: 5px 0;
     margin: 20px; }
   main.accueil .slider {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: space-between;
+    align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
       position: relative; }
@@ -551,12 +539,8 @@ main.accueil {
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
       font-size: 2em; }
   main.accueil .sliderButton {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
+    justify-content: center; }
     main.accueil .sliderButton a {
       display: block;
       width: 15px;
@@ -567,3 +551,5 @@ main.accueil {
       margin: 5px; }
       main.accueil .sliderButton a:active {
         background-color: red; }
+
+/*# sourceMappingURL=style.css.map */
