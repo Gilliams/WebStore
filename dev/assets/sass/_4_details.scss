@@ -7,7 +7,7 @@
             }
             li{
                 font-family: $font-family--secondary;
-                font-size: $font-size--xx-large;
+                font-size: $font-size--L;
                 span{
                     color: $color-orange;
                 }
@@ -15,7 +15,7 @@
         }
         .icon{
             margin-right: $margin-height--regular;
-            font-size: $line-height--x-large ;
+            font-size: $font-size--L ;
         }
         .bold{
             font-weight: $font-weight--bold;
@@ -25,7 +25,7 @@
         position: relative;
         .price{
             color: inherit;
-            font-size: $font-size--regular  ;
+            font-size: $font-size--M;
             position: absolute;
             top: 8px;
         }
@@ -42,11 +42,11 @@
         th{
             color: $color-orange;
             font-family: $font-family--secondary;
-            font-size: $font-size--xx-large;
+            font-size: $font-size--L;
         }
         td{
             font-family: $font-family--secondary ;
-            font-size: $font-size--xx-large;
+            font-size: $font-size--L;
             vertical-align: middle;
         }
         .icon{

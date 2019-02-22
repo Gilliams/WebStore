@@ -4,7 +4,7 @@ body{
 
 header {
     .input{
-        font-size: $font-size--xx-large;
+        font-size: $font-size--L;
         font-weight: $font-weight--x-regular;
         border: 2px solid $black;
         width: 660px;
@@ -17,20 +17,20 @@ header {
         margin: 34px;
     }
     .login{
-        font-size: $font-size--xx-large;
+        font-size: $font-size--L;
         .icon-User{
             margin-top: $margin-height--small;
             display: inline-block;
             .path1:before {
               content: "\e91f";
               color: #e62d2e;
-              font-size: 50px;
+              font-size: $font-size--L;
             }
             .path2:before {
               content: "\e920";
               color: #fff;
               margin-left: -1em;
-              font-size: 50px;
+              font-size: $font-size--L;
             }
         }
         a{
@@ -52,13 +52,13 @@ header {
     .path1:before {
       content: "\e91d";
       color: #000;
-      font-size: 80px;
+      font-size: $font-size--L;
     }
     .path2:before {
       content: "\e91e";
       color: #fff;
       margin-left: -1em;
-      font-size: 80px;
+      font-size: $font-size--L;
     }
 }
 
@@ -72,7 +72,7 @@ header {
     margin-bottom: 190px;
     &__col{
         width: 480px;
-        font-size: $font-size--xxxx-large ;
+        font-size: $font-size--L ;
         font-weight: $font-weight--x-regular ;
         text-align: center;
         background-color: #f3924c;
@@ -107,7 +107,7 @@ header {
                 margin: auto;
                 text-align: center;
                 height: $line-height--large-spe;
-                font-size: $font-size--xx-large ;
+                font-size: $font-size--L ;
                 background-color: $black;
                 a{
                     color: $color-marron;

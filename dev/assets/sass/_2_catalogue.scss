@@ -1,6 +1,6 @@
 .section-catalogue{
     .icon{
-        font-size: $font-size--large-icon ;
+        font-size: $font-size--L ;
         &-Filtres_recherche:before {
           content: "\e925";
           display: inline-block;
@@ -33,7 +33,7 @@
                 font-family: $font-family--tertiary;
                 legend{
                     font-weight: bold;
-                    font-size: $font-size--xx-large;
+                    font-size: $font-size--L;
                 }
                 input[type=checkbox]{
                     display: none;
@@ -68,7 +68,7 @@
                           margin-left: -$margin-height--regular;
                       }
                     label{
-                        font-size: $font-size--x-large;
+                        font-size: $font-size--L;
                     }
                   }
                 }
@@ -90,7 +90,7 @@
                         bottom: $line-height--spe ;
                         .icon{
                             margin-left: $margin-height--regular--mid;
-                            font-size: $line-height--xx-large;
+                            font-size: $font-size--L;
                         }
                         a{
                             text-decoration: none;
