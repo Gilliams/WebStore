@@ -1,0 +1,20 @@
+main.panier{
+	table{
+		thead{
+			color: $color-orange;
+		}
+		tr{
+			border:1px solid $black;
+			td,th{
+				padding: 1em 0;
+				&.supprimer{
+					text-align: right;
+					padding-right: 2em;
+				}
+			}
+			&.total th{
+				color: $color-orange;
+			}
+		}
+	}
+}
