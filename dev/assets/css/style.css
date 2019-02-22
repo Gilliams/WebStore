@@ -519,17 +519,17 @@ footer {
     .section-nouveaute_contain .contain .item:hover .contain-icons {
       display: block; }
 
-main.connexion form input[type=text] {
+main.connexion form input[type=text], main.connexion form textarea, main.contact form input[type=text], main.contact form textarea, main.espace_perso form input[type=text], main.espace_perso form textarea {
   width: 100%; }
-main.connexion form a {
+main.connexion form a, main.contact form a, main.espace_perso form a {
   float: right;
   color: #f3a700;
   font-weight: 700; }
-main.connexion form input[type=submit] {
+main.connexion form input[type=submit], main.contact form input[type=submit], main.espace_perso form input[type=submit] {
   display: block;
   clear: both;
   margin: 0 auto; }
-main.connexion form div {
+main.connexion form div, main.contact form div, main.espace_perso form div {
   font-weight: 700; }
 
 main.accueil {
@@ -574,4 +574,8 @@ main.accueil {
       main.accueil .sliderButton a:active {
         background-color: red; }
 
-/*# sourceMappingURL=style.css.map */
+main.espace_perso .bienvenue {
+  color: #e62d2e;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.5em; }
