@@ -140,9 +140,46 @@ header {
     #navbar-header{
         display: none;
     }
+    .logo{
+        width: 150px;
+        height: auto;
+    }
+    #h-input-search--mobile{
+        .icon-Search{
+            position: absolute;
+            top: -$margin-height--small;
+            left: 300px;
+            .path1:before {
+              content: "\e91d";
+              color: #000;
+              font-size: 80px;
+            }
+            .path2:before {
+              content: "\e91e";
+              color: #fff;
+              margin-left: -1em;
+              font-size: 80px;
+            }
+        }
+        .input{
+            font-size: $font-size--xx-large;
+            font-weight: $font-weight--x-regular;
+            border: 2px solid $black;
+            height: $line-height--large-spe;
+            &::placeholder{
+                padding-left: $padding-height--regular   ;
+            }
+        }
+    }
 }
 @media screen and (min-width: 1027px) {
     #h-mobile{
+        display: none;
+    }
+    #h-logo--mobile{
+        display: none;
+    }
+    #h-input-search--mobile{
         display: none;
     }
 }

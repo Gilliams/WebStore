@@ -19,7 +19,7 @@
             </div>
             <div class="col-2 align-self-center" id="h-logo--mobile">
                 <a href="../pages/2_catalogue_films.php">
-                    <img src="../assets/imgs/Logo_mobile.jpg" alt="" class="logo">
+                    <img src="../assets/imgs/Logo_mobile.png" alt="" class="logo">
                 </a>
             </div>
             <div class="col-4 offset-md-1 align-self-center" id="h-input-search--desktop">
@@ -32,11 +32,11 @@
                     </form>
                 </div>
             </div>
-            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--mobile">
+            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--obile">
                 <div class="row">
                     <form action="">
                         <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
-                        <label for="search">
+                        <label for="search--mobile">
                             <span class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
                         </label>
                     </form>
