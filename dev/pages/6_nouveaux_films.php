@@ -1,15 +1,15 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-nouveaute">
     <div class="row ">
-        <div class="col-md-6 offset-3">
+        <div class="col-lg-6 offset-3">
             <div class="row align-items-center justify-content-center section-nouveaute--title">
                 <h2>Nos derniers films ajoutés</h2>
             </div>
         </div>
     </div>
-    <div class="col-md-9 offset-md-2 section-nouveaute_contain">
+    <div class="col-9 offset-2 section-nouveaute_contain">
         <div class="row line">
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -22,7 +22,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -48,7 +48,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -63,7 +63,7 @@
             </div>
         </div>
         <div class="row line">
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -89,7 +89,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">
@@ -102,7 +102,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 contain">
+            <div class="col-lg-3 col-6 contain">
                 <div class="item">
                     <img src="https://picsum.photos/300/400/?random" alt="">
                     <div class="contain-icons">

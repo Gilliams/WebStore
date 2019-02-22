@@ -458,6 +458,9 @@ footer {
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
       display: block; }
 
+@media screen and (min-width: 100px) and (max-width: 1026px) {
+  .section-catalogue_contain-left {
+    display: none; } }
 .section-details .details {
   margin-bottom: 50px; }
   .section-details .details-contain ul {
@@ -504,7 +507,8 @@ footer {
   margin-bottom: 90px; }
 .section-nouveaute_contain .contain {
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  margin: 20px 0 20px; }
   .section-nouveaute_contain .contain .item {
     z-index: 2; }
     .section-nouveaute_contain .contain .item .contain-icons {
@@ -579,3 +583,5 @@ main.espace_perso .bienvenue {
   text-align: center;
   font-weight: 700;
   font-size: 1.5em; }
+
+/*# sourceMappingURL=style.css.map */

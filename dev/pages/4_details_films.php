@@ -1,7 +1,7 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-details">
     <div class="row">
-        <div class="col-md-6 offset-md-3 section-catalogue_contain">
+        <div class="col-lg-6 col-6 offset-3 offset-lg-3 section-catalogue_contain">
             <nav id="bread" aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="2_catalogue_films.php">Films</a></li>
@@ -14,10 +14,10 @@
         </div>
     </div>
     <div class="row align-items-center details">
-        <div class="col-md-2 offset-md-1">
+        <div class="col-lg-2 col-3 offset-1 offset-lg-1">
             <img src="https://picsum.photos/300/400/?random" alt="">
         </div>
-        <div class="col-md-7 offset-md-1 details-contain">
+        <div class="col-lg-7 col-6 offset-1 offset-lg-1 details-contain">
             <ul>
                 <li>
                     <span>Titre : </span>Whiplash
@@ -43,7 +43,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6 offset-md-3 section-catalogue_contain">
+        <div class="col-lg-6 col-6 offset-3 offset-lg-3 section-catalogue_contain">
             <div class="row align-items-center justify-content-center section-catalogue_contain-top--item bold">
                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 <h2>Ajouter au panier</h2>
