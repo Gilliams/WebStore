@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: Walkway; }
+  font-family: "LibreFranklin"; }
 @font-face {
   body {
     font-family: "Walkway";
@@ -9,9 +9,22 @@ body {
   body {
     font-family: "LibreFranklin";
     src: url("./fonts/LibreFranklin/librefranklin_black.eot?") format("eot"), url("./fonts/LibreFranklin/librefranklin_black.woff2") format("woff2"), url("./fonts/LibreFranklin/librefranklin_black.woff") format("woff"), url("./fonts/LibreFranklin/librefranklin_black.ttf") format("truetype"), url("./fonts/LibreFranklin/librefranklin_black.svg#LibreFranklin") format("svg"); } }
+h1, h2, h3 {
+  font-family: "Walkway"; }
+
+h1 {
+  background-color: #1f1b1a;
+  color: #f3a700;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2em;
+  padding: 5px 0;
+  margin: 1.5em 0; }
+
 h2 {
   font-size: 2em;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
   margin-bottom: 0px; }
 
@@ -469,7 +482,7 @@ footer {
   .section-details .details-contain ul {
     list-style: none; }
   .section-details .details-contain li {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "LibreFranklin";
     font-size: 2em; }
     .section-details .details-contain li span {
       color: #f3a700; }
@@ -492,10 +505,10 @@ footer {
     left: 47%; }
 .section-details .table th {
   color: #f3a700;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "LibreFranklin";
   font-size: 2em; }
 .section-details .table td {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "LibreFranklin";
   font-size: 2em;
   vertical-align: middle; }
 .section-details .table .icon {

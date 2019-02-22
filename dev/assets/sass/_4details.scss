@@ -6,7 +6,7 @@
                 list-style: none;
             }
             li{
-                font-family: $font-family--secondary;
+                font-family: $font-family--text;
                 font-size: $font-size--L;
                 span{
                     color: $color-orange;
@@ -41,11 +41,11 @@
     .table{
         th{
             color: $color-orange;
-            font-family: $font-family--secondary;
+            font-family: $font-family--text;
             font-size: $font-size--L;
         }
         td{
-            font-family: $font-family--secondary ;
+            font-family: $font-family--text ;
             font-size: $font-size--L;
             vertical-align: middle;
         }

@@ -1,16 +1,27 @@
 body{
     @include font-face(Walkway, "./fonts/Walkway/Walkway_Black");
     @include font-face(LibreFranklin, "./fonts/LibreFranklin/librefranklin_black");
-    font-family: Walkway;
+    font-family: $font-family--text;
     //background-color: green !important;
 }
 
-h1{
+h1, h2, h3{
+    font-family: $font-family--title;
+}
 
+h1{
+    background-color:$black;
+    color: $color-orange;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: $font-size--L;
+    padding: 5px 0;
+    margin:1.5em 0;
 }
 h2{
     font-size: $font-size--L;
-    font-weight: 700;
+    font-weight: 800;
     text-transform: uppercase;
     margin-bottom: 0px;
 }
