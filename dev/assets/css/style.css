@@ -620,3 +620,21 @@ main.panier table tr {
       padding-right: 2em; }
   main.panier table tr.total th {
     color: #f3a700; }
+
+main.recherche {
+  padding: 50px; }
+  main.recherche div.resultatsRecherche {
+    font-size: 2em;
+    font-weight: 700; }
+  main.recherche .article {
+    position: relative; }
+    main.recherche .article img {
+      max-width: 200px; }
+    main.recherche .article .hoverIcons {
+      display: none; }
+    main.recherche .article:hover .hoverIcons {
+      display: block;
+      position: absolute;
+      background-color: rgba(0, 0, 0, 0.5);
+      color: #f3924c;
+      bottom: 10px; }
