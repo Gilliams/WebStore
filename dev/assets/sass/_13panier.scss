@@ -7,6 +7,12 @@ main.panier{
 			border:1px solid $black;
 			td,th{
 				padding: 1em 0;
+				&.nom{
+					padding-left: 2em;
+				}
+				&.type,&.prix{
+					text-align: center;
+				}
 				&.supprimer{
 					text-align: right;
 					padding-right: 2em;
@@ -14,7 +20,19 @@ main.panier{
 			}
 			&.total th{
 				color: $color-orange;
+				text-align: center;
 			}
+		}
+	}
+	.button{
+		background-color:$color-blue;
+		text-align: center;
+		margin-top: 2em;
+		padding:1em;
+		a{
+			color: $white;
+			text-transform: uppercase;
+			font-weight: 700;
 		}
 	}
 }

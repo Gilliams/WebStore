@@ -24,29 +24,29 @@ include('../templates/header.php');
 							<td class="supprimer">Supprimer</td>
 						</tr>
 						<tr>
-							<th scope="row">Promotion éléctro</th>
+							<th class="nom" scope="row">Promotion éléctro</th>
 							<td class="type">Film</td>
 							<td class="prix">9€99</td>
 							<td class="supprimer">Supprimer</td>
 						</tr>
 						<tr>
-							<th scope="row">Promotion éléctro</th>
+							<th class="nom" scope="row">Promotion éléctro</th>
 							<td class="type">Film</td>
 							<td class="prix">14€99</td>
 							<td class="supprimer">Supprimer</td>
 						</tr>
 						<tr class="total">
 							<th scope="row" colspan="2">Total de la commande</th>
-							<td>44€97</td>
+							<td class="prix">44€97</td>
 						</tr>
 					</tbody>
 				</table>
 			</div>
 			<div class="row col-6 offset-3 justify-content-around">
-				<div class="valider col-3">
+				<div class="valider button col-4">
 					<a href="">Valider la commande</a>
 				</div>
-				<div class="poursuivre col-3">
+				<div class="poursuivre button col-4">
 					<a href="">Poursuivre mes achats</a>
 				</div>
 			</div>
