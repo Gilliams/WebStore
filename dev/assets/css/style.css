@@ -626,14 +626,19 @@ main.panier table tr {
     color: #f3a700;
     text-align: center; }
 main.panier .button {
+  display: block;
   background-color: #008ec0;
+  border: 2px solid #008ec0;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
   text-align: center;
-  margin-top: 2em;
+  margin-top: 4em;
   padding: 1em; }
-  main.panier .button a {
-    color: #fff;
-    text-transform: uppercase;
-    font-weight: 700; }
+  main.panier .button:hover {
+    background-color: #fff;
+    color: #008ec0;
+    text-decoration: none; }
 
 main.recherche {
   padding: 50px; }
@@ -652,6 +657,46 @@ main.recherche {
       background-color: rgba(0, 0, 0, 0.5);
       color: #f3924c;
       bottom: 10px; }
+
+main.commande table thead {
+  color: #f3a700; }
+main.commande table tr {
+  border: 1px solid #1f1b1a; }
+  main.commande table tr td, main.commande table tr th {
+    padding: 1em 0; }
+    main.commande table tr td.nom, main.commande table tr th.nom {
+      padding-left: 2em; }
+    main.commande table tr td.type, main.commande table tr td.prix, main.commande table tr th.type, main.commande table tr th.prix {
+      text-align: center; }
+  main.commande table tr.total th {
+    color: #f3a700;
+    text-align: center; }
+main.commande .dateExp {
+  padding-left: 0; }
+  main.commande .dateExp label {
+    width: 100%; }
+  main.commande .dateExp input {
+    max-width: 30%; }
+main.commande .crypto label {
+  width: 100%; }
+main.commande .crypto input {
+  max-width: 40%; }
+main.commande .cgv {
+  text-align: center; }
+main.commande .button {
+  display: block;
+  background-color: #008ec0;
+  border: 2px solid #008ec0;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 4em;
+  padding: 1em; }
+  main.commande .button:hover {
+    background-color: #fff;
+    color: #008ec0;
+    text-decoration: none; }
 
 main.webstore {
   padding: 50px; }
