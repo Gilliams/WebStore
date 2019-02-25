@@ -125,9 +125,6 @@ header .login {
 .nav {
   height: 100px;
   margin-bottom: 190px; }
-  .nav .row {
-    margin-right: 0px;
-    margin-left: 0px; }
   .nav__col {
     font-size: 2em;
     font-weight: 600;
@@ -193,6 +190,10 @@ header .login {
     #navbar-header .col-md-3 {
       width: 100%;
       max-width: 100% !important; }
+
+  ul.row {
+    margin-right: 0px;
+    margin-left: 0px; }
 
   .logo {
     width: 150px;

@@ -109,9 +109,3 @@
             </div>
         </div>
     </ul>
-<script>
-
-    $('#icon-menu').on('click',function(){
-        $('#navbar-header').toggle();
-    });
-</script>

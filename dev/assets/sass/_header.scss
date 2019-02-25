@@ -73,10 +73,6 @@ header {
 .nav {
     height: $line-height--xx-large ;
     margin-bottom: 190px;
-    .row{
-        margin-right: 0px;
-        margin-left: 0px;
-    }
     &__col{
         font-size: $font-size--L ;
         font-weight: $font-weight--x-regular ;
@@ -162,6 +158,10 @@ header {
             width: 100%;
             max-width: 100% !important;
         }
+    }
+    ul.row{
+        margin-right: 0px;
+        margin-left: 0px;
     }
 
     .logo{
