@@ -638,3 +638,10 @@ main.recherche {
       background-color: rgba(0, 0, 0, 0.5);
       color: #f3924c;
       bottom: 10px; }
+
+main.webstore {
+  padding: 50px; }
+  main.webstore div {
+    text-align: center; }
+    main.webstore div span {
+      font-weight: 700; }
