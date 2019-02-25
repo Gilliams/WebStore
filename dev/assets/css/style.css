@@ -53,19 +53,129 @@ h3 {
 .categorie-off {
   display: none; }
 
+.icon-Moins .path1:before {
+  content: "\e900";
+  color: #008ec0; }
+
+.icon-Moins .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Plus .path1:before {
+  content: "\e902";
+  color: #008ec0; }
+
+.icon-Plus .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Telecharger .path1:before {
+  content: "\e904";
+  color: #008ec0; }
+
+.icon-Telecharger .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Telecharger .path3:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Crayon .path1:before {
+  content: "\e907";
+  color: #008ec0; }
+
+.icon-Crayon .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Crayon .path3:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Crayon .path4:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Poubelle .path1:before {
+  content: "\e90b";
+  color: #008ec0; }
+
+.icon-Poubelle .path2:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Poubelle .path3:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Valid .path1:before {
+  content: "\e90e";
+  color: #008ec0; }
+
+.icon-Valid .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Poursuivre .path1:before {
+  content: "\e910";
+  color: #008ec0; }
+
+.icon-Poursuivre .path2:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Fleche_gauche .path1:before {
+  content: "\e912";
+  color: #1f1b1a; }
+
+.icon-Fleche_gauche .path2:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: #f3a700; }
+
+.icon-Fleche_droite .path1:before {
+  content: "\e914";
+  color: black; }
+
+.icon-Fleche_droite .path2:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: #f3a700; }
+
 .icon-Addtocart .path1:before {
   content: "\e916";
   color: #1f1b1a; }
 
 .icon-Addtocart .path2:before {
   content: "\e917";
-  color: #f3a700;
-  margin-left: -1em; }
+  margin-left: -1em;
+  color: #f3a700; }
 
 .icon-Addtocart .path3:before {
   content: "\e918";
-  color: #1f1b1a;
-  margin-left: -1em; }
+  margin-left: -1em;
+  color: #1f1b1a; }
+
+.icon-Play .path1:before {
+  content: "\e919";
+  color: black; }
+
+.icon-Play .path2:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: #f3a700; }
 
 .icon-Details .path1:before {
   content: "\e91b";
@@ -73,8 +183,136 @@ h3 {
 
 .icon-Details .path2:before {
   content: "\e91c";
-  color: #f3a700;
-  margin-left: -1em; }
+  margin-left: -1em;
+  color: #f3a700; }
+
+.icon-Search .path1:before {
+  content: "\e91d";
+  color: black; }
+
+.icon-Search .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: white; }
+
+.icon-User .path1:before {
+  content: "\e91f";
+  color: #e62d2e; }
+
+.icon-User .path2:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Cart .path1:before {
+  content: "\e921";
+  color: #e62d2e; }
+
+.icon-Cart .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Ok:before {
+  content: "\e923";
+  color: #3eaa0c; }
+
+.icon-Pas_ok:before {
+  content: "\e924";
+  color: #e62d2e; }
+
+.icon-Filtres_recherche:before {
+  content: "\e925"; }
+
+.icon-Puce_select .path1:before {
+  content: "\e926";
+  color: white; }
+
+.icon-Puce_select .path2:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: #e62d2e; }
+
+.icon-Puce_select .path3:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: #3d3d3d; }
+
+.icon-Puce_vide .path1:before {
+  content: "\e929";
+  color: white; }
+
+.icon-Puce_vide .path2:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: #e62d2e; }
+
+.icon-Slide_plein:before {
+  content: "\e92b";
+  color: #f3a700; }
+
+.icon-Slide_vide .path1:before {
+  content: "\e92c";
+  color: white; }
+
+.icon-Slide_vide .path2:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: #f3a700; }
+
+.icon-Facebook .path1:before {
+  content: "\e92e";
+  color: #1f1b1a; }
+
+.icon-Facebook .path2:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Twitter .path1:before {
+  content: "\e930";
+  color: #1f1b1a; }
+
+.icon-Twitter .path2:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: white; }
+
+.icon-Instagram .path1:before {
+  content: "\e932";
+  color: white; }
+
+.icon-Instagram .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: #1f1b1a; }
+
+.icon-Instagram .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: #1f1b1a; }
+
+.icon-Instagram .path4:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: #1f1b1a; }
+
+.icon-Instagram .path5:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: #1f1b1a; }
+
+.icon-menu:before {
+  content: "\e9bd"; }
+
+.icon-star-full:before {
+  content: "\e9d9"; }
+
+.icon-circle-right:before {
+  content: "\ea42"; }
+
+.icon-circle-left:before {
+  content: "\ea44"; }
 
 body {
   width: 100%; }
