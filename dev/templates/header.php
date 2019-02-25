@@ -13,7 +13,7 @@
     <header class="container-fluid">
         <div class="row">
             <div class="col-2 align-self-center" id="h-logo--desktop">
-                <a href="../pages/2_catalogue_films.php">
+                <a href="../pages/10_accueil.php">
                     <img src="../assets/imgs/logo.jpg" alt="" class="logo">
                 </a>
             </div>
