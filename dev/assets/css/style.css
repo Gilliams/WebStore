@@ -645,3 +645,8 @@ main.webstore {
     text-align: center; }
     main.webstore div span {
       font-weight: 700; }
+  main.webstore .boutique span {
+    display: block;
+    margin-bottom: 1em; }
+  main.webstore .boutique p {
+    margin-bottom: 0; }

@@ -20,19 +20,19 @@ include('../templates/header.php');
 				</div>
 			</div>
 			<div class="row justify-content-between">
-				<div class="col-3">
+				<div class="col-3 boutique">
 					<span>Paris - Montmartre</span>
 					<p>12, rue Muller</p>
 					<p>75018 Paris</p>
 					<p>01.44.27.82.64</p>
 				</div>
-				<div class="col-3">
+				<div class="col-3 boutique">
 					<span>Paris - Quartier latin</span>
 					<p>4, rue Suger</p>
 					<p>75005 Paris</p>
 					<p>01.44.56.72.09</p>
 				</div>
-				<div class="col-3">
+				<div class="col-3 boutique">
 					<span>Bordeaux</span>
 					<p>15, rue des Martyrs</p>
 					<p>33000 Bordeaux</p>
