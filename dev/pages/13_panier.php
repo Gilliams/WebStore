@@ -43,12 +43,8 @@ include('../templates/header.php');
 				</table>
 			</div>
 			<div class="row col-6 offset-3 justify-content-around">
-				<div class="valider button col-4">
-					<a href="">Valider la commande</a>
-				</div>
-				<div class="poursuivre button col-4">
-					<a href="">Poursuivre mes achats</a>
-				</div>
+					<a href="" class="valider button col-4">Valider la commande</a>
+					<a href="" class="poursuivre button col-4">Poursuivre mes achats</a>
 			</div>
 		</div>
 	</main>
