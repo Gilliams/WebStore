@@ -48,11 +48,11 @@ include('../templates/header.php');
 							<label>Moyen de paiement :</label>
 							<div>
 								<input type="radio" name="moyenPaiement" id="visa" value=0>
-								<label for="visa">Visa</label>
+								<label for="visa"><span><p></p></span>Visa</label>
 							</div>
 							<div>
 								<input type="radio" name="moyenPaiement" id="mastercard" value=1>
-								<label for="mastercard">Mastercard</label>
+								<label for="mastercard"><span><p></p></span>Mastercard</label>
 							</div>
 						</div>
 						<div class="row">
@@ -76,7 +76,7 @@ include('../templates/header.php');
 				<div class="row justify-content-center">
 					<div class="cgv col-8">
 						<input type="checkbox" name="cgv" id="cgv">
-						<label for="cgv">Je reconnais avoir pris connaissance des <a href="">Conditions générales de vente</a> et je les accepte</label>
+						<label for="cgv"><span><p></p></span>Je reconnais avoir pris connaissance des <a href="">Conditions générales de vente</a> et je les accepte</label>
 					</div>
 				</div>
 			</form>

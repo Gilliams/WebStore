@@ -677,45 +677,94 @@ main.recherche {
       color: #f3924c;
       bottom: 10px; }
 
-main.commande table thead {
-  color: #f3a700; }
-main.commande table tr {
-  border: 1px solid #1f1b1a; }
-  main.commande table tr td, main.commande table tr th {
-    padding: 1em 0; }
-    main.commande table tr td.nom, main.commande table tr th.nom {
-      padding-left: 2em; }
-    main.commande table tr td.type, main.commande table tr td.prix, main.commande table tr th.type, main.commande table tr th.prix {
+main.commande {
+  /*input[type=checkbox],input[type=radio]{
+  	appearance:none;
+  	border:2px solid $color-red;
+  	width: 15px;
+  	height: 15px;
+  	border-radius: 10px;
+  	&:checked:after{
+  		content: '';
+  		width: 10px;
+  		height: 10px;
+  		border-radius: 10px;
+  		background-color:$black;
+  	}
+  }*/ }
+  main.commande table thead {
+    color: #f3a700; }
+  main.commande table tr {
+    border: 1px solid #1f1b1a; }
+    main.commande table tr td, main.commande table tr th {
+      padding: 1em 0; }
+      main.commande table tr td.nom, main.commande table tr th.nom {
+        padding-left: 2em; }
+      main.commande table tr td.type, main.commande table tr td.prix, main.commande table tr th.type, main.commande table tr th.prix {
+        text-align: center; }
+    main.commande table tr.total th {
+      color: #f3a700;
       text-align: center; }
-  main.commande table tr.total th {
-    color: #f3a700;
-    text-align: center; }
-main.commande .dateExp {
-  padding-left: 0; }
-  main.commande .dateExp label {
+  main.commande .dateExp {
+    padding-left: 0; }
+    main.commande .dateExp label {
+      width: 100%; }
+    main.commande .dateExp input {
+      max-width: 30%; }
+  main.commande .crypto label {
     width: 100%; }
-  main.commande .dateExp input {
-    max-width: 30%; }
-main.commande .crypto label {
-  width: 100%; }
-main.commande .crypto input {
-  max-width: 40%; }
-main.commande .cgv {
-  text-align: center; }
-main.commande .button {
-  display: block;
-  background-color: #008ec0;
-  border: 2px solid #008ec0;
-  color: #fff;
-  text-transform: uppercase;
-  font-weight: 700;
-  text-align: center;
-  margin-top: 4em;
-  padding: 1em; }
-  main.commande .button:hover {
-    background-color: #fff;
-    color: #008ec0;
-    text-decoration: none; }
+  main.commande .crypto input {
+    max-width: 40%; }
+  main.commande .cgv {
+    text-align: center; }
+  main.commande input[type=radio], main.commande input[type=checkbox] {
+    visibility: hidden;
+    border: 2px solid #e62d2e;
+    width: 15px;
+    height: 15px;
+    border-radius: 10px; }
+    main.commande input[type=radio] + label, main.commande input[type=checkbox] + label {
+      line-height: 15px;
+      cursor: pointer; }
+      main.commande input[type=radio] + label span, main.commande input[type=checkbox] + label span {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        float: left;
+        margin-right: 1em;
+        border: 2px solid #e62d2e;
+        width: 15px;
+        height: 15px;
+        border-radius: 10px; }
+        main.commande input[type=radio] + label span p, main.commande input[type=checkbox] + label span p {
+          background-color: #fff; }
+    main.commande input[type=radio]:checked + label span p, main.commande input[type=checkbox]:checked + label span p {
+      background-color: #1f1b1a;
+      height: 7.5px;
+      width: 7.5px;
+      border-radius: 10px;
+      margin: 0 auto; }
+  main.commande .button {
+    display: block;
+    background-color: #008ec0;
+    border: 2px solid #008ec0;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 4em;
+    padding: 1em; }
+    main.commande .button:hover {
+      background-color: #fff;
+      color: #008ec0;
+      text-decoration: none; }
 
 main.webstore {
   padding: 50px; }
