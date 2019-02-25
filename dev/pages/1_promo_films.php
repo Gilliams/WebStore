@@ -29,7 +29,10 @@
                                 <a href=""><span class=" icon icon-details icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
                             </div>
                         </div>
-                        <span class=" icon icon-center-film icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span><img src="../assets/imgs/prix-19.png" alt="19€99" class="prix"></span>
+                        <a href="13_panier.php">
+                            <span class="icon icon-center-film icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            <img src="../assets/imgs/prix-19.png" alt="19€99" class="prix prix-film">
+                        </a>
                     </div>
                 </div>
             </div>

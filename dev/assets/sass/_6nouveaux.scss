@@ -20,9 +20,10 @@
                     display: none;
                     position: absolute;
                     bottom: $line-height--spe ;
+                    left: 20%;
                     .icon{
                         margin-left: $margin-height--regular--mid;
-                        font-size: $font-size--L;
+                        font-size: $font-size--L*1.5;
                     }
                     a{
                         text-decoration: none;
