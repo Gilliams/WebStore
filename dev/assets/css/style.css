@@ -1,7 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "LibreFranklin";
-  margin-top: 218px; }
+  font-family: "LibreFranklin"; }
 @font-face {
   body {
     font-family: "Walkway";
@@ -172,6 +171,9 @@ header .login {
   background-color: #1f1b1a; }
 
 @media screen and (min-width: 100px) and (max-width: 1026px) {
+  body {
+    margin-top: 218px; }
+
   #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop {
     display: none; }
 
@@ -219,7 +221,7 @@ header .login {
     #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; } }
 @media screen and (min-width: 1027px) {
-  #h-mobile, #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile {
+  #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile {
     display: none; } }
 footer {
   background-color: #1f1b1a;
@@ -656,3 +658,5 @@ main.webstore {
     margin-bottom: 1em; }
   main.webstore .boutique p {
     margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */

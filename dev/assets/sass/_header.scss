@@ -139,6 +139,9 @@ header {
 // =============================================================================
 
 @media screen and (min-width: 100px) and (max-width: 1026px) {
+    body{
+        margin-top: 218px;
+    }
     #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop{
         display: none;
     }
@@ -196,7 +199,7 @@ header {
     }
 }
 @media screen and (min-width: 1027px) {
-    #h-mobile, #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile{
+    #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile{
         display: none;
     }
 
