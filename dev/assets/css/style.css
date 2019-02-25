@@ -607,10 +607,52 @@ main.panier table tr {
   border: 1px solid #1f1b1a; }
   main.panier table tr td, main.panier table tr th {
     padding: 1em 0; }
+    main.panier table tr td.nom, main.panier table tr th.nom {
+      padding-left: 2em; }
+    main.panier table tr td.type, main.panier table tr td.prix, main.panier table tr th.type, main.panier table tr th.prix {
+      text-align: center; }
     main.panier table tr td.supprimer, main.panier table tr th.supprimer {
       text-align: right;
       padding-right: 2em; }
   main.panier table tr.total th {
-    color: #f3a700; }
+    color: #f3a700;
+    text-align: center; }
+main.panier .button {
+  background-color: #008ec0;
+  text-align: center;
+  margin-top: 2em;
+  padding: 1em; }
+  main.panier .button a {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700; }
 
-/*# sourceMappingURL=style.css.map */
+main.recherche {
+  padding: 50px; }
+  main.recherche div.resultatsRecherche {
+    font-size: 2em;
+    font-weight: 700; }
+  main.recherche .article {
+    position: relative; }
+    main.recherche .article img {
+      max-width: 200px; }
+    main.recherche .article .hoverIcons {
+      display: none; }
+    main.recherche .article:hover .hoverIcons {
+      display: block;
+      position: absolute;
+      background-color: rgba(0, 0, 0, 0.5);
+      color: #f3924c;
+      bottom: 10px; }
+
+main.webstore {
+  padding: 50px; }
+  main.webstore div {
+    text-align: center; }
+    main.webstore div span {
+      font-weight: 700; }
+  main.webstore .boutique span {
+    display: block;
+    margin-bottom: 1em; }
+  main.webstore .boutique p {
+    margin-bottom: 0; }
