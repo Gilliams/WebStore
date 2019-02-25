@@ -15,7 +15,7 @@
     </div>
     <div class="row align-items-center details">
         <div class="col-lg-2 col-3 offset-1 offset-lg-1">
-            <img src="https://picsum.photos/300/300/?random" alt="">
+            <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
         </div>
         <div class="col-lg-7 col-6 offset-1 offset-lg-1 details-contain">
             <ul>

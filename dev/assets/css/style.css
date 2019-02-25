@@ -50,6 +50,9 @@ h3 {
 .btn-primary {
   background-color: #008ec0; }
 
+.categorie-off {
+  display: none; }
+
 .icon-Addtocart .path1:before {
   content: "\e916";
   color: #1f1b1a; }
@@ -206,7 +209,7 @@ header .login {
   #h-input-search--mobile .icon-Search {
     position: absolute;
     top: -10px;
-    left: 360px; }
+    left: 440px; }
     #h-input-search--mobile .icon-Search .path1:before {
       content: "\e91d";
       color: #000;
@@ -373,7 +376,7 @@ footer {
     height: 300px; }
 
 .section-catalogue .icon {
-  font-size: 2em; }
+  font-size: 1em; }
   .section-catalogue .icon-Filtres_recherche:before {
     content: "\e925";
     display: inline-block; }
@@ -403,7 +406,8 @@ footer {
     /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
-      font-size: 2em; }
+      font-size: 2em;
+      padding-top: 15px; }
     .section-catalogue_contain-left_form input[type=checkbox] {
       display: none; }
     .section-catalogue_contain-left_form input[type=checkbox] + label:before {
@@ -470,10 +474,11 @@ footer {
     .section-catalogue_contain-right .contain .item .contain-icons {
       display: none;
       position: absolute;
-      bottom: 20px; }
+      bottom: 20px;
+      left: 20%; }
       .section-catalogue_contain-right .contain .item .contain-icons .icon {
         margin-left: 25px;
-        font-size: 2em; }
+        font-size: 3em; }
       .section-catalogue_contain-right .contain .item .contain-icons a {
         text-decoration: none; }
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
@@ -484,6 +489,9 @@ footer {
     display: none; } }
 .section-details .details {
   margin-bottom: 50px; }
+  .section-details .details img {
+    width: 300px;
+    height: 400px; }
   .section-details .details-contain ul {
     list-style: none; }
   .section-details .details-contain li {

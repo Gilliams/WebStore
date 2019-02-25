@@ -154,14 +154,14 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-format--item">
-                                    <input type="checkbox" id="dvd" value="dvd" name="format">
-                                    <label for="dvd">DVD</label>
+                                    <input type="checkbox" id="mp4" value="mp4" name="format">
+                                    <label for="mp4">MP4</label>
                                 </div>
                             </div>
                             <div class="col-md-6 section-catalogue_contain-left_form_field-format_col2">
                                 <div class="row section-catalogue_contain-left_form_field-format--item">
-                                    <input type="checkbox" id="blue-ray" value="blue-ray" name="format">
-                                    <label for="blue-ray">Blue-ray</label>
+                                    <input type="checkbox" id="mp3" value="mp3" name="format">
+                                    <label for="mp3">MP3</label>
                                 </div>
                             </div>
                         </div>
@@ -178,7 +178,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -191,7 +191,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -204,7 +204,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -219,7 +219,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -232,7 +232,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -245,7 +245,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -260,7 +260,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -273,7 +273,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -286,7 +286,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -301,7 +301,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -314,7 +314,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -327,7 +327,7 @@
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="5_details_musique.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>

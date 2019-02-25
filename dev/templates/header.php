@@ -102,11 +102,11 @@
             <a href=""><li class="nav__col--item">Webstore</li></a>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
-                    <a href="test">Qui sommes nous?</a>
+                    <a href="16_webstore.php">Qui sommes nous?</a>
                 </li>
                 <hr>
                 <li class="nav__col__child--item">
-                    <a href="test">Nous contacter</a>
+                    <a href="11_contact.php">Nous contacter</a>
                 </li>
             </div>
         </div>

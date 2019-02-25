@@ -15,11 +15,11 @@
             </div>
             <div class="row">
                 <form class="section-catalogue_contain-left_form">
-                    <fieldset id="genre" class="section-catalogue_contain-left_form_field-genre">
-                        <div class="row">
-                            <legend><span class="icon icon-Filtres_recherche"></span>Genre</legend>
+                    <fieldset class="section-catalogue_contain-left_form_field-genre">
+                        <div class="row legend-open" id="genre">
+                            <legend ><span class="icon icon-Filtres_recherche"></span>Genre</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row categories" id="content-genre">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-genre--item">
                                     <input type="checkbox" id="comedie" value="comedie" name="genre">
@@ -59,10 +59,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="nationnalite" class="section-catalogue_contain-left_form_field-nationnalite">
-                        <div class="row">
+                        <div class="row legend-open" id="nationnalite">
                             <legend><span class="icon icon-Filtres_recherche"></span>Nationalite</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-nationnalite">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-nationnalite--item">
                                     <input type="checkbox" id="bresilienne" value="bresilienne" name="nationnalite">
@@ -110,10 +110,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="date-sortie" class="section-catalogue_contain-left_form_field-date-sortie">
-                        <div class="row">
+                        <div class="row legend-open" id="date-sortie">
                             <legend><span class="icon icon-Filtres_recherche"></span>Année de sortie</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-date-sortie">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-date-sortie--item">
                                     <input type="checkbox" id="a2010" value="2010" name="date-sortie">
@@ -145,10 +145,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="langues" class="section-catalogue_contain-left_form_field-langues">
-                        <div class="row">
+                        <div class="row legend-open" id="langues">
                             <legend><span class="icon icon-Filtres_recherche"></span>Langue</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-langues">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-langues--item">
                                     <input type="checkbox" id="francais" value="francais" name="langues">
@@ -174,10 +174,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="public" class="section-catalogue_contain-left_form_field-public">
-                        <div class="row">
+                        <div class="row legend-open" id="public">
                             <legend><span class="icon icon-Filtres_recherche"></span>Public</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-public">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-public--item">
                                     <input type="checkbox" id="amateur" value="amateur" name="public">
@@ -202,10 +202,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="statut" class="section-catalogue_contain-left_form_field-statut">
-                        <div class="row">
+                        <div class="row legend-open" id="statut">
                             <legend><span class="icon icon-Filtres_recherche"></span>Statut</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-statut">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-statut--item">
                                     <input type="checkbox" id="disponible" value="disponible" name="statut">
@@ -221,10 +221,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="prix" class="section-catalogue_contain-left_form_field-prix">
-                        <div class="row">
+                        <div class="row legend-open" id="prix">
                             <legend><span class="icon icon-Filtres_recherche"></span>Prix</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-prix">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-prix--item">
                                     <input type="checkbox" id="moins-5" value="moins-5" name="prix">
@@ -256,10 +256,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="format" class="section-catalogue_contain-left_form_field-format">
-                        <div class="row">
+                        <div class="row legend-open" id="format">
                             <legend><span class="icon icon-Filtres_recherche"></span>Format</legend>
                         </div>
-                        <div class="row categories">
+                        <div class="row" id="content-format">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-format--item">
                                     <input type="checkbox" id="dvd" value="dvd" name="format">
@@ -268,8 +268,8 @@
                             </div>
                             <div class="col-md-6 section-catalogue_contain-left_form_field-format_col2">
                                 <div class="row section-catalogue_contain-left_form_field-format--item">
-                                    <input type="checkbox" id="blue-ray" value="blue-ray" name="format">
-                                    <label for="blue-ray">Blue-ray</label>
+                                    <input type="checkbox" id="blu-ray" value="blu-ray" name="format">
+                                    <label for="blu-ray">Blu-ray</label>
                                 </div>
                             </div>
                         </div>
@@ -286,7 +286,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -299,7 +299,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -312,7 +312,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -327,7 +327,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -340,7 +340,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -353,7 +353,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -368,7 +368,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -381,7 +381,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -394,7 +394,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -409,7 +409,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -422,7 +422,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -435,7 +435,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -450,7 +450,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -463,7 +463,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -476,7 +476,7 @@
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                             </a>
-                            <a href="4_details_films.php">
+                            <a href="13_panier.php">
                                 <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                             </a>
                         </div>
@@ -489,8 +489,9 @@
 
 <script type="text/javascript">
 
-    $("fieldset").on('click',function(){
-        $(this).find('.categories').toggle();
+    $(".legend-open").on('click',function(){
+        let id = $(this).attr("id");
+        $(document).find('#content-'+id).toggle();
         $(this).find('legend span').toggleClass('icon-rotate');
     });
 </script>
