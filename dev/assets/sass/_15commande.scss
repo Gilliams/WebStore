@@ -40,6 +40,52 @@ main.commande{
 	.cgv{
 		text-align: center;
 	}
+	/*input[type=checkbox],input[type=radio]{
+		appearance:none;
+		border:2px solid $color-red;
+		width: 15px;
+		height: 15px;
+		border-radius: 10px;
+		&:checked:after{
+			content: '';
+			width: 10px;
+			height: 10px;
+			border-radius: 10px;
+			background-color:$black;
+		}
+	}*/
+	input[type=radio], input[type=checkbox] {
+		visibility: hidden;
+		border:2px solid $color-red;
+		width: 15px;
+		height: 15px;
+		border-radius: 10px;
+		& + label{
+			line-height: 15px;
+			cursor:pointer;
+			span{
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				float: left;
+				margin-right: 1em;
+				border:2px solid $color-red;
+				width: 15px;
+				height: 15px;
+				border-radius: 10px;
+				p{
+					background-color:$white;
+				}
+			}
+		}
+		&:checked + label span p{
+			background-color:$black;
+			height: 7.5px;
+			width: 7.5px;
+			border-radius: 10px;
+			margin: 0 auto;
+		}
+	}
 	.button{
 		display: block;
 		background-color:$color-blue;
