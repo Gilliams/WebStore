@@ -281,7 +281,7 @@
             <div class="row line">
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/4812.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -294,7 +294,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/4812.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -307,48 +307,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row line">
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/4812.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -363,7 +322,7 @@
             <div class="row line">
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/GUY.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -376,7 +335,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/GUY.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -389,48 +348,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row line">
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="4_details_films.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/GUY.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -445,7 +363,7 @@
             <div class="row line">
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/poster_zoom.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -458,7 +376,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/poster_zoom.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -471,7 +389,89 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/400/?random" alt="">
+                        <img src="../assets/imgs/Films/poster_zoom.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row line">
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Films/Gabriel_et_la_montagne.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Films/Gabriel_et_la_montagne.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Films/Gabriel_et_la_montagne.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row line">
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Films/4514291.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Films/4514291.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="4_details_films.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Films/4514291.jpg" alt="">
                         <div class="contain-icons">
                             <a href="4_details_films.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>

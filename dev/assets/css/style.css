@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body {
-  font-family: "LibreFranklin"; }
+  font-family: "LibreFranklin";
+  margin-top: 218px; }
 @font-face {
   body {
     font-family: "Walkway";
@@ -79,12 +80,6 @@ header .input {
   border: 2px solid #1f1b1a;
   width: 660px;
   height: 60px; }
-  header .input::-webkit-input-placeholder {
-    padding-left: 20px; }
-  header .input:-ms-input-placeholder {
-    padding-left: 20px; }
-  header .input::-ms-input-placeholder {
-    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
 header .logo {
@@ -126,13 +121,15 @@ header .login {
 
 .icon-menu:before {
   content: "\e9bd";
-  font-size: 2em; }
+  font-size: 4em; }
 
 .nav {
   height: 100px;
   margin-bottom: 190px; }
+  .nav .row {
+    margin-right: 0px;
+    margin-left: 0px; }
   .nav__col {
-    width: 480px;
     font-size: 2em;
     font-weight: 600;
     text-align: center;
@@ -175,14 +172,22 @@ header .login {
   background-color: #1f1b1a; }
 
 @media screen and (min-width: 100px) and (max-width: 1026px) {
-  #h-input-search--desktop, #h-logo--desktop, #navbar-header {
+  #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop {
     display: none; }
+
+  #h-mobile {
+    position: fixed;
+    z-index: 2;
+    height: 218px;
+    top: 0;
+    clear: both; }
 
   #navbar-header {
     height: auto;
     position: fixed;
     z-index: 2;
-    width: 100%; }
+    width: 100%;
+    top: 218px; }
     #navbar-header .col-md-3 {
       width: 100%;
       max-width: 100% !important; }
@@ -194,7 +199,7 @@ header .login {
   #h-input-search--mobile .icon-Search {
     position: absolute;
     top: -10px;
-    left: 300px; }
+    left: 360px; }
     #h-input-search--mobile .icon-Search .path1:before {
       content: "\e91d";
       color: #000;
@@ -211,16 +216,10 @@ header .login {
     font-weight: 600;
     border: 2px solid #1f1b1a;
     height: 60px; }
-    #h-input-search--mobile .input--mobile::-webkit-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile:-ms-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile::-ms-input-placeholder {
-      padding-left: 20px; }
     #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; } }
 @media screen and (min-width: 1027px) {
-  #h-mobile, #h-logo--mobile, #h-input-search--mobile, #icon-menu {
+  #h-mobile, #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile {
     display: none; } }
 footer {
   background-color: #1f1b1a;
@@ -336,7 +335,7 @@ footer {
 .section-promo_contain-bottom--item-img-film {
   width: 300px;
   height: 400px;
-  background: url("https://picsum.photos/300/400/?random");
+  background: url("../imgs/Films/4812.jpg");
   background-repeat: no-repeat; }
   .section-promo_contain-bottom--item-img-film:hover a {
     display: block;
@@ -352,7 +351,7 @@ footer {
 .section-promo_contain-bottom--item-img-music {
   width: 300px;
   height: 300px;
-  background: url("https://picsum.photos/300/300/?random");
+  background: url("../imgs/Musique/61PhFJZu+ZL._SX355_.jpg");
   background-repeat: no-repeat; }
   .section-promo_contain-bottom--item-img-music:hover a {
     display: block;
@@ -374,10 +373,8 @@ footer {
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-    -webkit-transition-duration: 0.5s;
-            transition-duration: 0.5s; }
+    transform: rotate(90deg);
+    transition-duration: 0.5s; }
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -396,7 +393,7 @@ footer {
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "LibreFranklin";
-    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
+    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
       font-size: 2em; }
@@ -416,8 +413,7 @@ footer {
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
-              box-shadow: inset 0px 0px 0px 2px #fff; }
+      box-shadow: inset 0px 0px 0px 2px #fff; }
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
     .section-catalogue_contain-left_form label {
@@ -461,6 +457,9 @@ footer {
   z-index: 1; }
   .section-catalogue_contain-right .contain .item {
     z-index: 2; }
+    .section-catalogue_contain-right .contain .item img {
+      width: 300px;
+      height: 400px; }
     .section-catalogue_contain-right .contain .item .contain-icons {
       display: none;
       position: absolute;
@@ -526,6 +525,9 @@ footer {
   margin: 20px 0 20px; }
   .section-nouveaute_contain .contain .item {
     z-index: 2; }
+    .section-nouveaute_contain .contain .item img {
+      width: 300px;
+      height: 300px; }
     .section-nouveaute_contain .contain .item .contain-icons {
       display: none;
       position: absolute;
@@ -561,15 +563,9 @@ main.accueil {
     padding: 5px 0;
     margin: 20px; }
   main.accueil .slider {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: space-between;
+    align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
       position: relative; }
@@ -586,12 +582,8 @@ main.accueil {
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
       font-size: 2em; }
   main.accueil .sliderButton {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
+    justify-content: center; }
     main.accueil .sliderButton a {
       display: block;
       width: 15px;
@@ -620,3 +612,5 @@ main.panier table tr {
       padding-right: 2em; }
   main.panier table tr.total th {
     color: #f3a700; }
+
+/*# sourceMappingURL=style.css.map */

@@ -10,19 +10,19 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
-    <header class="container-fluid">
-        <div class="row">
-            <div class="col-2 align-self-center" id="h-logo--desktop">
+    <header class="container-fluid" id="h-mobile">
+        <div class="row align-items-center">
+            <div class="col-2" id="h-logo--desktop">
                 <a href="../pages/10_accueil.php">
                     <img src="../assets/imgs/logo.jpg" alt="" class="logo">
                 </a>
             </div>
-            <div class="col-2 align-self-center" id="h-logo--mobile">
+            <div class="col-2" id="h-logo--mobile">
                 <a href="../pages/2_catalogue_films.php">
                     <img src="../assets/imgs/Logo_mobile.png" alt="" class="logo">
                 </a>
             </div>
-            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--desktop">
+            <div class="col-4 offset-md-1" id="h-input-search--desktop">
                 <div class="row">
                     <form action="">
                         <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
@@ -32,7 +32,7 @@
                     </form>
                 </div>
             </div>
-            <div class="col-4 offset-md-1 align-self-center" id="h-input-search--mobile">
+            <div class="col-6 offset-md-1 mt-4" id="h-input-search--mobile">
                 <div class="row">
                     <form action="">
                         <input type="text" placeholder="Recherche" class="input--mobile" name="search">
@@ -42,10 +42,12 @@
                     </form>
                 </div>
             </div>
-            <div class="col-3 offset-md-2 login">
+            <div class="col-3 offset-md-2 login" id="h-login--desktop">
                 <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                 <a href="#">S'inscrire</a> |
                 <a href="#">Se connecter</a>
+            </div>
+            <div class="col-1 offset-1 text-right" id="h-menu--mobile">
                 <span id="icon-menu"class="icon-menu"></span>
             </div>
         </div>
@@ -98,12 +100,17 @@
                 </li>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-6 nav__col ">
+                <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">S'inscrire</li></a>
+            </div>
+            <div class="col-md-6 nav__col ">
+                <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Se connecter</li></a>
+            </div>
+        </div>
     </ul>
 <script>
-    $("#h-input-search--mobile input").hide();
-    $("#icon-Search").on('click',function(){
-        $("#h-input-search--mobile input").toggle();
-    });
+
     $('#icon-menu').on('click',function(){
         $('#navbar-header').toggle();
     });

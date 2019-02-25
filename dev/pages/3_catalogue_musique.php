@@ -173,7 +173,7 @@
             <div class="row line">
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/ce-qui-nous-lie.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -186,7 +186,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/ce-qui-nous-lie.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -199,48 +199,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row line">
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
-                        <div class="contain-icons">
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
-                            <a href="5_details_musique.php">
-                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-8 contain">
-                    <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/ce-qui-nous-lie.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -255,7 +214,7 @@
             <div class="row line">
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/Le_Parrain_Bande_originale_du_film_Bande_Originale.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -268,7 +227,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/Le_Parrain_Bande_originale_du_film_Bande_Originale.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -281,7 +240,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/Le_Parrain_Bande_originale_du_film_Bande_Originale.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -296,7 +255,7 @@
             <div class="row line">
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -309,7 +268,7 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -322,7 +281,48 @@
                 </div>
                 <div class="col-lg-4 col-8 contain">
                     <div class="item">
-                        <img src="https://picsum.photos/300/300/?random" alt="">
+                        <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
+                        <div class="contain-icons">
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row line">
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Musique/1128-Weinstein-Quentin-Tarantino-Loma-Vista-Announce-Django-Unchained-Soundtrack-1.jpeg" alt="">
+                        <div class="contain-icons">
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Musique/1128-Weinstein-Quentin-Tarantino-Loma-Vista-Announce-Django-Unchained-Soundtrack-1.jpeg" alt="">
+                        <div class="contain-icons">
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
+                            </a>
+                            <a href="5_details_musique.php">
+                                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-8 contain">
+                    <div class="item">
+                        <img src="../assets/imgs/Musique/1128-Weinstein-Quentin-Tarantino-Loma-Vista-Announce-Django-Unchained-Soundtrack-1.jpeg" alt="">
                         <div class="contain-icons">
                             <a href="5_details_musique.php">
                                 <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
