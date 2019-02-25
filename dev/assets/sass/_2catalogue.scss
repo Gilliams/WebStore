@@ -84,6 +84,10 @@
                 z-index: 1;
                 .item{
                     z-index: 2;
+                    img{
+                        width: 300px;
+                        height: 400px;    
+                    }
                     .contain-icons{
                         display: none;
                         position: absolute;

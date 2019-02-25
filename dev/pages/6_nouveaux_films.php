@@ -2,6 +2,12 @@
 <section class="section-nouveaute">
     <div class="row ">
         <div class="col-lg-6 offset-3">
+            <nav id="bread" aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="3_catalogue_musique.php">Films</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Nouveaux films</li>
+              </ol>
+            </nav>
             <div class="row align-items-center justify-content-center section-nouveaute--title">
                 <h2>Nos derniers films ajoutés</h2>
             </div>
@@ -11,7 +17,7 @@
         <div class="row line">
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/la-guerre-est-dc3a9clarc3a9e.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -24,7 +30,7 @@
             </div>
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/la-guerre-est-dc3a9clarc3a9e.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -37,7 +43,7 @@
             </div>
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/la-guerre-est-dc3a9clarc3a9e.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -50,7 +56,7 @@
             </div>
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/la-guerre-est-dc3a9clarc3a9e.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -65,7 +71,7 @@
         <div class="row line">
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/300x400/whiplash.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -78,7 +84,7 @@
             </div>
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/300x400/whiplash.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -91,7 +97,7 @@
             </div>
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/300x400/whiplash.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
@@ -104,7 +110,7 @@
             </div>
             <div class="col-lg-3 col-6 contain">
                 <div class="item">
-                    <img src="https://picsum.photos/300/400/?random" alt="">
+                    <img src="../assets/imgs/Films/300x400/whiplash.jpg" alt="">
                     <div class="contain-icons">
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
