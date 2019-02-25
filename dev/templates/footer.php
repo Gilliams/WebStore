@@ -104,4 +104,9 @@
         </div>
     </div>
     <script src="https://vjs.zencdn.net/7.4.1/video.js"></script>
+    <script>
+        $('#icon-menu').on('click',function(){
+            $('#navbar-header').toggle();
+        });
+    </script>
 </footer>

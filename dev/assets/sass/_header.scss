@@ -1,14 +1,16 @@
 body{
     width: 100%;
 }
-
 header {
+    form{
+        width: 100%;
+    }
     .input{
         font-size: $font-size--L;
         font-weight: $font-weight--x-regular;
         border: 2px solid $black;
-        width: 660px;
         height: $line-height--large-spe;
+        width: 100%;
         &::placeholder{
             padding-left: $padding-height--regular   ;
         }
@@ -19,8 +21,6 @@ header {
     .login{
         font-size: $font-size--L;
         .icon-User{
-            margin-top: $margin-height--small;
-            display: inline-block;
             .path1:before {
               content: "\e91f";
               color: #e62d2e;
@@ -47,8 +47,8 @@ header {
 
 .icon-Search{
     position: absolute;
-    top: -$margin-height--small;
-    left: 630px;
+    top: $margin-height--small;
+    left: 775px;
     .path1:before {
       content: "\e91d";
       color: #000;
@@ -73,10 +73,7 @@ header {
 .nav {
     height: $line-height--xx-large ;
     margin-bottom: 190px;
-    .row{
-        margin-right: 0px;
-        margin-left: 0px;
-    }
+    line-height: $line-height--xx-large;
     &__col{
         font-size: $font-size--L ;
         font-weight: $font-weight--x-regular ;
@@ -113,6 +110,7 @@ header {
                 margin: auto;
                 text-align: center;
                 height: $line-height--large-spe;
+                line-height: $line-height--large-spe;
                 background-color: $black;
                 a{
                     color: $color-marron;
@@ -132,7 +130,6 @@ header {
 .navbar-toggler{
     background-color: $black;
 }
-
 
 // =============================================================================
 // Media Queries
@@ -162,6 +159,10 @@ header {
             width: 100%;
             max-width: 100% !important;
         }
+    }
+    ul.row{
+        margin-right: 0px;
+        margin-left: 0px;
     }
 
     .logo{
@@ -198,9 +199,9 @@ header {
         }
     }
 }
+
 @media screen and (min-width: 1027px) {
-    #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile{
+    #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile,#h-login--mobile{
         display: none;
     }
-
 }
