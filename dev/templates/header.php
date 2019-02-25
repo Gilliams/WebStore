@@ -52,7 +52,7 @@
     </header>
     <ul class="row nav navbar-nav" id="navbar-header">
         <div class="col-md-3 nav__col">
-            <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Accueil</li></a>
+            <a href="../pages/10_accueil.php"><li class="nav__col--item">Accueil</li></a>
         </div>
         <div class="col-md-3 nav__col">
             <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Films</li></a>
