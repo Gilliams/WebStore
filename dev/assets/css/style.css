@@ -33,7 +33,7 @@ h3 {
 
 #bread {
   font-size: 1.5em;
-  width: 40%;
+  width: 50%;
   margin: 0 auto; }
   #bread ol {
     background-color: #f3924c;
@@ -338,15 +338,17 @@ header .logo {
 header .login {
   font-family: "Walkway";
   font-size: 2em; }
-  header .login .icon-User .path1:before {
-    content: "\e91f";
-    color: #e62d2e;
-    font-size: 2em; }
-  header .login .icon-User .path2:before {
-    content: "\e920";
-    color: #fff;
-    margin-left: -1em;
-    font-size: 2em; }
+  header .login .icon-User {
+    margin-left: 60%; }
+    header .login .icon-User .path1:before {
+      content: "\e91f";
+      color: #e62d2e;
+      font-size: 1.5em; }
+    header .login .icon-User .path2:before {
+      content: "\e920";
+      color: #fff;
+      margin-left: -1em;
+      font-size: 1.5em; }
   header .login a {
     color: #1f1b1a;
     text-decoration: none;
@@ -356,7 +358,7 @@ header .login {
 
 .icon-Search {
   position: absolute;
-  left: 775px;
+  left: 98%;
   top: -1px; }
   .icon-Search .path1:before {
     content: "\e91d";
@@ -375,7 +377,7 @@ header .login {
 .nav {
   font-family: "Walkway";
   height: 60px;
-  margin-bottom: 190px;
+  margin-bottom: 140px;
   line-height: 60px; }
   .nav__col {
     font-size: 2em;
@@ -420,7 +422,7 @@ header .login {
 .navbar-toggler {
   background-color: #1f1b1a; }
 
-@media screen and (min-width: 100px) and (max-width: 1026px) {
+@media screen and (min-width: 100px) and (max-width: 1023px) {
   body {
     margin-top: 218px; }
 
@@ -480,7 +482,7 @@ header .login {
       padding-left: 20px; }
     #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; } }
-@media screen and (min-width: 1027px) {
+@media screen and (min-width: 1024px) {
   #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile, #h-login--mobile {
     display: none; } }
 footer {
@@ -570,7 +572,7 @@ footer {
     margin-left: -1em; }
 
 .section-promo .icon {
-  font-size: 2em; }
+  font-size: 3em; }
   .section-promo .icon-center-film {
     font-size: 11.2em;
     position: absolute;
@@ -624,8 +626,8 @@ footer {
     height: 300px; }
   .section-promo_contain-bottom--item-img-music a {
     display: none;
-    padding-left: 100px;
-    padding-top: 100px;
+    padding-left: 130px;
+    padding-top: 130px;
     width: 300px;
     height: 300px; }
 
@@ -650,7 +652,7 @@ footer {
   margin-left: 40px; }
   .section-catalogue_contain-left--item {
     background-color: #3d3d3d;
-    height: 80px; }
+    height: 60px; }
     .section-catalogue_contain-left--item h3 {
       color: #fff;
       margin: auto; }
@@ -662,7 +664,7 @@ footer {
     /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
-      font-size: 2em;
+      font-size: 1.5em;
       padding-top: 15px; }
     .section-catalogue_contain-left_form input[type=checkbox] {
       display: none; }
@@ -689,35 +691,35 @@ footer {
     .section-catalogue_contain-left_form_field-genre_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-genre label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-nationnalite_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-nationnalite label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-date-sortie_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-date-sortie label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-langues_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-langues label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-public_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-public label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-statut_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-statut label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-prix_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-prix label {
-      font-size: 2em; }
+      font-size: 1em; }
     .section-catalogue_contain-left_form_field-format_col2 {
       margin-left: -20px; }
     .section-catalogue_contain-left_form_field-format label {
-      font-size: 2em; }
+      font-size: 1em; }
 .section-catalogue_contain-right .line {
   margin-bottom: 90px; }
 .section-catalogue_contain-right .contain {
@@ -731,7 +733,7 @@ footer {
     .section-catalogue_contain-right .contain .item .contain-icons {
       display: none;
       position: absolute;
-      bottom: 60px;
+      bottom: 20px;
       left: 20%; }
       .section-catalogue_contain-right .contain .item .contain-icons .icon {
         margin-left: 25px;
@@ -803,7 +805,7 @@ footer {
     .section-nouveaute_contain .contain .item .contain-icons {
       display: none;
       position: absolute;
-      bottom: 60px;
+      bottom: 20px;
       left: 20%; }
       .section-nouveaute_contain .contain .item .contain-icons .icon {
         margin-left: 25px;

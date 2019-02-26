@@ -20,7 +20,7 @@
             margin-left: $margin-height--regular*2 ;
             &--item{
                 background-color: $grey;
-                height: $line-height--XL ;
+                height: $line-height--L ;
                 h3{
                     color: $white;
                     margin: auto;
@@ -33,7 +33,7 @@
                 font-family: $font-family--text;
                 legend{
                     font-weight: bold;
-                    font-size: $font-size--L;
+                    font-size: $font-size--M;
                     padding-top: 15px;
                 }
                 input[type=checkbox]{
@@ -69,7 +69,7 @@
                           margin-left: -$margin-height--regular;
                       }
                     label{
-                        font-size: $font-size--L;
+                        font-size: $font-size--S;
                     }
                   }
                 }
@@ -92,7 +92,7 @@
                     .contain-icons{
                         display: none;
                         position: absolute;
-                        bottom: $line-height--L ;
+                        bottom: $line-height--S;
                         left: 20%;
                         .icon{
                             margin-left: $margin-height--regular--mid;

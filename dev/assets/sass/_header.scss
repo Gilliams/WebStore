@@ -22,16 +22,17 @@ header {
         font-family: $font-family--title;
         font-size: $font-size--L;
         .icon-User{
+            margin-left: 60%;
             .path1:before {
               content: "\e91f";
               color: #e62d2e;
-              font-size: $font-size--L;
+              font-size: $font-size--M;
             }
             .path2:before {
               content: "\e920";
               color: #fff;
               margin-left: -1em;
-              font-size: $font-size--L;
+              font-size: $font-size--M;
             }
         }
         a{
@@ -48,7 +49,7 @@ header {
 
 .icon-Search{
     position: absolute;
-    left: 775px;
+    left: 98%;
     top: -1px;
     .path1:before {
       content: "\e91d";
@@ -74,7 +75,7 @@ header {
 .nav {
     font-family: $font-family--title;
     height: $line-height--L ;
-    margin-bottom: 190px;
+    margin-bottom: 140px;
     line-height: $line-height--L;
     &__col{
         font-size: $font-size--L ;
@@ -137,7 +138,7 @@ header {
 // Media Queries
 // =============================================================================
 
-@media screen and (min-width: 100px) and (max-width: 1026px) {
+@media screen and (min-width: 100px) and (max-width: 1023px) {
     body{
         margin-top: 218px;
     }
@@ -202,7 +203,7 @@ header {
     }
 }
 
-@media screen and (min-width: 1027px) {
+@media screen and (min-width: 1024px) {
     #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile,#h-login--mobile{
         display: none;
     }
