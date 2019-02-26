@@ -1,7 +1,7 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-nouveaute">
     <div class="row marg-LR">
-        <div class="col-lg-6 offset-3">
+        <div class="col-lg-6 offset-lg-3 col-8 offset-2">
             <nav id="bread" aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="3_catalogue_musique.php">Films</a></li>

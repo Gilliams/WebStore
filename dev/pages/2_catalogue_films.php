@@ -9,7 +9,7 @@
         </div>
     </div>
     <div class="row marg-LR">
-        <div class="col-md-3 section-catalogue_contain-left">
+        <div class="col-md-3 section-catalogue_contain-left filtre">
             <div class="row section-catalogue_contain-left--item">
                 <h3>Recherche par filtres</h3>
             </div>
@@ -279,7 +279,7 @@
         </div>
         <div class="col-lg-7 col-8 offset-lg-1 offset-3 section-catalogue_contain-right">
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/4812.jpg" alt="">
                         <div class="contain-icons">
@@ -292,7 +292,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/4812.jpg" alt="">
                         <div class="contain-icons">
@@ -305,7 +305,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/4812.jpg" alt="">
                         <div class="contain-icons">
@@ -320,7 +320,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/GUY.jpg" alt="">
                         <div class="contain-icons">
@@ -333,7 +333,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/GUY.jpg" alt="">
                         <div class="contain-icons">
@@ -346,7 +346,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/GUY.jpg" alt="">
                         <div class="contain-icons">
@@ -361,7 +361,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/poster_zoom.jpg" alt="">
                         <div class="contain-icons">
@@ -374,7 +374,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/poster_zoom.jpg" alt="">
                         <div class="contain-icons">
@@ -387,7 +387,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/poster_zoom.jpg" alt="">
                         <div class="contain-icons">
@@ -402,7 +402,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/Gabriel_et_la_montagne.jpg" alt="">
                         <div class="contain-icons">
@@ -415,7 +415,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/Gabriel_et_la_montagne.jpg" alt="">
                         <div class="contain-icons">
@@ -428,7 +428,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/Gabriel_et_la_montagne.jpg" alt="">
                         <div class="contain-icons">
@@ -443,7 +443,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/4514291.jpg" alt="">
                         <div class="contain-icons">
@@ -456,7 +456,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/4514291.jpg" alt="">
                         <div class="contain-icons">
@@ -469,7 +469,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Films/4514291.jpg" alt="">
                         <div class="contain-icons">

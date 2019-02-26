@@ -12,7 +12,7 @@
                     <h2>promotion électro</h2>
                 </div>
                 <div class="row section-promo_contain-bottom">
-                    <div class="col-lg-9 col-10 offset-lg-3 offset-2">
+                    <div class="col-lg-10 col-10 offset-lg-2 offset-2">
                         <div class="row section-promo_contain-bottom--item">
                             <div class="section-promo_contain-bottom--item-img-music">
                                 <a href=""><span class=" icon icon-details icon-Details"><span class="path1"></span><span class="path2"></span></span></a>

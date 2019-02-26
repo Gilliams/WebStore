@@ -11,8 +11,8 @@
                 <div class="row align-items-center justify-content-center section-promo_contain-top--item">
                     <h2>promotion films primés</h2>
                 </div>
-                <div class="row marg-LR section-promo_contain-bottom">
-                    <div class="col-lg-9 col-10 offset-lg-3 offset-2">
+                <div class="row section-promo_contain-bottom">
+                    <div class="col-lg-10 offset-lg-2 col-10 offset-2">
                         <div class="row section-promo_contain-bottom--item">
                             <div class="section-promo_contain-bottom--item-img-film">
                                 <a href=""><span class=" icon icon-details icon-Details"><span class="path1"></span><span class="path2"></span></span></a>

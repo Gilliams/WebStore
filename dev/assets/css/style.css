@@ -423,7 +423,7 @@ header .login {
   body {
     margin-top: 218px; }
 
-  #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop {
+  #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop, .filtre {
     display: none; }
 
   #h-mobile {
