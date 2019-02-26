@@ -13,7 +13,7 @@
 </head>
 <body>
     <header class="container-fluid" id="h-mobile">
-        <div class="row align-items-center">
+        <div class="row marg-LR align-items-center">
             <div class="col-4 align-self-center" id="h-logo--desktop">
                 <a href="../pages/10_accueil.php">
                     <img src="../assets/imgs/logo.jpg" alt="" class="logo">
@@ -60,7 +60,7 @@
             </div>
         </div>
     </header>
-    <ul class="row nav navbar-nav align-self-center" id="navbar-header">
+    <ul class="row marg-LR nav navbar-nav align-self-center" id="navbar-header">
         <div class="col-md-3 nav__col">
             <a href="../pages/10_accueil.php"><li class="nav__col--item">Accueil</li></a>
         </div>

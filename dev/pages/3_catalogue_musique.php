@@ -1,14 +1,14 @@
 <?php include('../templates/header.php'); ?>
 
 <section class="section-catalogue">
-    <div class="row">
+    <div class="row marg-LR">
         <div class="col-md-6 offset-md-3 section-catalogue_contain">
             <div class="row align-items-center justify-content-center section-catalogue_contain-top--item">
                 <h2>Catalogue - Musique</h2>
             </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row marg-LR">
         <div class="col-md-3 section-catalogue_contain-left">
             <div class="row section-catalogue_contain-left--item">
                 <h3>Recherche par filtres</h3>

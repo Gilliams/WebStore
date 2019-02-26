@@ -1,6 +1,6 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-nouveaute">
-    <div class="row ">
+    <div class="row marg-LR">
         <div class="col-6 offset-3">
             <nav id="bread" aria-label="breadcrumb">
               <ol class="breadcrumb">

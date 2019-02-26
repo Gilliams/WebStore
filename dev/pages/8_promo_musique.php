@@ -1,6 +1,6 @@
 <?php include('../templates/header.php'); ?>
     <section class="section-promo">
-        <div class="row">
+        <div class="row marg-LR">
             <div class="col-lg-6 offset-lg-3 col-10 offset-1 section-promo_contain">
                 <nav id="bread" aria-label="breadcrumb">
                   <ol class="breadcrumb">

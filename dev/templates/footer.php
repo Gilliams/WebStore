@@ -1,5 +1,5 @@
 <footer>
-    <div class="row" id="f-desktop">
+    <div class="row marg-LR" id="f-desktop">
         <div class="col-md-1 col-small--item-title">
             <a href="#">Accueil</a>
         </div>

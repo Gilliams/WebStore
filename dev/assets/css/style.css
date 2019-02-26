@@ -50,6 +50,10 @@ h3 {
     color: #008ec0;
     font-weight: 800; }
 
+.marg-LR {
+  margin-left: 0px;
+  margin-right: 0px; }
+
 .icon-Moins .path1:before {
   content: "\e900";
   color: #008ec0; }
@@ -319,12 +323,6 @@ header .input {
   border: 2px solid #1f1b1a;
   height: 30px;
   width: 100%; }
-  header .input::-webkit-input-placeholder {
-    padding-left: 20px; }
-  header .input:-ms-input-placeholder {
-    padding-left: 20px; }
-  header .input::-ms-input-placeholder {
-    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
 header .logo {
@@ -472,13 +470,7 @@ header .login {
     font-size: 1.5em;
     font-weight: 600;
     border: 2px solid #1f1b1a;
-    height: 60px; }
-    #h-input-search--mobile .input--mobile::-webkit-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile:-ms-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile::-ms-input-placeholder {
-      padding-left: 20px; }
+    height: 30px; }
     #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; }
 
@@ -606,7 +598,8 @@ footer {
       top: 300px;
       left: 210px; }
     .section-promo a .prix:hover {
-      visibility: hidden; }
+      visibility: hidden;
+      display: none; }
 .section-promo_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -653,10 +646,8 @@ footer {
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-    -webkit-transition-duration: 0.5s;
-            transition-duration: 0.5s; }
+    transform: rotate(90deg);
+    transition-duration: 0.5s; }
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -675,7 +666,7 @@ footer {
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "Libre Franklin", sans-serif;
-    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
+    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
       font-size: 1.5em;
@@ -696,8 +687,7 @@ footer {
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
-              box-shadow: inset 0px 0px 0px 2px #fff; }
+      box-shadow: inset 0px 0px 0px 2px #fff; }
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
     .section-catalogue_contain-left_form label {
@@ -766,21 +756,23 @@ footer {
     list-style: none; }
   .section-details .details-contain li {
     font-family: "Libre Franklin", sans-serif;
-    font-size: 2em; }
+    font-size: 1.5em; }
     .section-details .details-contain li span {
       color: #f3a700; }
   .section-details .details .icon {
     margin-right: 20px;
-    font-size: 2em; }
+    font-size: 1.5em; }
   .section-details .details .bold {
     font-weight: 700; }
 .section-details .price-contain {
   position: relative; }
   .section-details .price-contain .price {
     color: inherit;
-    font-size: 1.5em;
+    font-size: 0.5em;
     position: absolute;
     top: 8px; }
+.section-details .section-catalogue_contain a {
+  text-decoration: none; }
 .section-details .video-js {
   margin: auto; }
   .section-details .video-js .vjs-big-play-button {
@@ -789,10 +781,10 @@ footer {
 .section-details .table th {
   color: #f3a700;
   font-family: "Libre Franklin", sans-serif;
-  font-size: 2em; }
+  font-size: 1.5em; }
 .section-details .table td {
   font-family: "Libre Franklin", sans-serif;
-  font-size: 2em;
+  font-size: 1em;
   vertical-align: middle; }
 .section-details .table .icon {
   padding-left: 25%; }
@@ -864,15 +856,9 @@ main.accueil {
     padding: 5px 0;
     margin: 20px; }
   main.accueil .slider {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: space-between;
+    align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
       position: relative; }
@@ -889,12 +875,8 @@ main.accueil {
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
       font-size: 2em; }
   main.accueil .sliderButton {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
+    justify-content: center; }
     main.accueil .sliderButton a {
       display: block;
       width: 15px;
@@ -1016,16 +998,9 @@ main.commande {
       line-height: 15px;
       cursor: pointer; }
       main.commande input[type=radio] + label span, main.commande input[type=checkbox] + label span {
-        display: -webkit-box;
-        display: -ms-flexbox;
         display: flex;
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-            -ms-flex-direction: column;
-                flex-direction: column;
-        -webkit-box-pack: center;
-            -ms-flex-pack: center;
-                justify-content: center;
+        flex-direction: column;
+        justify-content: center;
         float: left;
         margin-right: 1em;
         border: 2px solid #e62d2e;
@@ -1066,3 +1041,5 @@ main.webstore {
     margin-bottom: 1em; }
   main.webstore .boutique p {
     margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */
