@@ -20,7 +20,7 @@
             margin-left: $margin-height--regular*2 ;
             &--item{
                 background-color: $grey;
-                height: $line-height--x-large ;
+                height: $line-height--XL ;
                 h3{
                     color: $white;
                     margin: auto;
@@ -92,7 +92,7 @@
                     .contain-icons{
                         display: none;
                         position: absolute;
-                        bottom: $line-height--spe ;
+                        bottom: $line-height--L ;
                         left: 20%;
                         .icon{
                             margin-left: $margin-height--regular--mid;

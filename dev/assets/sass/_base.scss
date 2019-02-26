@@ -36,8 +36,11 @@ h5{
 }
 #bread{
     font-size: $font-size--M;
+    width: 40%;
+    margin: 0 auto;
     ol{
         background-color: $color-marron;
+        border-radius: 0px;
         .breadcrumb-item{
             font-size: $font-size--S;
             &:before{
@@ -57,7 +60,4 @@ h5{
 }
 .btn-primary{
     background-color: $color-blue ;
-}
-.categorie-off{
-    display: none;
 }
