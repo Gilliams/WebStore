@@ -14,7 +14,7 @@
 <body>
     <header class="container-fluid" id="h-mobile">
         <div class="row align-items-center">
-            <div class="col-2 align-self-center" id="h-logo--desktop">
+            <div class="col-4 align-self-center" id="h-logo--desktop">
                 <a href="../pages/10_accueil.php">
                     <img src="../assets/imgs/logo.jpg" alt="" class="logo">
                 </a>
@@ -24,7 +24,7 @@
                     <img src="../assets/imgs/Logo_mobile.png" alt="" class="logo">
                 </a>
             </div>
-            <div class="col-lg-5 offset-1 align-self-center" id="h-input-search--desktop">
+            <div class="col-lg-4 align-self-center" id="h-input-search--desktop">
                 <div class="row">
                     <form action="">
                         <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
@@ -46,7 +46,7 @@
             </div>
             <div class="col-3 offset-md-1 login align-self-center" id="h-login--desktop">
                 <div class="row">
-                    <div class="col-4 align-self-center">
+                    <div class="col-4">
                         <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                     </div>
                     <div class="col-8">
