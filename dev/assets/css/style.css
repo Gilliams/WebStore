@@ -880,9 +880,13 @@ main.panier table tr {
     color: #f3a700;
     text-align: center; }
 main.panier .button {
-  display: block;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   background-color: #008ec0;
-  border: 2px solid #008ec0;
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
@@ -893,6 +897,8 @@ main.panier .button {
     background-color: #fff;
     color: #008ec0;
     text-decoration: none; }
+  main.panier .button span.icon {
+    margin-right: .2em; }
 
 main.recherche {
   padding: 50px; }
