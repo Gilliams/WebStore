@@ -11,7 +11,7 @@
             }
             li{
                 font-family: $font-family--text;
-                font-size: $font-size--L;
+                font-size: $font-size--M;
                 span{
                     color: $color-orange;
                 }
@@ -19,7 +19,7 @@
         }
         .icon{
             margin-right: $margin-height--regular;
-            font-size: $font-size--L ;
+            font-size: $font-size--M ;
         }
         .bold{
             font-weight: $font-weight--bold;
@@ -29,12 +29,16 @@
         position: relative;
         .price{
             color: inherit;
-            font-size: $font-size--M;
+            font-size: $font-size--S/2;
             position: absolute;
             top: 8px;
         }
     }
-
+    .section-catalogue_contain{
+        a{
+            text-decoration: none;
+        }
+    }
     .video-js{
         margin: auto;
         .vjs-big-play-button{
@@ -46,11 +50,11 @@
         th{
             color: $color-orange;
             font-family: $font-family--text;
-            font-size: $font-size--L;
+            font-size: $font-size--M;
         }
         td{
             font-family: $font-family--text ;
-            font-size: $font-size--L;
+            font-size: $font-size--S;
             vertical-align: middle;
         }
         .icon{

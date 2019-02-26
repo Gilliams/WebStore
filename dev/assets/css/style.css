@@ -50,8 +50,9 @@ h3 {
     color: #008ec0;
     font-weight: 800; }
 
-.btn-primary {
-  background-color: #008ec0; }
+.marg-LR {
+  margin-left: 0px;
+  margin-right: 0px; }
 
 .icon-Moins .path1:before {
   content: "\e900";
@@ -314,9 +315,6 @@ h3 {
 .icon-circle-left:before {
   content: "\ea44"; }
 
-body {
-  width: 100%; }
-
 header form {
   width: 100%; }
 header .input {
@@ -325,21 +323,15 @@ header .input {
   border: 2px solid #1f1b1a;
   height: 30px;
   width: 100%; }
-  header .input::-webkit-input-placeholder {
-    padding-left: 20px; }
-  header .input:-ms-input-placeholder {
-    padding-left: 20px; }
-  header .input::-ms-input-placeholder {
-    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
 header .logo {
   margin: 34px; }
 header .login {
-  font-family: "Walkway";
+  font-family: "Libre Franklin", sans-serif;
   font-size: 2em; }
   header .login .icon-User {
-    margin-left: 60%; }
+    margin-left: 40%; }
     header .login .icon-User .path1:before {
       content: "\e91f";
       color: #e62d2e;
@@ -349,30 +341,35 @@ header .login {
       color: #fff;
       margin-left: -1em;
       font-size: 1.5em; }
-  header .login a {
-    color: #1f1b1a;
-    text-decoration: none;
-    font-weight: 700; }
-    header .login a:hover {
+  header .login .btn-login {
+    background-color: #008ec0;
+    color: #fff;
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 0;
+    font-size: 20px; }
+    header .login .btn-login:hover {
+      background-color: #fff;
+      color: #008ec0;
       text-decoration: none; }
 
 .icon-Search {
   position: absolute;
-  left: 98%;
-  top: -1px; }
+  left: 97%;
+  top: -10px; }
   .icon-Search .path1:before {
     content: "\e91d";
     color: #000;
-    font-size: 2em; }
+    font-size: 3em; }
   .icon-Search .path2:before {
     content: "\e91e";
     color: #fff;
     margin-left: -1em;
-    font-size: 2em; }
+    font-size: 3em; }
 
 .icon-menu:before {
   content: "\e9bd";
-  font-size: 4em; }
+  font-size: 3em; }
 
 .nav {
   font-family: "Walkway";
@@ -426,7 +423,7 @@ header .login {
   body {
     margin-top: 218px; }
 
-  #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop {
+  #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop, .filtre {
     display: none; }
 
   #h-mobile {
@@ -456,34 +453,37 @@ header .login {
 
   #h-input-search--mobile .icon-Search {
     position: absolute;
-    top: -10px;
-    left: 440px; }
+    top: -5px;
+    left: 90%; }
     #h-input-search--mobile .icon-Search .path1:before {
       content: "\e91d";
       color: #000;
-      font-size: 80px; }
+      font-size: 40px; }
     #h-input-search--mobile .icon-Search .path2:before {
       content: "\e91e";
       color: #fff;
       margin-left: -1em;
-      font-size: 80px; }
+      font-size: 40px; }
   #h-input-search--mobile .input--mobile {
     width: 100%;
     display: block;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 600;
     border: 2px solid #1f1b1a;
-    height: 60px; }
-    #h-input-search--mobile .input--mobile::-webkit-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile:-ms-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile::-ms-input-placeholder {
-      padding-left: 20px; }
+    height: 30px; }
     #h-input-search--mobile .input--mobile::placeholder {
-      padding-left: 20px; } }
+      padding-left: 20px; }
+
+  #f-desktop {
+    display: none; }
+
+  #f-mobile #accueil {
+    margin-bottom: 50px; }
+
+  #my-video {
+    width: 100%; } }
 @media screen and (min-width: 1024px) {
-  #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile, #h-login--mobile {
+  #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile, #h-login--mobile, #f-mobile {
     display: none; } }
 footer {
   background-color: #1f1b1a;
@@ -523,18 +523,6 @@ footer {
   footer .col-right__row-bottom {
     margin-top: 25px; }
 
-@media screen and (min-width: 100px) and (max-width: 1026px) {
-  #f-desktop {
-    display: none; }
-
-  #f-mobile #accueil {
-    margin-bottom: 50px; }
-
-  #my-video {
-    width: 100%; } }
-@media screen and (min-width: 1027px) {
-  #f-mobile {
-    display: none; } }
 .icon {
   font-size: 2em; }
   .icon-Facebook.path1:before {
@@ -571,28 +559,44 @@ footer {
     color: #fff;
     margin-left: -1em; }
 
-.section-promo .icon {
-  font-size: 3em; }
-  .section-promo .icon-center-film {
-    font-size: 11.2em;
-    position: absolute;
-    top: 300px;
-    left: 210px; }
-  .section-promo .icon-center-music {
-    font-size: 11.2em;
-    position: absolute;
-    top: 210px;
-    left: 210px; }
-.section-promo .prix {
-  display: block;
-  position: absolute;
-  left: 210px; }
-  .section-promo .prix:hover {
-    visibility: hidden; }
-  .section-promo .prix-musique {
-    top: 210px; }
-  .section-promo .prix-film {
-    top: 300px; }
+.section-promo a {
+  text-decoration: none; }
+  .section-promo a .icon {
+    font-size: 3em; }
+    .section-promo a .icon-center-film {
+      font-size: 11.4em;
+      position: absolute;
+      top: 298px;
+      left: 208px; }
+    .section-promo a .icon-center-music {
+      font-size: 11.4em;
+      position: absolute;
+      top: 208px;
+      left: 208px; }
+  .section-promo a .prix {
+    height: 11.2em;
+    width: 11.2em;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 5px solid #008ec0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #008ec0;
+    position: absolute; }
+    .section-promo a .prix span:nth-child(1) {
+      font-size: 3em;
+      font-weight: 600; }
+    .section-promo a .prix span:nth-child(2) {
+      margin-top: -20px;
+      font-size: 1em; }
+    .section-promo a .prix-music {
+      top: 210px;
+      left: 210px; }
+    .section-promo a .prix-film {
+      top: 300px;
+      left: 210px; }
 .section-promo_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -610,7 +614,7 @@ footer {
     height: 400px; }
   .section-promo_contain-bottom--item-img-film a {
     display: none;
-    padding-left: 90px;
+    padding-left: 130px;
     padding-top: 140px;
     width: 300px;
     height: 400px; }
@@ -639,10 +643,8 @@ footer {
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-    -webkit-transition-duration: 0.5s;
-            transition-duration: 0.5s; }
+    transform: rotate(90deg);
+    transition-duration: 0.5s; }
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -661,7 +663,7 @@ footer {
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "Libre Franklin", sans-serif;
-    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
+    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
       font-size: 1.5em;
@@ -682,8 +684,7 @@ footer {
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
-              box-shadow: inset 0px 0px 0px 2px #fff; }
+      box-shadow: inset 0px 0px 0px 2px #fff; }
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
     .section-catalogue_contain-left_form label {
@@ -743,9 +744,6 @@ footer {
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
       display: block; }
 
-@media screen and (min-width: 100px) and (max-width: 1026px) {
-  .section-catalogue_contain-left {
-    display: none; } }
 .section-details .details {
   margin-bottom: 50px; }
   .section-details .details img {
@@ -755,21 +753,23 @@ footer {
     list-style: none; }
   .section-details .details-contain li {
     font-family: "Libre Franklin", sans-serif;
-    font-size: 2em; }
+    font-size: 1.5em; }
     .section-details .details-contain li span {
       color: #f3a700; }
   .section-details .details .icon {
     margin-right: 20px;
-    font-size: 2em; }
+    font-size: 1.5em; }
   .section-details .details .bold {
     font-weight: 700; }
 .section-details .price-contain {
   position: relative; }
   .section-details .price-contain .price {
     color: inherit;
-    font-size: 1.5em;
+    font-size: 0.5em;
     position: absolute;
     top: 8px; }
+.section-details .section-catalogue_contain a {
+  text-decoration: none; }
 .section-details .video-js {
   margin: auto; }
   .section-details .video-js .vjs-big-play-button {
@@ -778,10 +778,10 @@ footer {
 .section-details .table th {
   color: #f3a700;
   font-family: "Libre Franklin", sans-serif;
-  font-size: 2em; }
+  font-size: 1.5em; }
 .section-details .table td {
   font-family: "Libre Franklin", sans-serif;
-  font-size: 2em;
+  font-size: 1em;
   vertical-align: middle; }
 .section-details .table .icon {
   padding-left: 25%; }
@@ -854,15 +854,9 @@ main.accueil {
     padding: 5px 0;
     margin: 20px; }
   main.accueil .slider {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: space-between;
+    align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
       position: relative; }
@@ -881,12 +875,8 @@ main.accueil {
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
       font-size: 2em; }
   main.accueil .sliderButton {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
+    justify-content: center; }
     main.accueil .sliderButton a {
       display: block;
       width: 15px;
@@ -924,12 +914,8 @@ main.panier table tr {
     color: #f3a700;
     text-align: center; }
 main.panier .button {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   background-color: #008ec0;
   border: 2px solid #008ec0;
   color: #fff;
@@ -1013,16 +999,9 @@ main.commande {
       line-height: 15px;
       cursor: pointer; }
       main.commande input[type=radio] + label span, main.commande input[type=checkbox] + label span {
-        display: -webkit-box;
-        display: -ms-flexbox;
         display: flex;
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-            -ms-flex-direction: column;
-                flex-direction: column;
-        -webkit-box-pack: center;
-            -ms-flex-pack: center;
-                justify-content: center;
+        flex-direction: column;
+        justify-content: center;
         float: left;
         margin-right: 1em;
         border: 2px solid #e62d2e;
@@ -1065,3 +1044,5 @@ main.webstore {
     margin-bottom: 1em; }
   main.webstore .boutique p {
     margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */

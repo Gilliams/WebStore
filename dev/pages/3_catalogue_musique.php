@@ -1,15 +1,15 @@
 <?php include('../templates/header.php'); ?>
 
 <section class="section-catalogue">
-    <div class="row">
+    <div class="row marg-LR">
         <div class="col-md-6 offset-md-3 section-catalogue_contain">
             <div class="row align-items-center justify-content-center section-catalogue_contain-top--item">
                 <h2>Catalogue - Musique</h2>
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-3 section-catalogue_contain-left">
+    <div class="row marg-LR">
+        <div class="col-md-3 section-catalogue_contain-left filtre" >
             <div class="row section-catalogue_contain-left--item">
                 <h3>Recherche par filtres</h3>
             </div>
@@ -171,7 +171,7 @@
         </div>
         <div class="col-lg-7 col-8 offset-lg-1 offset-3 section-catalogue_contain-right">
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/ce-qui-nous-lie.jpg" alt="">
                         <div class="contain-icons">
@@ -184,7 +184,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/ce-qui-nous-lie.jpg" alt="">
                         <div class="contain-icons">
@@ -197,7 +197,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/ce-qui-nous-lie.jpg" alt="">
                         <div class="contain-icons">
@@ -212,7 +212,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/Le_Parrain_Bande_originale_du_film_Bande_Originale.jpg" alt="">
                         <div class="contain-icons">
@@ -225,7 +225,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/Le_Parrain_Bande_originale_du_film_Bande_Originale.jpg" alt="">
                         <div class="contain-icons">
@@ -238,7 +238,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/Le_Parrain_Bande_originale_du_film_Bande_Originale.jpg" alt="">
                         <div class="contain-icons">
@@ -253,7 +253,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
                         <div class="contain-icons">
@@ -266,7 +266,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
                         <div class="contain-icons">
@@ -279,7 +279,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
                         <div class="contain-icons">
@@ -294,7 +294,7 @@
                 </div>
             </div>
             <div class="row line">
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/1128-Weinstein-Quentin-Tarantino-Loma-Vista-Announce-Django-Unchained-Soundtrack-1.jpeg" alt="">
                         <div class="contain-icons">
@@ -307,7 +307,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/1128-Weinstein-Quentin-Tarantino-Loma-Vista-Announce-Django-Unchained-Soundtrack-1.jpeg" alt="">
                         <div class="contain-icons">
@@ -320,7 +320,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-8 contain">
+                <div class="col-lg-4 col-6 contain">
                     <div class="item">
                         <img src="../assets/imgs/Musique/1128-Weinstein-Quentin-Tarantino-Loma-Vista-Announce-Django-Unchained-Soundtrack-1.jpeg" alt="">
                         <div class="contain-icons">

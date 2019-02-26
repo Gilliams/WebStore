@@ -55,29 +55,6 @@ footer{
     }
 }
 
-// =============================================================================
-// Media Queries
-// =============================================================================
-
-@media screen and (min-width: 100px) and (max-width: 1026px) {
-    #f-desktop{
-        display: none;
-    }
-    #f-mobile{
-        #accueil{
-            margin-bottom: 50px;
-        }
-    }
-    #my-video{
-        width: 100%;
-    }
-}
-@media screen and (min-width: 1027px) {
-    #f-mobile{
-        display: none;
-    }
-}
-
 
 // =============================================================================
 // Icones

@@ -28,12 +28,6 @@ h2{
 h3{
     font-size: $font-size--M;
 }
-h4{
-
-}
-h5{
-
-}
 #bread{
     font-size: $font-size--M;
     width: 50%;
@@ -58,6 +52,7 @@ h5{
         font-weight: 800;
     }
 }
-.btn-primary{
-    background-color: $color-blue ;
+.marg-LR{
+    margin-left: 0px;
+    margin-right: 0px;
 }

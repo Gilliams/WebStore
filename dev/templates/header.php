@@ -13,13 +13,13 @@
 </head>
 <body>
     <header class="container-fluid" id="h-mobile">
-        <div class="row align-items-center">
+        <div class="row marg-LR align-items-center">
             <div class="col-4 align-self-center" id="h-logo--desktop">
                 <a href="../pages/10_accueil.php">
                     <img src="../assets/imgs/logo.jpg" alt="" class="logo">
                 </a>
             </div>
-            <div class="col-2 align-self-center" id="h-logo--mobile">
+            <div class="col-4 align-self-center" id="h-logo--mobile">
                 <a href="../pages/2_catalogue_films.php">
                     <img src="../assets/imgs/Logo_mobile.png" alt="" class="logo">
                 </a>
@@ -34,7 +34,7 @@
                     </form>
                 </div>
             </div>
-            <div class="col-6 offset-1 mt-4 align-self-center" id="h-input-search--mobile">
+            <div class="col-4 offset-1 mt-4 align-self-center" id="h-input-search--mobile">
                 <div class="row">
                     <form action="">
                         <input type="text" placeholder="Recherche" class="input--mobile" name="search">
@@ -46,16 +46,12 @@
             </div>
             <div class="col-3 offset-md-1 login align-self-center" id="h-login--desktop">
                 <div class="row">
-                    <div class="col-4">
+                    <div class="col-3">
                         <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                     </div>
-                    <div class="col-8">
-                        <button class="btn btn-primary">
-                            <a href="#">S'inscrire</a>
-                        </button>
-                        <button class="btn btn-primary">
-                            <a href="#">Se connecter</a>
-                        </button>
+                    <div class="col-9">
+                        <a href="#" class="btn btn-login">S'inscrire</a>
+                        <a href="#" class="btn btn-login">Se connecter</a>
                     </div>
                 </div>
             </div>
@@ -64,7 +60,7 @@
             </div>
         </div>
     </header>
-    <ul class="row nav navbar-nav align-self-center" id="navbar-header">
+    <ul class="row marg-LR nav navbar-nav align-self-center" id="navbar-header">
         <div class="col-md-3 nav__col">
             <a href="../pages/10_accueil.php"><li class="nav__col--item">Accueil</li></a>
         </div>

@@ -1,6 +1,6 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-details">
-    <div class="row">
+    <div class="row marg-LR">
         <div class="col-lg-6 col-6 offset-3 offset-lg-3 section-catalogue_contain">
             <nav id="bread" aria-label="breadcrumb">
               <ol class="breadcrumb">
@@ -13,7 +13,7 @@
             </div>
         </div>
     </div>
-    <div class="row align-items-center details">
+    <div class="row marg-LR align-items-center details">
         <div class="col-lg-2 col-3 offset-1 offset-lg-1">
             <img src="../assets/imgs/Films/4514291.jpg" alt="">
         </div>
@@ -42,7 +42,7 @@
             </ul>
         </div>
     </div>
-    <div class="row">
+    <div class="row marg-LR">
         <div class="col-lg-6 col-6 offset-3 offset-lg-3 section-catalogue_contain">
             <a href="13_panier.php">
                 <div class="row align-items-center justify-content-center section-catalogue_contain-top--item bold">
