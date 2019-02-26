@@ -815,8 +815,13 @@ footer {
     .section-nouveaute_contain .contain .item:hover .contain-icons {
       display: block; }
 
-main.connexion form input[type=text], main.connexion form textarea, main.contact form input[type=text], main.contact form textarea, main.espace_perso form input[type=text], main.espace_perso form textarea {
-  width: 100%; }
+main.connexion form input[type=text], main.contact form input[type=text], main.espace_perso form input[type=text] {
+  width: 100%;
+  margin-bottom: 2em;
+  height: 2.2em; }
+main.connexion form textarea, main.contact form textarea, main.espace_perso form textarea {
+  width: 100%;
+  margin-bottom: 2em; }
 main.connexion form a, main.contact form a, main.espace_perso form a {
   float: right;
   color: #f3a700;
@@ -825,8 +830,18 @@ main.connexion form input[type=submit], main.contact form input[type=submit], ma
   display: block;
   clear: both;
   margin: 0 auto; }
+main.connexion form button, main.contact form button, main.espace_perso form button {
+  display: block;
+  clear: both;
+  margin: 0 auto;
+  background-color: transparent;
+  border: none; }
 main.connexion form div, main.contact form div, main.espace_perso form div {
-  font-weight: 700; }
+  font-weight: 700;
+  margin: .5em 0 2em 0; }
+main.connexion form .oubliMdP, main.contact form .oubliMdP, main.espace_perso form .oubliMdP {
+  margin-top: -1.5em;
+  margin-bottom: 1.5em; }
 
 main.accueil {
   padding: 50px; }
@@ -912,6 +927,7 @@ main.panier .button {
       -ms-flex-align: center;
           align-items: center;
   background-color: #008ec0;
+  border: 2px solid #008ec0;
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
