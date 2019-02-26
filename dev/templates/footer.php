@@ -108,5 +108,11 @@
         $('#icon-menu').on('click',function(){
             $('#navbar-header').toggle();
         });
+        
+        $(".legend-open").on('click',function(){
+            let id = $(this).attr("id");
+            $(document).find('#content-'+id).toggle();
+            $(this).find('legend span').toggleClass('icon-rotate');
+        });
     </script>
 </footer>

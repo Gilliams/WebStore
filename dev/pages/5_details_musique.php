@@ -46,10 +46,12 @@
     </div>
     <div class="row">
         <div class="col-md-6 offset-md-3 section-catalogue_contain">
-            <div class="row align-items-center justify-content-center section-catalogue_contain-top--item bold">
-                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                <h2>Ajouter au panier</h2>
-            </div>
+            <a href="13_panier.php">
+                <div class="row align-items-center justify-content-center section-catalogue_contain-top--item bold">
+                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <h2>Ajouter au panier</h2>
+                </div>
+            </a>
         </div>
     </div>
     <div class="row">
@@ -82,7 +84,9 @@
                     <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 </td>
                 <td>
-                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <a href="13_panier.php">
+                        <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    </a>
                 </td>
             </tr>
             <tr>
@@ -98,7 +102,9 @@
                     <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 </td>
                 <td>
-                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <a href="13_panier.php">
+                        <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    </a>
                 </td>
             </tr>
             <tr>
@@ -114,7 +120,9 @@
                     <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 </td>
                 <td>
-                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <a href="13_panier.php">
+                        <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    </a>
                 </td>
             </tr>
         </table>

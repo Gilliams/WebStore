@@ -32,9 +32,12 @@ h3 {
   font-size: 1.5em; }
 
 #bread {
-  font-size: 1.5em; }
+  font-size: 1.5em;
+  width: 40%;
+  margin: 0 auto; }
   #bread ol {
-    background-color: #f3924c; }
+    background-color: #f3924c;
+    border-radius: 0px; }
     #bread ol .breadcrumb-item {
       font-size: 1em; }
       #bread ol .breadcrumb-item:before {
@@ -49,9 +52,6 @@ h3 {
 
 .btn-primary {
   background-color: #008ec0; }
-
-.categorie-off {
-  display: none; }
 
 .icon-Moins .path1:before {
   content: "\e900";
@@ -323,14 +323,8 @@ header .input {
   font-size: 1.5em;
   font-weight: 400;
   border: 2px solid #1f1b1a;
-  height: 60px;
+  height: 30px;
   width: 100%; }
-  header .input::-webkit-input-placeholder {
-    padding-left: 20px; }
-  header .input:-ms-input-placeholder {
-    padding-left: 20px; }
-  header .input::-ms-input-placeholder {
-    padding-left: 20px; }
   header .input::placeholder {
     padding-left: 20px; }
 header .logo {
@@ -356,8 +350,8 @@ header .login {
 
 .icon-Search {
   position: absolute;
-  top: 10px;
-  left: 775px; }
+  left: 775px;
+  top: -1px; }
   .icon-Search .path1:before {
     content: "\e91d";
     color: #000;
@@ -374,9 +368,9 @@ header .login {
 
 .nav {
   font-family: "Walkway";
-  height: 100px;
+  height: 60px;
   margin-bottom: 190px;
-  line-height: 100px; }
+  line-height: 60px; }
   .nav__col {
     font-size: 2em;
     font-weight: 600;
@@ -387,7 +381,7 @@ header .login {
       .nav__col:hover .nav__col__child {
         display: block; }
     .nav__col--item {
-      height: 100px;
+      height: 60px;
       margin: auto;
       text-align: center; }
     .nav__col a {
@@ -399,15 +393,15 @@ header .login {
     .nav__col__child {
       display: none; }
       .nav__col__child hr {
-        width: 50px;
+        width: 60px;
         border-top: 4px solid #f3924c;
         margin-top: -4px;
         margin-bottom: 0px; }
       .nav__col__child--item {
         margin: auto;
         text-align: center;
-        height: 60px;
-        line-height: 60px;
+        height: 40px;
+        line-height: 40px;
         background-color: #1f1b1a; }
         .nav__col__child--item a {
           color: #f3924c;
@@ -472,12 +466,6 @@ header .login {
     font-weight: 600;
     border: 2px solid #1f1b1a;
     height: 60px; }
-    #h-input-search--mobile .input--mobile::-webkit-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile:-ms-input-placeholder {
-      padding-left: 20px; }
-    #h-input-search--mobile .input--mobile::-ms-input-placeholder {
-      padding-left: 20px; }
     #h-input-search--mobile .input--mobile::placeholder {
       padding-left: 20px; } }
 @media screen and (min-width: 1027px) {
@@ -486,40 +474,40 @@ header .login {
 footer {
   background-color: #1f1b1a;
   color: #fff;
-  padding: 50px 0px 20px 36px;
-  margin-top: 100px; }
+  padding: 25px 0px 10px 18px;
+  margin-top: 50px; }
   footer a {
     text-decoration: none;
     color: #fff;
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: 700; }
   footer li {
     list-style: none; }
   footer .col-small--item-title a {
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: 900; }
   footer .col-center {
     text-align: center;
     font-weight: 700; }
     footer .col-center__row-top {
-      margin-top: 50px; }
+      margin-top: 25px; }
       footer .col-center__row-top a {
-        margin-left: 200px; }
+        margin-left: 100px; }
     footer .col-center__row-middle {
-      margin-top: 20px; }
+      margin-top: 10px; }
       footer .col-center__row-middle ul {
         margin: auto;
         text-align: center; }
     footer .col-center__row-bottom {
-      margin-top: 20px; }
+      margin-top: 10px; }
       footer .col-center__row-bottom--item {
         margin: auto;
         font-size: 1em; }
   footer .col-right__row-top {
-    margin-top: 100px;
-    padding-left: 100px; }
+    margin-top: 50px;
+    padding-left: 50px; }
   footer .col-right__row-bottom {
-    margin-top: 50px; }
+    margin-top: 25px; }
 
 @media screen and (min-width: 100px) and (max-width: 1026px) {
   #f-desktop {
@@ -594,7 +582,7 @@ footer {
 .section-promo_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
-  height: 80px;
+  height: 60px;
   margin-bottom: 100px; }
 .section-promo_contain-bottom--item-img-film {
   width: 300px;
@@ -637,14 +625,12 @@ footer {
   .section-catalogue .icon-rotate:before {
     content: "\e925";
     display: inline-block;
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-    -webkit-transition-duration: 0.5s;
-            transition-duration: 0.5s; }
+    transform: rotate(90deg);
+    transition-duration: 0.5s; }
 .section-catalogue_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
-  height: 80px;
+  height: 60px;
   margin-bottom: 100px; }
 .section-catalogue_contain-left {
   margin-left: 40px; }
@@ -659,7 +645,7 @@ footer {
     background-color: #dcdcdc;
     padding-left: 25px;
     font-family: "Libre Franklin", sans-serif;
-    /* Affichage du bouton checkbox personnalisé quand il est sélectionné */ }
+    /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
       font-size: 2em;
@@ -680,8 +666,7 @@ footer {
     .section-catalogue_contain-left_form input[type=checkbox]:checked + label:before {
       background: #3d3d3d;
       border-color: #e62d2e;
-      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;
-              box-shadow: inset 0px 0px 0px 2px #fff; }
+      box-shadow: inset 0px 0px 0px 2px #fff; }
     .section-catalogue_contain-left_form .element {
       margin-bottom: 14px; }
     .section-catalogue_contain-left_form label {
@@ -731,7 +716,7 @@ footer {
     .section-catalogue_contain-right .contain .item .contain-icons {
       display: none;
       position: absolute;
-      bottom: 20px;
+      bottom: 60px;
       left: 20%; }
       .section-catalogue_contain-right .contain .item .contain-icons .icon {
         margin-left: 25px;
@@ -787,7 +772,7 @@ footer {
 .section-nouveaute--title {
   color: #f3a700;
   background-color: #1f1b1a;
-  height: 80px;
+  height: 60px;
   margin-bottom: 100px; }
 .section-nouveaute_contain .line {
   margin-bottom: 90px; }
@@ -803,7 +788,7 @@ footer {
     .section-nouveaute_contain .contain .item .contain-icons {
       display: none;
       position: absolute;
-      bottom: 20px;
+      bottom: 60px;
       left: 20%; }
       .section-nouveaute_contain .contain .item .contain-icons .icon {
         margin-left: 25px;
@@ -836,15 +821,9 @@ main.accueil {
     padding: 5px 0;
     margin: 20px; }
   main.accueil .slider {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: space-between;
+    align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
       position: relative; }
@@ -861,12 +840,8 @@ main.accueil {
     main.accueil .slider .icon-Fleche_droite, main.accueil .slider .icon-Fleche_gauche {
       font-size: 2em; }
   main.accueil .sliderButton {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
+    justify-content: center; }
     main.accueil .sliderButton a {
       display: block;
       width: 15px;
@@ -991,16 +966,9 @@ main.commande {
       line-height: 15px;
       cursor: pointer; }
       main.commande input[type=radio] + label span, main.commande input[type=checkbox] + label span {
-        display: -webkit-box;
-        display: -ms-flexbox;
         display: flex;
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-            -ms-flex-direction: column;
-                flex-direction: column;
-        -webkit-box-pack: center;
-            -ms-flex-pack: center;
-                justify-content: center;
+        flex-direction: column;
+        justify-content: center;
         float: left;
         margin-right: 1em;
         border: 2px solid #e62d2e;
@@ -1041,3 +1009,5 @@ main.webstore {
     margin-bottom: 1em; }
   main.webstore .boutique p {
     margin-bottom: 0; }
+
+/*# sourceMappingURL=style.css.map */

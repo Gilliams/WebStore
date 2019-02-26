@@ -9,7 +9,7 @@ header {
         font-size: $font-size--M;
         font-weight: $font-weight--regular;
         border: 2px solid $black;
-        height: $line-height--large-spe;
+        height: $line-height--M;
         width: 100%;
         &::placeholder{
             padding-left: $padding-height--regular   ;
@@ -48,8 +48,8 @@ header {
 
 .icon-Search{
     position: absolute;
-    top: $margin-height--small;
     left: 775px;
+    top: -1px;
     .path1:before {
       content: "\e91d";
       color: #000;
@@ -73,9 +73,9 @@ header {
 
 .nav {
     font-family: $font-family--title;
-    height: $line-height--xx-large ;
+    height: $line-height--L ;
     margin-bottom: 190px;
-    line-height: $line-height--xx-large;
+    line-height: $line-height--L;
     &__col{
         font-size: $font-size--L ;
         font-weight: $font-weight--x-regular ;
@@ -88,7 +88,7 @@ header {
             }
         }
         &--item{
-            height: $line-height--xx-large;
+            height: $line-height--L;
             margin: auto;
             text-align: center;
         }
@@ -103,7 +103,7 @@ header {
         &__child{
             display: none;
             hr{
-                width: ($line-height--xx-large/2);
+                width: ($line-height--L);
                 border-top: 4px solid $color-marron;
                 margin-top: -4px;
                 margin-bottom: 0px;
@@ -111,8 +111,8 @@ header {
             &--item{
                 margin: auto;
                 text-align: center;
-                height: $line-height--large-spe;
-                line-height: $line-height--large-spe;
+                height: 40px;
+                line-height: 40px;
                 background-color: $black;
                 a{
                     color: $color-marron;
@@ -194,7 +194,7 @@ header {
             font-size: $font-size--L;
             font-weight: $font-weight--x-regular;
             border: 2px solid $black;
-            height: $line-height--large-spe;
+            height: $line-height--L;
             &::placeholder{
                 padding-left: $padding-height--regular   ;
             }
