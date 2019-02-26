@@ -50,9 +50,6 @@ h3 {
     color: #008ec0;
     font-weight: 800; }
 
-.btn-primary {
-  background-color: #008ec0; }
-
 .icon-Moins .path1:before {
   content: "\e900";
   color: #008ec0; }
@@ -314,9 +311,6 @@ h3 {
 .icon-circle-left:before {
   content: "\ea44"; }
 
-body {
-  width: 100%; }
-
 header form {
   width: 100%; }
 header .input {
@@ -330,10 +324,10 @@ header .input {
 header .logo {
   margin: 34px; }
 header .login {
-  font-family: "Walkway";
+  font-family: "Libre Franklin", sans-serif;
   font-size: 2em; }
   header .login .icon-User {
-    margin-left: 60%; }
+    margin-left: 40%; }
     header .login .icon-User .path1:before {
       content: "\e91f";
       color: #e62d2e;
@@ -343,30 +337,35 @@ header .login {
       color: #fff;
       margin-left: -1em;
       font-size: 1.5em; }
-  header .login a {
-    color: #1f1b1a;
-    text-decoration: none;
-    font-weight: 700; }
-    header .login a:hover {
+  header .login .btn-login {
+    background-color: #008ec0;
+    color: #fff;
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 0;
+    font-size: 20px; }
+    header .login .btn-login:hover {
+      background-color: #fff;
+      color: #008ec0;
       text-decoration: none; }
 
 .icon-Search {
   position: absolute;
-  left: 98%;
-  top: -1px; }
+  left: 97%;
+  top: -10px; }
   .icon-Search .path1:before {
     content: "\e91d";
     color: #000;
-    font-size: 2em; }
+    font-size: 3em; }
   .icon-Search .path2:before {
     content: "\e91e";
     color: #fff;
     margin-left: -1em;
-    font-size: 2em; }
+    font-size: 3em; }
 
 .icon-menu:before {
   content: "\e9bd";
-  font-size: 4em; }
+  font-size: 3em; }
 
 .nav {
   font-family: "Walkway";
@@ -450,28 +449,37 @@ header .login {
 
   #h-input-search--mobile .icon-Search {
     position: absolute;
-    top: -10px;
-    left: 440px; }
+    top: -5px;
+    left: 90%; }
     #h-input-search--mobile .icon-Search .path1:before {
       content: "\e91d";
       color: #000;
-      font-size: 80px; }
+      font-size: 40px; }
     #h-input-search--mobile .icon-Search .path2:before {
       content: "\e91e";
       color: #fff;
       margin-left: -1em;
-      font-size: 80px; }
+      font-size: 40px; }
   #h-input-search--mobile .input--mobile {
     width: 100%;
     display: block;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 600;
     border: 2px solid #1f1b1a;
-    height: 60px; }
+    height: 30px; }
     #h-input-search--mobile .input--mobile::placeholder {
-      padding-left: 20px; } }
+      padding-left: 20px; }
+
+  #f-desktop {
+    display: none; }
+
+  #f-mobile #accueil {
+    margin-bottom: 50px; }
+
+  #my-video {
+    width: 100%; } }
 @media screen and (min-width: 1024px) {
-  #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile, #h-login--mobile {
+  #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile, #h-login--mobile, #f-mobile {
     display: none; } }
 footer {
   background-color: #1f1b1a;
@@ -511,18 +519,6 @@ footer {
   footer .col-right__row-bottom {
     margin-top: 25px; }
 
-@media screen and (min-width: 100px) and (max-width: 1026px) {
-  #f-desktop {
-    display: none; }
-
-  #f-mobile #accueil {
-    margin-bottom: 50px; }
-
-  #my-video {
-    width: 100%; } }
-@media screen and (min-width: 1027px) {
-  #f-mobile {
-    display: none; } }
 .icon {
   font-size: 2em; }
   .icon-Facebook.path1:before {
@@ -559,28 +555,46 @@ footer {
     color: #fff;
     margin-left: -1em; }
 
-.section-promo .icon {
-  font-size: 3em; }
-  .section-promo .icon-center-film {
-    font-size: 11.2em;
-    position: absolute;
-    top: 300px;
-    left: 210px; }
-  .section-promo .icon-center-music {
-    font-size: 11.2em;
-    position: absolute;
-    top: 210px;
-    left: 210px; }
-.section-promo .prix {
-  display: block;
-  position: absolute;
-  left: 210px; }
-  .section-promo .prix:hover {
-    visibility: hidden; }
-  .section-promo .prix-musique {
-    top: 210px; }
-  .section-promo .prix-film {
-    top: 300px; }
+.section-promo a {
+  text-decoration: none; }
+  .section-promo a .icon {
+    font-size: 3em; }
+    .section-promo a .icon-center-film {
+      font-size: 11.2em;
+      position: absolute;
+      top: 300px;
+      left: 210px; }
+    .section-promo a .icon-center-music {
+      font-size: 11.2em;
+      position: absolute;
+      top: 210px;
+      left: 210px; }
+  .section-promo a .prix {
+    height: 11.2em;
+    width: 11.2em;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 5px solid #008ec0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #008ec0;
+    position: absolute; }
+    .section-promo a .prix span:nth-child(1) {
+      font-size: 3em;
+      font-weight: 600; }
+    .section-promo a .prix span:nth-child(2) {
+      margin-top: -20px;
+      font-size: 1em; }
+    .section-promo a .prix-music {
+      top: 210px;
+      left: 210px; }
+    .section-promo a .prix-film {
+      top: 300px;
+      left: 210px; }
+    .section-promo a .prix:hover {
+      visibility: hidden; }
 .section-promo_contain-top--item {
   color: #f3a700;
   background-color: #1f1b1a;
@@ -598,7 +612,7 @@ footer {
     height: 400px; }
   .section-promo_contain-bottom--item-img-film a {
     display: none;
-    padding-left: 90px;
+    padding-left: 130px;
     padding-top: 140px;
     width: 300px;
     height: 400px; }
@@ -728,9 +742,6 @@ footer {
     .section-catalogue_contain-right .contain .item:hover .contain-icons {
       display: block; }
 
-@media screen and (min-width: 100px) and (max-width: 1026px) {
-  .section-catalogue_contain-left {
-    display: none; } }
 .section-details .details {
   margin-bottom: 50px; }
   .section-details .details img {
@@ -880,12 +891,8 @@ main.panier table tr {
     color: #f3a700;
     text-align: center; }
 main.panier .button {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   background-color: #008ec0;
   color: #fff;
   text-transform: uppercase;

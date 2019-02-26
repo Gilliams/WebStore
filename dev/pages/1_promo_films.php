@@ -31,7 +31,7 @@
                         </div>
                         <a href="13_panier.php">
                             <span class="icon icon-center-film icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                            <img src="../assets/imgs/prix-19.png" alt="19€99" class="prix prix-film">
+                            <div class="prix prix-film"><span>19€</span><span>99</span></div>
                         </a>
                     </div>
                 </div>

@@ -1,6 +1,3 @@
-body{
-    width: 100%;
-}
 header {
     form{
         width: 100%;
@@ -19,10 +16,10 @@ header {
         margin: 34px;
     }
     .login{
-        font-family: $font-family--title;
+        font-family: $font-family--text;
         font-size: $font-size--L;
         .icon-User{
-            margin-left: 60%;
+            margin-left: 40%;
             .path1:before {
               content: "\e91f";
               color: #e62d2e;
@@ -35,11 +32,16 @@ header {
               font-size: $font-size--M;
             }
         }
-        a{
-            color: $black;
-            text-decoration: none;
-            font-weight: $font-weight--bold;
+        .btn-login{
+            background-color:$color-blue;
+            color: $white;
+            font-weight: 700;
+            padding:5px;
+            border-radius: 0;
+            font-size: 20px;;
             &:hover{
+                background-color: $white;
+                color:$color-blue;
                 text-decoration: none;
             }
         }
@@ -49,23 +51,23 @@ header {
 
 .icon-Search{
     position: absolute;
-    left: 98%;
-    top: -1px;
+    left: 97%;
+    top: -10px;
     .path1:before {
       content: "\e91d";
       color: #000;
-      font-size: $font-size--L;
+      font-size: $font-size--L*1.5;
     }
     .path2:before {
       content: "\e91e";
       color: #fff;
       margin-left: -1em;
-      font-size: $font-size--L;
+      font-size: $font-size--L*1.5;
     }
 }
 .icon-menu:before {
   content: "\e9bd";
-  font-size: $font-size--L*2;
+  font-size: $font-size--L*1.5;
 }
 // =============================================================================
 // Navigation
@@ -104,7 +106,7 @@ header {
         &__child{
             display: none;
             hr{
-                width: ($line-height--L);
+                width: $line-height--L;
                 border-top: 4px solid $color-marron;
                 margin-top: -4px;
                 margin-bottom: 0px;
@@ -175,36 +177,49 @@ header {
     #h-input-search--mobile{
         .icon-Search{
             position: absolute;
-            top: -$margin-height--small;
-            left: 440px;
+            top: -5px;
+            left: 90%;
             .path1:before {
               content: "\e91d";
               color: #000;
-              font-size: 80px;
+              font-size: 40px;
             }
             .path2:before {
               content: "\e91e";
               color: #fff;
               margin-left: -1em;
-              font-size: 80px;
+              font-size: 40px;
             }
         }
         .input--mobile{
             width: 100%;
             display: block;
-            font-size: $font-size--L;
+            font-size: $font-size--M;
             font-weight: $font-weight--x-regular;
             border: 2px solid $black;
-            height: $line-height--L;
+            height: $line-height--M;
             &::placeholder{
                 padding-left: $padding-height--regular   ;
             }
         }
     }
+
+    #f-desktop{
+        display: none;
+    }
+    #f-mobile{
+        #accueil{
+            margin-bottom: 50px;
+        }
+    }
+    #my-video{
+        width: 100%;
+    }
+
 }
 
 @media screen and (min-width: 1024px) {
-    #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile,#h-login--mobile{
+    #h-logo--mobile, #h-input-search--mobile, #icon-menu, #h-menu--mobile,#h-login--mobile, #f-mobile{
         display: none;
     }
 }
