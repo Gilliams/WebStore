@@ -13,15 +13,15 @@ include('../templates/header.php');
 				<div class="article col-2">
 					<img src="../assets/imgs/Films/bwHdTmuk1ImqXhrGtX2HPuSabWr.jpg">
 					<div class="hoverIcons">
-						<a href=""><span>Rechercher</span></a>
-						<a href=""><span>Ajouter au panier</span></a>
+						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 				<div class="article col-2">
 					<img src="../assets/imgs/Films/086055.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg">
 					<div class="hoverIcons">
-						<span>Rechercher</span>
-						<span>Ajouter au panier</span>
+						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 			</div>
@@ -30,25 +30,24 @@ include('../templates/header.php');
 			</div>
 			<div class="row justify-content-center">
 				<div class="article col-2">
-					<img src="../assets/imgs/Musique/61I-4Zz0d8L._SS500.jpg">
+					<img src="../assets/imgs/Musique/drive.jpg">
 					<div class="hoverIcons">
-						<span>Rechercher</span>
-						<span>Ajouter au panier</span>
+						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 				<div class="article col-2">
 					<img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg">
 					<div class="hoverIcons">
-						<span>Rechercher</span>
-						<span>Ajouter au panier</span>
+						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 				<div class="article col-2">
 					<img src="../assets/imgs/Musique/ob_5ff67e_52128820.jpg">
 					<div class="hoverIcons">
-						<span>Rechercher</span>
-						<span>Ajouter au panier</span>
-					</div>
+						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 				</div>
 			</div>
 		</div>

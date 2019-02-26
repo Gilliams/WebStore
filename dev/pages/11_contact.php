@@ -16,7 +16,8 @@ include('../templates/header.php');
 					<input type="text" name="cObjet">
 					<label>Votre message</label>
 					<textarea></textarea>
-					<input type="submit" value="Envoyer">
+					<!--<input type="submit" value="Envoyer">-->
+					<button><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span></button>
 				</form>
 			</div>
 	<?php

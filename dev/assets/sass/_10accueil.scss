@@ -21,13 +21,29 @@ main.accueil{
 			}
 			.hoverIcons{
 				display: none;
+				position: absolute;
+				top:50%;
+				right: 38%;
+				//background-color: rgba(0,0,0,.5);
+				font-size: $font-size--M;
+				a:hover{
+					text-decoration: none;
+				}
 			}
 			&:hover .hoverIcons{
 				display: block;
-				position: absolute;
-				background-color: rgba(0,0,0,.5);
-				color: #f3924c;
-				bottom: 10px;
+			}
+			&.musique{
+				&:hover .hoverIcons{
+					//width:200px;
+					//height: 200px;
+				}
+			}
+			&.film{
+				&:hover .hoverIcons{
+					//width:200px;
+					//height: 300px;
+				}
 			}
 		}
 		.icon-Fleche_droite,.icon-Fleche_gauche{
