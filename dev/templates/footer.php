@@ -114,5 +114,17 @@
             $(document).find('#content-'+id).toggle();
             $(this).find('legend span').toggleClass('icon-rotate');
         });
+        $("#prix-film").hover(function(){
+            $('#prix-film').append("<span class='icon icon-center-film icon-Addtocart'><span class='path1'></span><span class='path2'></span><span class='path3'></span></span>")
+            $('#prix-film').mouseleave(function(){
+                $('#prix-film').append("<div class='prix prix-film'><span>19€</span><span>99</span></div>")
+            });
+        })
+        $("#prix-music").hover(function(){
+            $('#prix-music').append("<span class='icon icon-center-music icon-Addtocart'><span class='path1'></span><span class='path2'></span><span class='path3'></span></span>")
+            $('#prix-music').mouseleave(function(){
+                $('#prix-music').append("<div class='prix prix-music'><span>19€</span><span>99</span></div>")
+            });
+        })
     </script>
 </footer>

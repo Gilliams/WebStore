@@ -29,8 +29,7 @@
                                 <a href=""><span class=" icon icon-details icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
                             </div>
                         </div>
-                        <a href="13_panier.php">
-                            <span class="icon icon-center-music icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                        <a href="13_panier.php" id="prix-music">
                             <div class="prix prix-music"><span>19€</span><span>99</span></div>
                         </a>
                     </div>

@@ -4,16 +4,16 @@
         .icon{
             font-size: $font-size--L*1.5;
             &-center-film{
-                font-size: $font-size--L*5.6;
+                font-size: $font-size--L*5.7;
                 position: absolute;
-                top: 300px;
-                left: 210px;
+                top: 298px;
+                left: 208px;
             }
             &-center-music{
-                font-size: $font-size--L*5.6;
+                font-size: $font-size--L*5.7;
                 position: absolute;
-                top: 210px;
-                left: 210px;
+                top: 208px;
+                left: 208px;
             }
         }
         .prix{
@@ -43,10 +43,6 @@
             &-film{
                 top: 300px;
                 left: 210px;
-            }
-            &:hover{
-                visibility: hidden;
-                display: none;
             }
         }
     }
