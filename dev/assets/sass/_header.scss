@@ -6,8 +6,8 @@ header {
         width: 100%;
     }
     .input{
-        font-size: $font-size--L;
-        font-weight: $font-weight--x-regular;
+        font-size: $font-size--M;
+        font-weight: $font-weight--regular;
         border: 2px solid $black;
         height: $line-height--large-spe;
         width: 100%;
@@ -19,6 +19,7 @@ header {
         margin: 34px;
     }
     .login{
+        font-family: $font-family--title;
         font-size: $font-size--L;
         .icon-User{
             .path1:before {
@@ -71,6 +72,7 @@ header {
 
 
 .nav {
+    font-family: $font-family--title;
     height: $line-height--xx-large ;
     margin-bottom: 190px;
     line-height: $line-height--xx-large;
