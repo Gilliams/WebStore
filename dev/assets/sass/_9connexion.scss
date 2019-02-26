@@ -1,7 +1,13 @@
 main.connexion, main.contact, main.espace_perso{
 	form{
-		input[type=text], textarea{
+		input[type=text]{
 			width: 100%;
+			margin-bottom: 2em;
+			height: 2.2em;
+		}
+		textarea{
+			width: 100%;
+			margin-bottom: 2em;
 		}
 		a{
 			float: right;
@@ -14,8 +20,20 @@ main.connexion, main.contact, main.espace_perso{
 			clear: both;
 			margin:0 auto;
 		}
+		button{
+			display: block;
+			clear: both;
+			margin:0 auto;
+			background-color: transparent;
+			border: none;
+		}
 		div{
 			font-weight: 700;
+			margin: .5em 0 2em 0;
+		}
+		.oubliMdP{
+			margin-top: -1.5em;
+			margin-bottom: 1.5em;
 		}
 	}
 }

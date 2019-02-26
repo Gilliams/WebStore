@@ -13,8 +13,9 @@ include('../templates/header.php');
 						<input type="text" name="id">
 						<label for="mdp">Mot de passe</label>
 						<input type="text" name="mdp">
-						<a href="">Mot de passe oublié?</a>
-						<input type="submit" value="Envoyer">
+						<a href="" class="oubliMdP">Mot de passe oublié?</a>
+						<!--<input type="submit" value="Envoyer">-->
+						<button><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span></button>
 					</form>
 				</div>
 			</section>
@@ -47,7 +48,8 @@ include('../templates/header.php');
 						<input type="text" name="ville">
 						<label for="pays">Pays</label>
 						<input type="text" name="pays">
-						<input type="submit" value="Envoyer">
+						<!--<input type="submit" value="Envoyer">-->
+						<button><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span></button>
 					</form>
 				</div>
 			</section>
