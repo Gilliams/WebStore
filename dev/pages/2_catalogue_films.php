@@ -487,12 +487,4 @@
     </section>
 </div>
 
-<script type="text/javascript">
-
-    $(".legend-open").on('click',function(){
-        let id = $(this).attr("id");
-        $(document).find('#content-'+id).toggle();
-        $(this).find('legend span').toggleClass('icon-rotate');
-    });
-</script>
 <?php include('../templates/footer.php'); ?>

@@ -16,10 +16,10 @@
             <div class="row">
                 <form class="section-catalogue_contain-left_form">
                     <fieldset id="genre" class="section-catalogue_contain-left_form_field-genre">
-                        <div class="row">
+                        <div class="row legend-open" id="genre">
                             <legend><span class="icon icon-Filtres_recherche"></span>Genre</legend>
                         </div>
-                        <div class="row">
+                        <div class="row" id="content-genre">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-genre--item">
                                     <input type="checkbox" id="rock" value="rock" name="genre">
@@ -59,10 +59,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="date-sortie" class="section-catalogue_contain-left_form_field-date-sortie">
-                        <div class="row">
+                        <div class="row legend-open" id="date-sortie">
                             <legend><span class="icon icon-Filtres_recherche"></span>Année de sortie</legend>
                         </div>
-                        <div class="row">
+                        <div class="row" id="content-date-sortie">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-date-sortie--item">
                                     <input type="checkbox" id="a2010" value="2010" name="date-sortie">
@@ -94,10 +94,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="statut" class="section-catalogue_contain-left_form_field-statut">
-                        <div class="row">
+                        <div class="row legend-open" id="statut">
                             <legend><span class="icon icon-Filtres_recherche"></span>Statut</legend>
                         </div>
-                        <div class="row">
+                        <div class="row" id="content-statut">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-statut--item">
                                     <input type="checkbox" id="disponible" value="disponible" name="statut">
@@ -113,10 +113,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="prix" class="section-catalogue_contain-left_form_field-prix">
-                        <div class="row">
+                        <div class="row legend-open" id="prix">
                             <legend><span class="icon icon-Filtres_recherche"></span>Prix</legend>
                         </div>
-                        <div class="row">
+                        <div class="row" id="content-prix">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-prix--item">
                                     <input type="checkbox" id="moins-5" value="moins-5" name="prix">
@@ -148,10 +148,10 @@
                         </div>
                     </fieldset>
                     <fieldset id="format" class="section-catalogue_contain-left_form_field-format">
-                        <div class="row">
+                        <div class="row legend-open" id="format">
                             <legend><span class="icon icon-Filtres_recherche"></span>Format</legend>
                         </div>
-                        <div class="row">
+                        <div class="row" id="content-format">
                             <div class="col-md-6">
                                 <div class="row section-catalogue_contain-left_form_field-format--item">
                                     <input type="checkbox" id="mp4" value="mp4" name="format">
@@ -337,6 +337,5 @@
         </div>
     </section>
 </div>
-
 
 <?php include('../templates/footer.php'); ?>

@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "LibreFranklin"; }
+  font-family: "Libre Franklin"; }
 @font-face {
   body {
     font-family: "Walkway";
@@ -404,7 +404,7 @@ footer {
     width: 100%;
     background-color: #dcdcdc;
     padding-left: 25px;
-    font-family: "LibreFranklin";
+    font-family: "Libre Franklin";
     /* Affichage du bouton checkbox personnalis├® quand il est s├®lectionn├® */ }
     .section-catalogue_contain-left_form legend {
       font-weight: bold;
@@ -497,7 +497,7 @@ footer {
   .section-details .details-contain ul {
     list-style: none; }
   .section-details .details-contain li {
-    font-family: "LibreFranklin";
+    font-family: "Libre Franklin";
     font-size: 2em; }
     .section-details .details-contain li span {
       color: #f3a700; }
@@ -520,10 +520,10 @@ footer {
     left: 47%; }
 .section-details .table th {
   color: #f3a700;
-  font-family: "LibreFranklin";
+  font-family: "Libre Franklin";
   font-size: 2em; }
 .section-details .table td {
-  font-family: "LibreFranklin";
+  font-family: "Libre Franklin";
   font-size: 2em;
   vertical-align: middle; }
 .section-details .table .icon {

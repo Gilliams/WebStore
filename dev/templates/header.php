@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="../assets/css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/icones/style.css">
+    <link rel="stylesheet" href="../assets/fonts/LibreFranklin/librefranklin-regular.ttf">
     <link href="https://vjs.zencdn.net/7.4.1/video-js.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>

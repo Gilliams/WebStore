@@ -19,10 +19,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/drive.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -32,10 +32,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/drive.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -45,10 +45,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/drive.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -58,10 +58,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/drive.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -73,10 +73,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/51WP-mtlr2L._SS500.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -86,10 +86,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/51WP-mtlr2L._SS500.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -99,10 +99,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/51WP-mtlr2L._SS500.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -112,10 +112,10 @@
                 <div class="item">
                     <img src="../assets/imgs/Musique/51WP-mtlr2L._SS500.jpg" alt="">
                     <div class="contain-icons">
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="5_details_musique.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>

@@ -44,10 +44,12 @@
     </div>
     <div class="row">
         <div class="col-lg-6 col-6 offset-3 offset-lg-3 section-catalogue_contain">
-            <div class="row align-items-center justify-content-center section-catalogue_contain-top--item bold">
-                <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
-                <h2>Ajouter au panier</h2>
-            </div>
+            <a href="13_panier.php">
+                <div class="row align-items-center justify-content-center section-catalogue_contain-top--item bold">
+                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <h2>Ajouter au panier</h2>
+                </div>
+            </a>
         </div>
     </div>
     <video id="my-video" class="video-js" controls preload="auto" width="1059" height="549"
