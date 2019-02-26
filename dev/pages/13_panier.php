@@ -21,19 +21,19 @@ include('../templates/header.php');
 							<th class="nom" scope="row">Promotion éléctro</th>
 							<td class="type">Musique</td>
 							<td class="prix">19€99</td>
-							<td class="supprimer icon-poubelles"><span class="path1"></span><span class="path2"></span><span class="path3"></span></td>
+							<td class="supprimer icon icon-Poubelle"><span class="path1"></span><span class="path2"></span><span class="path3"></span></td>
 						</tr>
 						<tr>
 							<th class="nom" scope="row">Promotion éléctro</th>
 							<td class="type">Film</td>
 							<td class="prix">9€99</td>
-							<td class="supprimer">Supprimer</td>
+							<td class="supprimer icon icon-Poubelle"><span class="path1"></span><span class="path2"></span><span class="path3"></span></td>
 						</tr>
 						<tr>
 							<th class="nom" scope="row">Promotion éléctro</th>
 							<td class="type">Film</td>
 							<td class="prix">14€99</td>
-							<td class="supprimer">Supprimer</td>
+							<td class="supprimer icon icon-Poubelle"><span class="path1"></span><span class="path2"></span><span class="path3"></span></td>
 						</tr>
 						<tr class="total">
 							<th scope="row" colspan="2">Total de la commande</th>
