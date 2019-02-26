@@ -320,8 +320,8 @@ body {
 header form {
   width: 100%; }
 header .input {
-  font-size: 2em;
-  font-weight: 600;
+  font-size: 1.5em;
+  font-weight: 400;
   border: 2px solid #1f1b1a;
   height: 60px;
   width: 100%; }
@@ -336,6 +336,7 @@ header .input {
 header .logo {
   margin: 34px; }
 header .login {
+  font-family: "Walkway";
   font-size: 2em; }
   header .login .icon-User .path1:before {
     content: "\e91f";
@@ -372,6 +373,7 @@ header .login {
   font-size: 4em; }
 
 .nav {
+  font-family: "Walkway";
   height: 100px;
   margin-bottom: 190px;
   line-height: 100px; }
