@@ -32,11 +32,9 @@ h3 {
   font-size: 1.5em; }
 
 #bread {
-  font-size: 1.5em;
-  width: 50%;
-  margin: 0 auto; }
+  font-size: 1em; }
   #bread ol {
-    background-color: #f3924c;
+    background-color: #fff;
     border-radius: 0px; }
     #bread ol .breadcrumb-item {
       font-size: 1em; }
@@ -342,15 +340,14 @@ header .login {
       margin-left: -1em;
       font-size: 1.5em; }
   header .login .btn-login {
-    background-color: #008ec0;
-    color: #fff;
+    color: #1f1b1a;
     font-weight: 700;
     padding: 5px;
     border-radius: 0;
     font-size: 20px; }
     header .login .btn-login:hover {
       background-color: #fff;
-      color: #008ec0;
+      color: #e62d2e;
       text-decoration: none; }
 
 .icon-Search {
@@ -423,6 +420,9 @@ header .login {
   body {
     margin-top: 218px; }
 
+  header {
+    background-color: #fff; }
+
   #h-input-search--desktop, #h-logo--desktop, #navbar-header, #h-login--desktop, .filtre {
     display: none; }
 
@@ -448,7 +448,7 @@ header .login {
     margin-left: 0px; }
 
   .logo {
-    width: 150px;
+    width: 100px;
     height: auto; }
 
   #h-input-search--mobile .icon-Search {
@@ -493,20 +493,17 @@ footer {
   footer a {
     text-decoration: none;
     color: #fff;
-    font-size: 1em;
-    font-weight: 700; }
+    font-size: 1em; }
+    footer a:hover {
+      color: #f3a700;
+      text-decoration: none; }
   footer li {
     list-style: none; }
-  footer .col-small--item-title a {
+  footer .col-small--item-title {
     font-size: 1em;
     font-weight: 900; }
   footer .col-center {
-    text-align: center;
-    font-weight: 700; }
-    footer .col-center__row-top {
-      margin-top: 25px; }
-      footer .col-center__row-top a {
-        margin-left: 100px; }
+    text-align: center; }
     footer .col-center__row-middle {
       margin-top: 10px; }
       footer .col-center__row-middle ul {
@@ -520,6 +517,13 @@ footer {
   footer .col-right__row-top {
     margin-top: 50px;
     padding-left: 50px; }
+    footer .col-right__row-top #facebook .path2, footer .col-right__row-top #facebook .path2:before {
+      color: #3b5998; }
+    footer .col-right__row-top #instagram img {
+      width: 32px;
+      height: 32px; }
+    footer .col-right__row-top #twitter .path2, footer .col-right__row-top #twitter .path2:before {
+      color: #33CCFF; }
   footer .col-right__row-bottom {
     margin-top: 25px; }
 

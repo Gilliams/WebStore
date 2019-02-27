@@ -29,11 +29,9 @@ h3{
     font-size: $font-size--M;
 }
 #bread{
-    font-size: $font-size--M;
-    width: 50%;
-    margin: 0 auto;
+    font-size: $font-size--S;
     ol{
-        background-color: $color-marron;
+        background-color: $white;
         border-radius: 0px;
         .breadcrumb-item{
             font-size: $font-size--S;

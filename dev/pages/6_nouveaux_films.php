@@ -22,7 +22,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -35,7 +35,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -61,7 +61,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -76,7 +76,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -89,7 +89,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -102,7 +102,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>
@@ -115,7 +115,7 @@
                         <a href="4_details_films.php">
                             <span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span>
                         </a>
-                        <a href="4_details_films.php">
+                        <a href="13_panier.php">
                             <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                         </a>
                     </div>

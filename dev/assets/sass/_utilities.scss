@@ -58,3 +58,8 @@
 	height: $line-height--L;
 	margin-bottom: $margin-height--xx-large;
 }
+
+
+@mixin color-instagram(){
+	background-image:linear-gradient(60deg, #8a3ab9, #4c68d7, #cd486b,  #fbad50, #fccc63, #bc2a8d);
+}

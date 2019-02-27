@@ -7,14 +7,17 @@ footer{
         text-decoration: none;
         color: $white;
         font-size: $font-size--S;
-        font-weight: $font-weight--bold;
+        &:hover{
+            color: $color-orange;
+            text-decoration: none;
+        }
     }
     li{
         list-style: none;
     }
     .col-small{
-        &--item-title{
-            a{
+        &--item{
+            &-title{
                 font-size: $font-size--S;
                 font-weight: $font-weight--ultra-bold;
             }
@@ -22,13 +25,6 @@ footer{
     }
     .col-center{
         text-align: center;
-        font-weight: $font-weight--bold ;
-        &__row-top{
-            margin-top: ($margin-height--xx-large/4) ;
-            a{
-                margin-left: ($margin-height--xxx-large/2);
-            }
-        }
         &__row-middle{
             margin-top: $margin-height--regular/2 ;
             ul{
@@ -48,9 +44,25 @@ footer{
         &__row-top{
             margin-top: $margin-height--xx-large/2 ;
             padding-left: $padding-height--xx-large/2;
+            #facebook{
+                .path2, .path2:before{
+                    color: $color-facebook;
+                }
+            }
+            #instagram{
+                img{
+                    width: 32px;
+                    height: 32px;
+                }
+            }
+            #twitter{
+                .path2, .path2:before{
+                    color: $color-twitter;
+                }
+            }
         }
         &__row-bottom{
-            margin-top: ($margin-height--xx-large/4) ;
+            margin-top: $margin-height--regular--mid ;
         }
     }
 }

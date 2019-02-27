@@ -50,8 +50,7 @@
                         <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                     </div>
                     <div class="col-9">
-                        <a href="#" class="btn btn-login">S'inscrire</a>
-                        <a href="#" class="btn btn-login">Se connecter</a>
+                        <a href="#" class="btn btn-login">S'inscrire | Se connecter</a>
                     </div>
                 </div>
             </div>
@@ -65,7 +64,7 @@
             <a href="../pages/10_accueil.php"><li class="nav__col--item">Accueil</li></a>
         </div>
         <div class="col-md-3 nav__col">
-            <a href="../pages/2_catalogue_films.php"><li class="nav__col--item">Films</li></a>
+            <li class="nav__col--item">Films</li>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
                     <a href="../pages/6_nouveaux_films.php">Nouveautés</a>
@@ -81,7 +80,7 @@
             </div>
         </div>
         <div class="col-md-3 nav__col">
-            <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Musique</li></a>
+            <li class="nav__col--item">Musiques</li>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
                     <a href="../pages/7_nouvelles_musiques.php">Nouveautés</a>
@@ -97,7 +96,7 @@
             </div>
         </div>
         <div class="col-md-3 nav__col">
-            <a href="16_webstore.php"><li class="nav__col--item">Webstore</li></a>
+            <li class="nav__col--item">Webstore</li>
             <div class="row nav__col__child">
                 <li class="nav__col__child--item">
                     <a href="16_webstore.php">Qui sommes nous?</a>
