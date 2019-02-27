@@ -3,13 +3,13 @@ include('../templates/header.php');
 ?>
 	<main class="connexion">
 		<div class="container-fluid">
+			<?php include('../templates/breadcrumb.php');?>
 			<section class="seConnecter">
-				<?php include('../templates/breadcrumb.php');?>
 				<div class="row justify-content-center">
-					<h1 class="col-6">Se connecter</h1>
+					<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Se connecter</h1>
 				</div>
 				<div class="row justify-content-center">
-					<form class="col-4">
+					<form class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4">
 						<label for="id">Identifiant</label>
 						<input type="text" name="id">
 						<label for="mdp">Mot de passe</label>
@@ -22,10 +22,10 @@ include('../templates/header.php');
 			</section>
 			<section class="inscription">
 				<div class="row justify-content-center">
-					<h1 class="col-6">S'inscrire</h1>
+					<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">S'inscrire</h1>
 				</div>
 				<div class="row justify-content-center">
-					<form class="col-4">
+					<form class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4">
 						<label for="id">Votre identifiant (obligatoire)</label>
 						<input type="text" name="id">
 						<label for="mail">Votre adresse email (obligatoire)</label>

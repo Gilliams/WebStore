@@ -3,10 +3,10 @@ header {
         width: 100%;
     }
     .input{
-        font-size: $font-size--M;
+        font-size: $font-size--XM;
         font-weight: $font-weight--regular;
         border: 2px solid $black;
-        height: $line-height--M;
+        height: $line-height--XM;
         width: 100%;
         &::placeholder{
             padding-left: $padding-height--regular   ;
@@ -51,17 +51,17 @@ header {
 .icon-Search{
     position: absolute;
     left: 97%;
-    top: -10px;
+    top: -4px;
     .path1:before {
       content: "\e91d";
       color: #000;
-      font-size: $font-size--L*1.5;
+      font-size: $font-size--L*1.6;
     }
     .path2:before {
       content: "\e91e";
       color: #fff;
       margin-left: -1em;
-      font-size: $font-size--L*1.5;
+      font-size: $font-size--L*1.6;
     }
 }
 .icon-menu:before {
@@ -106,8 +106,8 @@ header {
             display: none;
             hr{
                 width: $line-height--L;
-                border-top: 4px solid $color-marron;
-                margin-top: -4px;
+                border-top: 2px solid $color-marron;
+                margin-top: -2px;
                 margin-bottom: 0px;
             }
             &--item{

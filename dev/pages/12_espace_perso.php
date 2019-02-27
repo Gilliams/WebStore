@@ -5,11 +5,11 @@ include('../templates/header.php');
 		<div class="container-fluid">
 			<?php include('../templates/breadcrumb.php');?>
 			<div class="row justify-content-center">
-				<h1 class="col-6">Informations personnelles</h1>
+				<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Informations personnelles</h1>
 			</div>
 			<div class="row justify-content-center">
 				<div class="col-12 bienvenue">Bienvenue [insert name here]</div>
-				<form class="col-4">
+				<form class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4">
 					<label for="id">Votre identifiant</label>
 					<input type="text" name="id">
 					<label for="mail">Votre adresse mail</label>

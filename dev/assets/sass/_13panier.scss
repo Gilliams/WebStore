@@ -1,50 +1,84 @@
 main.panier{
-	table{
-		thead{
-			color: $color-orange;
-		}
-		tr{
-			border:1px solid $black;
-			td,th{
-				padding: 1em 0;
-				&.nom{
-					padding-left: 2em;
+	div.tableau{
+		margin:0 1em;
+		table{
+			&.desktop{
+				display: none;
+				@media (min-width: 768px){
+					display: table;
 				}
-				&.type,&.prix{
+			}
+			&.mobile{
+				@media (min-width: 768px){
+					display: none;
+				}
+			}
+			&.article{
+				tr{
+					border:none;
+					th{
+						padding-left:2em;
+						text-align: left;
+						color: $color-orange;
+					}
+				}
+			}
+			thead{
+				color: $color-orange;
+			}
+			tr{
+				border:1px solid $black;
+				td,th{
+					padding: 1em 0;
+					text-align: center;
+					&.nom{
+						padding-left: 2em;
+						text-align: left;
+					}
+					&.supprimer{
+						text-align: right;
+						padding: 0.5em 1.5em 0.5em 0;
+					}
+				}
+				th.supprimer{
+					padding: 1em 2em 1em 0;
+				}
+				&.total th{
+					color: $color-orange;
 					text-align: center;
 				}
-				&.supprimer{
-					text-align: right;
-					padding: 0.5em 1.5em 0.5em 0;
-				}
-			}
-			th.supprimer{
-				padding: 1em 2em 1em 0;
-			}
-			&.total th{
-				color: $color-orange;
-				text-align: center;
 			}
 		}
 	}
-	.button{
+	.wrapButton{
 		display: flex;
+		flex-direction: column;
 		align-items: center;
-		background-color:$color-blue;
-		border:2px solid $color-blue;
-		color: $white;
-		text-transform: uppercase;
-		font-weight: 700;
-		text-align: center;
-		margin-top: 4em;
-		padding:1em;
-		&:hover{
-			background-color: $white;
-			color:$color-blue;
-			text-decoration: none;
+		//justify-content: center;
+		@media (min-width: 992px){
+			flex-direction: row;
+			justify-content: space-around;
 		}
-		span.icon{
-			margin-right: .2em;
+		.button{
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			background-color:$color-blue;
+			border:2px solid $color-blue;
+			color: $white;
+			text-transform: uppercase;
+			font-weight: 700;
+			text-align: center;
+			margin-top: 4em;
+			padding:1em;
+			&:hover{
+				background-color: $white;
+				color:$color-blue;
+				text-decoration: none;
+			}
+			span.icon{
+				margin-right: .2em;
+			}
 		}
 	}
 }
