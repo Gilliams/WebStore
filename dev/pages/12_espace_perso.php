@@ -32,7 +32,8 @@ include('../templates/header.php');
 					<input type="text" name="ville">
 					<label for="pays">Pays</label>
 					<input type="text" name="pays">
-					<input type="submit" value="Envoyer">
+					<!--<input type="submit" value="Envoyer">-->
+					<button><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span></button>
 				</form>
 			</div>
 		</div>
