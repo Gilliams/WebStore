@@ -10,6 +10,10 @@ main.webstore{
 		margin-bottom: 2em;
 	}
 	.boutique{
+		margin-bottom:1em;
+		@media (min-width: 768px){
+			margin-bottom: 0;
+		}
 		span{
 			display: block;
 			margin-bottom:1em;

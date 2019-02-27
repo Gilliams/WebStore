@@ -18,9 +18,12 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 1.5em;
   padding: 5px 0;
   margin: 1.5em 0; }
+  @media (min-width: 576px) {
+    h1 {
+      font-size: 2em; } }
 
 h2 {
   font-size: 2em;
@@ -1081,8 +1084,13 @@ main.webstore {
       font-weight: 700; }
   main.webstore p {
     margin-bottom: 2em; }
-  main.webstore .boutique span {
-    display: block;
+  main.webstore .boutique {
     margin-bottom: 1em; }
-  main.webstore .boutique p {
-    margin-bottom: 0; }
+    @media (min-width: 768px) {
+      main.webstore .boutique {
+        margin-bottom: 0; } }
+    main.webstore .boutique span {
+      display: block;
+      margin-bottom: 1em; }
+    main.webstore .boutique p {
+      margin-bottom: 0; }
