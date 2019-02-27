@@ -889,7 +889,8 @@ main.accueil {
             align-items: center;
     margin: 20px; }
     main.accueil .slider .article {
-      position: relative; }
+      position: relative;
+      text-align: center; }
       main.accueil .slider .article img {
         max-width: 200px; }
       main.accueil .slider .article .hoverIcons {
@@ -972,20 +973,26 @@ main.panier .button {
 main.recherche {
   padding: 50px; }
   main.recherche div.resultatsRecherche {
-    font-size: 2em;
+    font-size: 1.2em;
     font-weight: 700; }
+    @media (min-width: 992px) {
+      main.recherche div.resultatsRecherche {
+        font-size: 1.5em; } }
   main.recherche .article {
-    position: relative; }
+    position: relative;
+    text-align: center; }
     main.recherche .article img {
       max-width: 200px; }
     main.recherche .article .hoverIcons {
-      display: none; }
-    main.recherche .article:hover .hoverIcons {
-      display: block;
+      display: none;
       position: absolute;
-      background-color: rgba(0, 0, 0, 0.5);
-      color: #f3924c;
-      bottom: 10px; }
+      top: 50%;
+      right: 38%;
+      font-size: 1.5em; }
+      main.recherche .article .hoverIcons a:hover {
+        text-decoration: none; }
+    main.recherche .article:hover .hoverIcons {
+      display: block; }
 
 main.commande {
   /*input[type=checkbox],input[type=radio]{

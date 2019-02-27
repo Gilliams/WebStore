@@ -1,23 +1,31 @@
 main.recherche{
 	padding: 50px;
 	div.resultatsRecherche{
-		font-size: $font-size--L;
+		font-size: $font-size--Smob;
 		font-weight: 700;
+		@media (min-width: 992px){
+			font-size: $font-size--M;
+		}
 	}
 	.article{
 		position: relative;
+		text-align: center;
 		img{
 			max-width: 200px;
 		}
 		.hoverIcons{
 			display: none;
+			position: absolute;
+			top:50%;
+			right: 38%;
+			//background-color: rgba(0,0,0,.5);
+			font-size: $font-size--M;
+			a:hover{
+				text-decoration: none;
+			}
 		}
 		&:hover .hoverIcons{
 			display: block;
-			position: absolute;
-			background-color: rgba(0,0,0,.5);
-			color: #f3924c;
-			bottom: 10px;
 		}
 	}
 }
