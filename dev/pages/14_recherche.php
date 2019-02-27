@@ -3,6 +3,7 @@ include('../templates/header.php');
 ?>
 	<main class="recherche">
 		<div class="container-fluid">
+			<?php include('../templates/breadcrumb.php');?>
 			<div class="row">
 				<div class="resultatsRecherche">Résultats de votre recherche : "Ma recherche"</div>
 			</div>

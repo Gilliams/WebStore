@@ -1,13 +1,8 @@
 <?php include('../templates/header.php'); ?>
     <section class="section-promo">
+        <?php include('../templates/breadcrumb.php');?>
         <div class="row marg-LR">
             <div class="col-lg-6 offset-lg-3 col-10 offset-1 section-promo_contain">
-                <nav id="bread" aria-label="breadcrumb">
-                  <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="3_catalogue_musique.php">Musiques</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Promotions musiques</li>
-                  </ol>
-                </nav>
                 <div class="row align-items-center justify-content-center section-promo_contain-top--item">
                     <h2>promotion électro</h2>
                 </div>

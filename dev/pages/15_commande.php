@@ -3,6 +3,7 @@ include('../templates/header.php');
 ?>
 	<main class="commande">
 		<div class="container-fluid">
+			<?php include('../templates/breadcrumb.php');?>
 			<div class="row justify-content-center">
 				<h1 class="col-6">Récapitulatif de commande</h1>
 			</div>

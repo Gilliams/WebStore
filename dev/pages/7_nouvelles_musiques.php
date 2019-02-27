@@ -1,13 +1,8 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-nouveaute">
+    <?php include('../templates/breadcrumb.php');?>
     <div class="row marg-LR">
         <div class="col-lg-6 offset-lg-3 col-8 offset-2">
-            <nav id="bread" aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="3_catalogue_musique.php">Musiques</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Nouvelles musiques</li>
-              </ol>
-            </nav>
             <div class="row align-items-center justify-content-center section-nouveaute--title">
                 <h2>Nos dernieres musiques ajoutés</h2>
             </div>

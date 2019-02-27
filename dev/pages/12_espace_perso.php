@@ -3,6 +3,7 @@ include('../templates/header.php');
 ?>
 	<main class="espace_perso">
 		<div class="container-fluid">
+			<?php include('../templates/breadcrumb.php');?>
 			<div class="row justify-content-center">
 				<h1 class="col-6">Informations personnelles</h1>
 			</div>
