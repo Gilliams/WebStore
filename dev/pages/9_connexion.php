@@ -4,6 +4,7 @@ include('../templates/header.php');
 	<main class="connexion">
 		<div class="container-fluid">
 			<section class="seConnecter">
+				<?php include('../templates/breadcrumb.php');?>
 				<div class="row justify-content-center">
 					<h1 class="col-6">Se connecter</h1>
 				</div>

@@ -50,7 +50,7 @@
                         <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                     </div>
                     <div class="col-9">
-                        <a href="#" class="btn btn-login">S'inscrire | Se connecter</a>
+                        <a href="../pages/9_connexion.php" class="btn btn-login">S'inscrire | Se connecter</a>
                     </div>
                 </div>
             </div>
@@ -108,11 +108,8 @@
             </div>
         </div>
         <div class="row" id="h-login--mobile">
-            <div class="col-md-6 nav__col ">
-                <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">S'inscrire</li></a>
-            </div>
-            <div class="col-md-6 nav__col ">
-                <a href="../pages/3_catalogue_musique.php"><li class="nav__col--item">Se connecter</li></a>
+            <div class="col-md-12 nav__col ">
+                <a href="../pages/9_connexion.php"><li class="nav__col--item">S'inscrire | Se connecter</li></a>
             </div>
         </div>
     </ul>

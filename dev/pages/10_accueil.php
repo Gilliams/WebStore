@@ -3,6 +3,7 @@ include('../templates/header.php');
 ?>
 	<main class="accueil">
 		<div class="container-fluid">
+			<?php include('../templates/breadcrumb.php');?>
 			<div class="row justify-content-center">
 				<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Nouveautés films</h1>
 				<div class="row slider">

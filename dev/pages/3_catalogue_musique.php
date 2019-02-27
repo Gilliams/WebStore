@@ -1,6 +1,7 @@
 <?php include('../templates/header.php'); ?>
 
 <section class="section-catalogue">
+    <?php include('../templates/breadcrumb.php');?>
     <div class="row marg-LR">
         <div class="col-md-6 offset-md-3 section-catalogue_contain">
             <div class="row align-items-center justify-content-center section-catalogue_contain-top--item">

@@ -1,13 +1,8 @@
 <?php include('../templates/header.php'); ?>
 <section class="section-details">
+    <?php include('../templates/breadcrumb.php');?>
     <div class="row marg-LR">
         <div class="col-lg-6 col-6 offset-3 offset-lg-3 section-catalogue_contain">
-            <nav id="bread" aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="2_catalogue_films.php">Films</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Details films</li>
-              </ol>
-            </nav>
             <div class="row align-items-center justify-content-center section-catalogue_contain-top--item">
                 <h2>Fiche Détaillée</h2>
             </div>
