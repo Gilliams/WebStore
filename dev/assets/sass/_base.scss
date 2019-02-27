@@ -21,6 +21,9 @@ h1{
     @media (min-width: 576px) {
         font-size: $font-size--L;
     }
+    font-size: $font-size--L;
+    padding: 5px 0;
+    margin:1.5em 0;
 }
 h2{
     font-size: $font-size--L;
