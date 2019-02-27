@@ -17,7 +17,7 @@ h1{
     font-weight: 700;
     font-size: $font-size--M;
     padding: 5px 0;
-    margin:1.5em 0;
+    margin-bottom: 1.5em;
     @media (min-width: 576px) {
         font-size: $font-size--L;
     }
