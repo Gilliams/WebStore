@@ -4,10 +4,10 @@ include('../templates/header.php');
 	<main class="contact">
 		<div class="container-fluid">
 			<div class="row justify-content-center">
-				<h1 class="col-6">Formulaire de contact</h1>
+				<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Formulaire de contact</h1>
 			</div>
 			<div class="row justify-content-center">
-				<form class="col-4">
+				<form class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4">
 					<label for="cNom">Votre nom (obligatoire)</label>
 					<input type="text" name="cNom">
 					<label for="cMail">Votre adresse email (obligatoire)</label>
