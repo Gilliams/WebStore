@@ -20,10 +20,7 @@ h1 {
   font-weight: 700;
   font-size: 1.5em;
   padding: 5px 0;
-  margin-bottom: 1.5em;
-  font-size: 2em;
-  padding: 5px 0;
-  margin: 1.5em 0; }
+  margin-bottom: 1.5em; }
   @media (min-width: 576px) {
     h1 {
       font-size: 2em; } }
@@ -1111,20 +1108,49 @@ main.commande {
       width: 7.5px;
       border-radius: 10px;
       margin: 0 auto; }
-  main.commande .button {
-    display: block;
-    background-color: #008ec0;
-    border: 2px solid #008ec0;
-    color: #fff;
-    text-transform: uppercase;
-    font-weight: 700;
-    text-align: center;
-    margin-top: 4em;
-    padding: 1em; }
-    main.commande .button:hover {
-      background-color: #fff;
-      color: #008ec0;
-      text-decoration: none; }
+  main.commande .wrapButton {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    @media (min-width: 992px) {
+      main.commande .wrapButton {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -ms-flex-pack: distribute;
+            justify-content: space-around; } }
+    main.commande .wrapButton .button {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      background-color: #008ec0;
+      border: 2px solid #008ec0;
+      color: #fff;
+      text-transform: uppercase;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 4em;
+      padding: 1em; }
+      main.commande .wrapButton .button:hover {
+        background-color: #fff;
+        color: #008ec0;
+        text-decoration: none; }
+      main.commande .wrapButton .button span.icon {
+        margin-right: .2em; }
 
 main.webstore div {
   text-align: center; }

@@ -5,7 +5,7 @@ include('../templates/header.php');
 		<div class="container-fluid">
 			<?php include('../templates/breadcrumb.php');?>
 			<div class="row justify-content-center">
-				<h1 class="col-6">Récapitulatif de commande</h1>
+				<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Récapitulatif de commande</h1>
 			</div>
 			<div class="row justify-content-center">
 				<table class="col-8">
@@ -40,11 +40,11 @@ include('../templates/header.php');
 				</table>
 			</div>
 			<div class="row justify-content-center">
-				<h1 class="col-6">Paiement de la commande</h1>
+				<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Paiement de la commande</h1>
 			</div>
 			<form>
 				<div class="row justify-content-center">
-					<div class="wrap col-3">
+					<div class="wrap col-12 col-sm-8 col-md-6 col-xl-4">
 						<div class="row justify-content-between">
 							<label>Moyen de paiement :</label>
 							<div>
@@ -75,15 +75,17 @@ include('../templates/header.php');
 					</div>
 				</div>
 				<div class="row justify-content-center">
-					<div class="cgv col-8">
+					<div class="cgv col-12">
 						<input type="checkbox" name="cgv" id="cgv">
 						<label for="cgv"><span><p></p></span>Je reconnais avoir pris connaissance des <a href="">Conditions générales de vente</a> et je les accepte</label>
 					</div>
 				</div>
 			</form>
-			<div class="row col-6 offset-3 justify-content-around">
-				<a href="" class="valider button col-4">Valider la commande</a>
-				<a href="" class="poursuivre button col-4">Poursuivre mes achats</a>
+			<div class="row justify-content-around">
+				<div class="col-12 col-lg-10 col-xl-8 wrapButton">
+					<a href="" class="valider button col-12 col-sm-8 col-md-5"><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span>Valider le paiement</a>
+					<a href="" class="poursuivre button col-12 col-sm-8 col-md-5"><span class="icon icon-Poursuivre"><span class="path1"></span><span class="path2"></span></span>Retourner au panier</a>
+				</div>
 			</div>
 		</div>
 	</main>
