@@ -10,7 +10,7 @@
     </div>
     <div class="row marg-LR align-items-center details">
         <div class="col-lg-2 col-3 offset-1 offset-lg-1">
-            <img src="../assets/imgs/Films/4514291.jpg" alt="">
+            <img src="../assets/imgs/Films/bwHdTmuk1ImqXhrGtX2HPuSabWr.jpg" alt="">
         </div>
         <div class="col-lg-7 col-6 offset-1 offset-lg-1 details-contain">
             <ul>

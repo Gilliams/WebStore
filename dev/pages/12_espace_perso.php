@@ -1,5 +1,5 @@
 <?php
-include('../templates/header.php');
+include('../templates/header_connecte.php');
 ?>
 	<main class="espace_perso">
 		<div class="container-fluid">
@@ -8,7 +8,7 @@ include('../templates/header.php');
 				<h1 class="col-12 col-sm-10 col-md-8 col-lg-6">Informations personnelles</h1>
 			</div>
 			<div class="row justify-content-center">
-				<div class="col-12 bienvenue">Bienvenue [insert name here]</div>
+				<div class="col-12 bienvenue">Bienvenue John!</div>
 				<form class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4">
 					<label for="id">Votre identifiant</label>
 					<input type="text" name="id">

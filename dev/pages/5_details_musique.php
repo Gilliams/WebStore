@@ -10,7 +10,7 @@
     </div>
     <div class="row marg-LR align-items-center details">
         <div class="col-lg-2 col-3 offset-1 offset-lg-1">
-            <img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg" alt="">
+            <img src="../assets/imgs/Musique/drive.jpg" alt="">
         </div>
         <div class="col-lg-7 col-6 offset-1 offset-lg-1 details-contain">
             <ul>
@@ -76,7 +76,7 @@
                     </div>
                 </td>
                 <td>
-                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <span class="icon icon-Play"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 </td>
                 <td>
                     <a href="13_panier.php">
@@ -94,7 +94,7 @@
                     </div>
                 </td>
                 <td>
-                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <span class="icon icon-Play"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 </td>
                 <td>
                     <a href="13_panier.php">
@@ -112,7 +112,7 @@
                     </div>
                 </td>
                 <td>
-                    <span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
+                    <span class="icon icon-Play"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
                 </td>
                 <td>
                     <a href="13_panier.php">

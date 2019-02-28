@@ -16,7 +16,9 @@ include('../templates/header.php');
 						<input type="text" name="mdp">
 						<a href="" class="oubliMdP">Mot de passe oublié?</a>
 						<!--<input type="submit" value="Envoyer">-->
-						<button><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span></button>
+						<a href="10_accueil_connecte" class="button">
+							<span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span>
+						</a>
 					</form>
 				</div>
 			</section>

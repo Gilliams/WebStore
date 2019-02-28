@@ -29,9 +29,7 @@
                     <form action="">
                         <input type="text" placeholder="Rechercher une musique ou un film..." class="input" name="search">
                         <label for="search">
-                            <a href="../pages/14_recherche.php">
-                                <span class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
-                            </a>
+                            <span class="icon-Search"><span class="path1"></span><span class="path2"></span></span>
                         </label>
                     </form>
                 </div>
@@ -52,7 +50,15 @@
                         <span class="icon-User"><span class="path1"></span><span class="path2"></span></span>
                     </div>
                     <div class="col-9">
-                        <a href="../pages/9_connexion.php" class="btn btn-login">S'inscrire | Se connecter</a>
+                        <a href="../pages/12_espace_perso.php" class="btn btn-login">Bienvenue John!</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <span class="icon-Cart"><span class="path1"></span><span class="path2"></span></span>
+                    </div>
+                    <div class="col-9">
+                        <a href="../pages/13_panier.php" class="btn btn-login">Accéder au panier</a>
                     </div>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 <?php
-include('../templates/header.php');
+include('../templates/header_connecte.php');
 ?>
 	<main class="webstore">
 		<div class="container-fluid">

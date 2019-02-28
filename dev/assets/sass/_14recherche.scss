@@ -3,6 +3,7 @@ main.recherche{
 	div.resultatsRecherche{
 		font-size: $font-size--Smob;
 		font-weight: 700;
+		margin-bottom: 1.5em;
 		@media (min-width: 992px){
 			font-size: $font-size--M;
 		}
@@ -10,6 +11,7 @@ main.recherche{
 	.article{
 		position: relative;
 		text-align: center;
+		margin-bottom: 1.5em;
 		img{
 			max-width: 200px;
 		}

@@ -14,6 +14,19 @@ main.connexion, main.contact, main.espace_perso{
 			color: $color-orange;
 			font-weight: 700;
 			//color: black;
+			&.button{
+				float: none;
+				display: block;
+				clear: both;
+				margin:0 auto 1.5em;
+				background-color: transparent;
+				border: none;
+				font-size: $font-size--M;
+				text-align: center;
+				&:hover{
+					text-decoration: none;
+				}
+			}
 		}
 		input[type=submit]{
 			display: block;

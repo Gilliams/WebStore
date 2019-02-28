@@ -18,7 +18,7 @@ header {
     .login{
         font-family: $font-family--text;
         font-size: $font-size--L;
-        .icon-User{
+        .icon-User, .icon-Cart{
             margin-left: 40%;
             .path1:before {
               content: "\e91f";

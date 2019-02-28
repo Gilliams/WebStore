@@ -337,13 +337,13 @@ header .logo {
 header .login {
   font-family: "Libre Franklin", sans-serif;
   font-size: 2em; }
-  header .login .icon-User {
+  header .login .icon-User, header .login .icon-Cart {
     margin-left: 40%; }
-    header .login .icon-User .path1:before {
+    header .login .icon-User .path1:before, header .login .icon-Cart .path1:before {
       content: "\e91f";
       color: #e62d2e;
       font-size: 1.5em; }
-    header .login .icon-User .path2:before {
+    header .login .icon-User .path2:before, header .login .icon-Cart .path2:before {
       content: "\e920";
       color: #fff;
       margin-left: -1em;
@@ -855,6 +855,17 @@ main.connexion form a, main.contact form a, main.espace_perso form a {
   float: right;
   color: #f3a700;
   font-weight: 700; }
+  main.connexion form a.button, main.contact form a.button, main.espace_perso form a.button {
+    float: none;
+    display: block;
+    clear: both;
+    margin: 0 auto 1.5em;
+    background-color: transparent;
+    border: none;
+    font-size: 1.5em;
+    text-align: center; }
+    main.connexion form a.button:hover, main.contact form a.button:hover, main.espace_perso form a.button:hover {
+      text-decoration: none; }
 main.connexion form input[type=submit], main.contact form input[type=submit], main.espace_perso form input[type=submit] {
   display: block;
   clear: both;
@@ -1013,13 +1024,15 @@ main.panier .wrapButton {
 
 main.recherche div.resultatsRecherche {
   font-size: 1.2em;
-  font-weight: 700; }
+  font-weight: 700;
+  margin-bottom: 1.5em; }
   @media (min-width: 992px) {
     main.recherche div.resultatsRecherche {
       font-size: 1.5em; } }
 main.recherche .article {
   position: relative;
-  text-align: center; }
+  text-align: center;
+  margin-bottom: 1.5em; }
   main.recherche .article img {
     max-width: 200px; }
   main.recherche .article .hoverIcons {
