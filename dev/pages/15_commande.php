@@ -84,7 +84,7 @@ include('../templates/header.php');
 			<div class="row justify-content-around">
 				<div class="col-12 col-lg-10 col-xl-8 wrapButton">
 					<a href="" class="valider button col-12 col-sm-8 col-md-5"><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span>Valider le paiement</a>
-					<a href="" class="poursuivre button col-12 col-sm-8 col-md-5"><span class="icon icon-Poursuivre"><span class="path1"></span><span class="path2"></span></span>Retourner au panier</a>
+					<a href="13_panier.php" class="poursuivre button col-12 col-sm-8 col-md-5"><span class="icon icon-Poursuivre"><span class="path1"></span><span class="path2"></span></span>Retourner au panier</a>
 				</div>
 			</div>
 		</div>

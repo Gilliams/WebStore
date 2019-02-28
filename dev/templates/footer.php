@@ -31,7 +31,7 @@
                 <div class="row col-center__row-middle">
                     <ul>
                         <li class="col-center__row-middle--item mb-3"><a href="#" class="footer__col-center__row-top--item">Déjà inscrit?</a></li>
-                        <li class="col-center__row-middle--item"><a href="#">Se connecter</a></li>
+                        <li class="col-center__row-middle--item"><a href="9_connexion.php">Se connecter</a></li>
                         <li class="col-center__row-middle--item"><a href="13_panier.php">Accéder au panier</a></li>
                     </ul>
                 </div>

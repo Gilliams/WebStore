@@ -14,14 +14,14 @@ include('../templates/header.php');
 				<div class="article col-12 col-sm-6 col-md-4 col-lg-3">
 					<img src="../assets/imgs/Films/bwHdTmuk1ImqXhrGtX2HPuSabWr.jpg">
 					<div class="hoverIcons">
-						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href="4_details_films.php"><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
 						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 				<div class="article col-12 col-sm-6 col-md-4 col-lg-3">
 					<img src="../assets/imgs/Films/086055.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg">
 					<div class="hoverIcons">
-						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href="4_details_films.php"><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
 						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
@@ -33,21 +33,21 @@ include('../templates/header.php');
 				<div class="article col-12 col-sm-6 col-md-4 col-lg-3">
 					<img src="../assets/imgs/Musique/drive.jpg">
 					<div class="hoverIcons">
-						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href="5_details_musique.php"><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
 						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 				<div class="article col-12 col-sm-6 col-md-4 col-lg-3">
 					<img src="../assets/imgs/Musique/leon-la-bande-originale-01.jpg">
 					<div class="hoverIcons">
-						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href="5_details_musique.php"><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
 						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 					</div>
 				</div>
 				<div class="article col-12 col-sm-6 col-md-4 col-lg-3">
 					<img src="../assets/imgs/Musique/ob_5ff67e_52128820.jpg">
 					<div class="hoverIcons">
-						<a href=""><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
+						<a href="5_details_musique.php"><span class="icon icon-Details"><span class="path1"></span><span class="path2"></span></span></a>
 						<a href=""><span class="icon icon-Addtocart"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 				</div>
 			</div>

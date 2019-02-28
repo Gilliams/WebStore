@@ -13,8 +13,9 @@
             .item{
                 z-index: 2;
                 img{
-                    width: 300px;
-                    height: 300px;
+                    max-width: 250px;
+                    //width: 300px;
+                    //height: 300px;
                 }
                 .contain-icons{
                     display: none;

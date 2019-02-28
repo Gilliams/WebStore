@@ -117,8 +117,8 @@ include('../templates/header.php');
 			</div>
 			<div class="row justify-content-around">
 				<div class="col-12 col-lg-10 col-xl-8 wrapButton">
-					<a href="" class="valider button col-12 col-sm-8 col-md-5"><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span>Valider la commande</a>
-					<a href="" class="poursuivre button col-12 col-sm-8 col-md-5"><span class="icon icon-Poursuivre"><span class="path1"></span><span class="path2"></span></span>Poursuivre mes achats</a>
+					<a href="15_commande.php" class="valider button col-12 col-sm-8 col-md-5"><span class="icon icon-Valid"><span class="path1"></span><span class="path2"></span></span>Valider la commande</a>
+					<a href="10_accueil.php" class="poursuivre button col-12 col-sm-8 col-md-5"><span class="icon icon-Poursuivre"><span class="path1"></span><span class="path2"></span></span>Poursuivre mes achats</a>
 				</div>
 			</div>
 		</div>

@@ -631,7 +631,8 @@ footer {
   width: 300px;
   height: 400px;
   background: url("../imgs/Films/4812.jpg");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  background-size: cover; }
   .section-promo_contain-bottom--item-img-film:hover a {
     display: block;
     text-decoration: none;
@@ -647,7 +648,8 @@ footer {
   width: 300px;
   height: 300px;
   background: url("../imgs/Musique/61PhFJZu+ZL._SX355_.jpg");
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  background-size: cover; }
   .section-promo_contain-bottom--item-img-music:hover a {
     display: block;
     text-decoration: none;
@@ -828,8 +830,7 @@ footer {
   .section-nouveaute_contain .contain .item {
     z-index: 2; }
     .section-nouveaute_contain .contain .item img {
-      width: 300px;
-      height: 300px; }
+      max-width: 250px; }
     .section-nouveaute_contain .contain .item .contain-icons {
       display: none;
       position: absolute;
